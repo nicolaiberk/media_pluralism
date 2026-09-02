@@ -1,5 +1,6 @@
 # Mapping Media Pluralism from Web Archives
 
+Guidelines for Collaboration in this Repository under [`collaboration_guide.md`](collaboration_guide.md).
 
 ## Project description
 
