@@ -34,7 +34,7 @@ One row per country × year × list × brand:
 | `outlet_id` | Stable ID you assign, same across years/lists/spellings | `che_20min` |
 | `domain` | Registered domain of the brand's news website **at that time**, | `20min.ch` |
 | `notes` | Anything odd: representativity issues, rebrands, domain changes, regional editions | |
-| `source` | Report year + page / URL of country page | |
+| `source` | DNR report + page where information was found | DNR 2023, p. 111 |
 
 ## Domain research
 
