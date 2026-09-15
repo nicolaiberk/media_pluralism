@@ -1,0 +1,240 @@
+outlet_id	domain	year	brand_type	verdict	tier	artefact_url	http_status	title	matched_keyword	article_urls	shared_domain	checked_on	human_checked	human_verdict	human_note
+che_20min_de	20min.ch	2016	outlet	shared	A3	https://web.archive.org/web/20160629230930id_/http://www.20min.ch/	200	20 Minuten - News von jetzt!	minuten		yes	2026-09-14			
+che_20min_de	20min.ch	2017	outlet	shared	A3	https://web.archive.org/web/20170701133618id_/http://www.20min.ch/	200	20 Minuten - News von jetzt!	minuten		yes	2026-09-14			
+che_20min_de	20min.ch	2018	outlet	shared		https://web.archive.org/web/20180701000000id_/http://20min.ch/	403				yes	2026-09-14			
+che_20min_de	20min.ch	2019	outlet	shared		https://web.archive.org/web/20190630194157id_/https://www.20min.ch/	200			0	yes	2026-09-14			
+che_20min_de	20min.ch	2020	outlet	shared	A3	https://web.archive.org/web/20200630024836id_/https://www.20min.ch/	200	20 Minuten - Front	minuten	0	yes	2026-09-14			
+che_20min_de	20min.ch	2021	outlet	shared	A3	https://web.archive.org/web/20210701052843id_/https://www.20min.ch/	200	20 Minuten: News von Jetzt | Aktuelles, Schlagzeilen & mehr	minuten		yes	2026-09-14			
+che_20min_de	20min.ch	2022	outlet	shared	A3	https://web.archive.org/web/20220701002437id_/http://www.20min.ch/	200	20 Minuten: News von Jetzt | Aktuelles, Schlagzeilen & mehr	minuten		yes	2026-09-14			
+che_20min_de	20min.ch	2023	outlet	shared	A3	https://web.archive.org/web/20230701000410id_/http://www.20min.ch/	200	20 Minuten: News & Nachrichten aus der Schweiz | Aktuelles & Schlagzeilen	minuten	0	yes	2026-09-14			
+che_20min_de	20min.ch	2024	outlet	shared	A3	https://web.archive.org/web/20240630234432id_/https://www.20min.ch/	200	20 Minuten: News & Nachrichten aus der Schweiz | Aktuelles & Schlagzeilen	minuten		yes	2026-09-14			
+che_20min_de	20min.ch	2025	outlet	shared	A3	https://web.archive.org/web/20250630235930id_/https://www.20min.ch/	200	20 Minuten: Aktuelle Nachrichten, Schlagzeilen - News von Jetzt	minuten	300	yes	2026-09-14			
+che_20min_de	20min.ch	2026	outlet	shared		https://web.archive.org/web/20260630184227id_/https://www.20min.ch/	200				yes	2026-09-14			
+che_20min_fr	20min.ch	2016	outlet	shared	A3	https://web.archive.org/web/20160629230930id_/http://www.20min.ch/	200	20 Minuten - News von jetzt!	20min	0	yes	2026-09-14			
+che_20min_fr	20min.ch	2017	outlet	shared	A3	https://web.archive.org/web/20170701133618id_/http://www.20min.ch/	200	20 Minuten - News von jetzt!	20min		yes	2026-09-14			
+che_20min_fr	20min.ch	2018	outlet	shared		https://web.archive.org/web/20180701000000id_/http://20min.ch/	403				yes	2026-09-14			
+che_20min_fr	20min.ch	2019	outlet	shared		https://web.archive.org/web/20190630194157id_/https://www.20min.ch/	200				yes	2026-09-14			
+che_20min_fr	20min.ch	2020	outlet	shared	A3	https://web.archive.org/web/20200630024836id_/https://www.20min.ch/	200	20 Minuten - Front	20min		yes	2026-09-14			
+che_20min_fr	20min.ch	2021	outlet	shared	A3	https://web.archive.org/web/20210701052843id_/https://www.20min.ch/	200	20 Minuten: News von Jetzt | Aktuelles, Schlagzeilen & mehr	20min		yes	2026-09-14			
+che_20min_fr	20min.ch	2022	outlet	shared	A3	https://web.archive.org/web/20220701002437id_/http://www.20min.ch/	200	20 Minuten: News von Jetzt | Aktuelles, Schlagzeilen & mehr	20min	0	yes	2026-09-14			
+che_20min_fr	20min.ch	2023	outlet	shared	A3	https://web.archive.org/web/20230701000410id_/http://www.20min.ch/	200	20 Minuten: News & Nachrichten aus der Schweiz | Aktuelles & Schlagzeilen	20min		yes	2026-09-14			
+che_20min_fr	20min.ch	2024	outlet	shared	A3	https://web.archive.org/web/20240630234432id_/https://www.20min.ch/	200	20 Minuten: News & Nachrichten aus der Schweiz | Aktuelles & Schlagzeilen	20min		yes	2026-09-14			
+che_20min_fr	20min.ch	2025	outlet	shared	A3	https://web.archive.org/web/20250630235930id_/https://www.20min.ch/	200	20 Minuten: Aktuelle Nachrichten, Schlagzeilen - News von Jetzt	20min	300	yes	2026-09-14			
+che_20min_fr	20min.ch	2026	outlet	shared		https://web.archive.org/web/20260630184227id_/https://www.20min.ch/	200			0	yes	2026-09-14			
+che_24heures	24heures.ch	2016	outlet	A3	A3	https://web.archive.org/web/20160629191335id_/http://www.24heures.ch/	200	24 heures, l'actualité en direct, en photos et vidéos : politique, sports, people, culture, économie, multimédia	24heures	300	no	2026-09-14			
+che_24heures	24heures.ch	2017	outlet	A3	A3	https://web.archive.org/web/20170630214501id_/http://www.24heures.ch/	200	24 heures, l'actualité en direct, en photos et vidéos : politique, sports, people, culture, économie, multimédia	24heures	300	no	2026-09-14			
+che_24heures	24heures.ch	2019	outlet	A3-noarticles	A3	https://web.archive.org/web/20190630235906id_/https://www.24heures.ch/	200	24 heures, l'actualité en direct, en photos et vidéos : politique, sports, people, culture, économie, multimédia	24heures	0	no	2026-09-14			
+che_24heures	24heures.ch	2020	outlet	A3-noarticles	A3	https://web.archive.org/web/20200630184054id_/https://www.24heures.ch/	200	24 heures | l’actualité du canton de Vaud, de la Suisse et du monde	24heures	0	no	2026-09-14			
+che_24heures	24heures.ch	2022	outlet	A3	A3	https://web.archive.org/web/20220701002304id_/http://www.24heures.ch/	200	24 heures | l’actualité du canton de Vaud, de la Suisse et du monde	24heures	300	no	2026-09-14			
+che_24heures	24heures.ch	2025	outlet	A3	A3	https://web.archive.org/web/20250701021154id_/https://www.24heures.ch/	200	24 heures | l’actualité du canton de Vaud, de la Suisse et du monde	24heures	300	no	2026-09-14			
+che_arcinfo	arcinfo.ch	2021	outlet	A3	A3	https://web.archive.org/web/20210622085131id_/https://www.arcinfo.ch/	200	Arcinfo.ch - Actualités des cantons de Neuchâtel et du Jura, Nationales et Internationales	arcinfo	300	no	2026-09-14			
+che_arcinfo	arcinfo.ch	2022	outlet	A3	A3	https://web.archive.org/web/20220701000729id_/https://www.arcinfo.ch/	200	ArcInfo	arcinfo	203	no	2026-09-14			
+che_blick	blick.ch	2016	outlet	shared	A3	https://web.archive.org/web/20160630204548id_/http://www.blick.ch/	200	Nachrichten aus der Schweiz und aller Welt - Blick	blick		yes	2026-09-14			
+che_blick	blick.ch	2017	outlet	shared	A3	https://web.archive.org/web/20170630072027id_/https://www.blick.ch/	200	Nachrichten aus der Schweiz und aller Welt - Blick	blick	0	yes	2026-09-14			
+che_blick	blick.ch	2018	outlet	shared	A3	https://web.archive.org/web/20180701020254id_/http://www.blick.ch/	200	Nachrichten aus der Schweiz und aller Welt - Blick	blick		yes	2026-09-14			
+che_blick	blick.ch	2019	outlet	shared	A3	https://web.archive.org/web/20190630232116id_/https://www.blick.ch/	200	BLICK: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt	blick	300	yes	2026-09-14			
+che_blick	blick.ch	2020	outlet	shared	A3	https://web.archive.org/web/20200630185613id_/https://www.blick.ch/	200	BLICK: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt	blick	300	yes	2026-09-14			
+che_blick	blick.ch	2021	outlet	shared	A3	https://web.archive.org/web/20210630224224id_/https://www.blick.ch/	200	Blick: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt	blick		yes	2026-09-14			
+che_blick	blick.ch	2022	outlet	shared	A3	https://web.archive.org/web/20220701002904id_/https://www.blick.ch/	200	Blick: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt	blick		yes	2026-09-14			
+che_blick	blick.ch	2023	outlet	shared	A3	https://web.archive.org/web/20230703024813id_/https://www.blick.ch/	200	Blick: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt	blick		yes	2026-09-14			
+che_blick	blick.ch	2025	outlet	shared	A3	https://web.archive.org/web/20250701023732id_/https://www.blick.ch/	200	Blick: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt	blick	0	yes	2026-09-14			
+che_blickamabend	blickamabend.ch	2017	outlet	A3	A3	https://web.archive.org/web/20170630181702id_/https://www.blickamabend.ch/	200	Nachrichten, die wirklich unterhalten - Blick am Abend	blickamabend	300	no	2026-09-14			
+che_bluenews	bluewin.ch	2017	aggregator	A3	A3	https://web.archive.org/web/20170630220005id_/https://www.bluewin.ch/de/index.html	200	Bluewin | Top News online, Sport, Unterhaltung & Online TV	bluewin	300	no	2026-09-14			
+che_bluenews	bluewin.ch	2018	aggregator	A3	A3	https://web.archive.org/web/20180630083420id_/https://www.bluewin.ch/de/index.html	200	Bluewin - Home	bluewin	300	no	2026-09-14			
+che_lematin	lematin.ch	2016	outlet	shared	A3	https://web.archive.org/web/20160629212030id_/http://www.lematin.ch/	200	Le Matin, l'actualité en direct: sports, people, politique, économie, multimédia	lematin	300	yes	2026-09-14			
+che_lematin	lematin.ch	2017	outlet	shared	A3	https://web.archive.org/web/20170701132114id_/http://www.lematin.ch/	200	Le Matin, l'actualité en direct: Suisse, sports, people, faits divers, politique, économie, techno, auto	lematin	300	yes	2026-09-14			
+che_lematin	lematin.ch	2020	outlet	shared	A3	https://web.archive.org/web/20200630183848id_/https://www.lematin.ch/	200	Le Matin, l'actualité en direct: Suisse, sports, people, faits divers, politique, économie, techno, auto	lematin		yes	2026-09-14			
+che_lematin	lematin.ch	2023	outlet	shared	A3	https://web.archive.org/web/20230630235304id_/http://www.lematin.ch/	200	Le Matin: toute l'actualité en Suisse et dans le monde	lematin		yes	2026-09-14			
+che_lematin	lematin.ch	2026	outlet	shared		https://web.archive.org/web/20260701043139id_/https://www.lematin.ch/	200			300	yes	2026-09-14			
+che_lematindimanche	lematin.ch	2019	outlet	shared	A3	https://web.archive.org/web/20190701000423id_/https://www.lematin.ch/	200	Le Matin, l'actualité en direct: Suisse, sports, people, faits divers, politique, économie, techno, auto	matin	300	yes	2026-09-14			
+che_lematindimanche	lematin.ch	2022	outlet	shared		https://web.archive.org/web/20220701000000id_/http://lematin.ch/	500			300	yes	2026-09-14			
+che_lematindimanche	lematin.ch	2025	outlet	shared	A3	https://web.archive.org/web/20250701002453id_/https://www.lematin.ch/	200	Le Matin: toute l'actualité en Suisse et dans le monde	matin		yes	2026-09-14			
+che_letemps	letemps.ch	2022	outlet	A3	A3	https://web.archive.org/web/20220701003020id_/https://www.letemps.ch/	200	Site suisse d'information - Le Temps	letemps	300	no	2026-09-14			
+che_nau	nau.ch	2020	outlet	A3	A3	https://web.archive.org/web/20200629174122id_/https://www.nau.ch/	200	News für die Schweiz - Nau.ch	nau	300	no	2026-09-14			
+che_nau	nau.ch	2024	outlet	A3	A3	https://web.archive.org/web/20240630231708id_/https://www.nau.ch/	200	News für die Schweiz - Nau.ch	nau	300	no	2026-09-14			
+che_nau	nau.ch	2026	outlet	A3	A3	https://web.archive.org/web/20260703171051id_/https://www.nau.ch/	200		(body) nau	300	no	2026-09-14			
+che_nouvelliste	lenouvelliste.ch	2020	outlet	A3	A3	https://web.archive.org/web/20200701121832id_/https://www.lenouvelliste.ch/	200	Le Nouvelliste - Actualités du Valais, Nationales et Internationales	lenouvelliste	300	no	2026-09-14			
+che_nouvelliste	lenouvelliste.ch	2023	outlet	A3	A3	https://web.archive.org/web/20230630235450id_/http://www.lenouvelliste.ch/	200	Le Nouvelliste | Site d'informations régionales valaisannes, sportive, suisse et internationale	lenouvelliste	166	no	2026-09-14			
+che_nzz	nzz.ch	2023	outlet	A3	A3	https://web.archive.org/web/20230630234912id_/https://www.nzz.ch/	200	NZZ – Neue Zürcher Zeitung | Aktuelle News, Hintergründe & mehr	zurcher	300	no	2026-09-14			
+che_rts	rts.ch	2020	outlet	A3	A3	https://web.archive.org/web/20200630173717id_/https://www.rts.ch/	200	Radio Télévision Suisse - rts.ch	rts	300	no	2026-09-14			
+che_rts	rts.ch	2021	outlet	A3	A3	https://web.archive.org/web/20210630234004id_/https://www.rts.ch/	200	Radio Télévision Suisse - rts.ch	rts	300	no	2026-09-14			
+che_rts	rts.ch	2024	outlet	A3	A3	https://web.archive.org/web/20240701025341id_/https://www.rts.ch/	200	Radio Télévision Suisse - rts.ch	rts	300	no	2026-09-14			
+che_sonntagsblick	blick.ch	2019	outlet	shared		https://web.archive.org/web/20190630232116id_/https://www.blick.ch/	200	BLICK: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt			yes	2026-09-14			
+che_sonntagsblick	blick.ch	2022	outlet	shared		https://web.archive.org/web/20220701002904id_/https://www.blick.ch/	200	Blick: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt			yes	2026-09-14			
+che_srf	srf.ch	2020	outlet	A3	A3	https://web.archive.org/web/20200701004447id_/https://www.srf.ch/	200	Schweizer Radio und Fernsehen (SRF)	srf	300	no	2026-09-14			
+che_srf	srf.ch	2021	outlet	A3	A3	https://web.archive.org/web/20210630213059id_/https://www.srf.ch/	200	Schweizer Radio und Fernsehen (SRF)	srf	300	no	2026-09-14			
+che_srf	srf.ch	2022	outlet	A3	A3	https://web.archive.org/web/20220701000553id_/https://www.srf.ch/	200	Schweizer Radio und Fernsehen (SRF)	srf	300	no	2026-09-14			
+che_tagesanzeiger	tagesanzeiger.ch	2025	outlet	A3	A3	https://web.archive.org/web/20250701001806id_/https://www.tagesanzeiger.ch/	200	Tages-Anzeiger | Aktuelle Nachrichten und Hintergründe.	tagesanzeiger	300	no	2026-09-14			
+che_tdg	tdg.ch	2017	outlet	A3	A3	https://web.archive.org/web/20170701020530id_/http://www.tdg.ch/	200	Tribune de Genève, l'actualité en direct, en photos et vidéos : politique, sports, people, culture, économie, média	tribune	300	no	2026-09-14			
+che_teletext	teletext.ch	2017	aggregator	A3	A3	https://web.archive.org/web/20170701024717id_/http://www.teletext.ch/	200	teletext.ch -  SRF1 100	teletext	166	no	2026-09-14			
+che_teletext	teletext.ch	2018	aggregator	A3	A3	https://web.archive.org/web/20180629180903id_/http://www.teletext.ch/	200	teletext.ch -  SRF1 100	teletext	132	no	2026-09-14			
+che_teletext	teletext.ch	2022	aggregator	A3	A3	https://web.archive.org/web/20220702231727id_/https://www.teletext.ch/	200	teletext.ch -  SRF1 100	teletext	160	no	2026-09-14			
+che_teletext	teletext.ch	2024	aggregator	A3	A3	https://web.archive.org/web/20240702093843id_/https://www.teletext.ch/	200	teletext.ch -  SRF1 100	teletext	25	no	2026-09-14			
+che_teletext	teletext.ch	2026	aggregator	A3-noarticles	A3	https://web.archive.org/web/20260626095213id_/https://www.teletext.ch/	200	TELETEXT	teletext	0	no	2026-09-14			
+che_watson	watson.ch	2017	outlet	A3	A3	https://web.archive.org/web/20170701033409id_/http://www.watson.ch/	200	watson – news anders sehen	watson	300	no	2026-09-14			
+che_watson	watson.ch	2018	outlet	A3	A3	https://web.archive.org/web/20180702065927id_/https://www.watson.ch/	200	watson – News ohne Bla Bla	watson	300	no	2026-09-14			
+che_watson	watson.ch	2023	outlet	A3	A3	https://web.archive.org/web/20230701000029id_/https://www.watson.ch/	200	watson – News ohne Bla Bla	watson	300	no	2026-09-14			
+che_watson	watson.ch	2024	outlet	A3	A3	https://web.archive.org/web/20240701001334id_/https://www.watson.ch/	200	watson - News ohne Bla Bla	watson	300	no	2026-09-14			
+deu_gmx	gmx.ch	2017	aggregator	A3	A3	https://web.archive.org/web/20170630205735id_/https://www.gmx.ch/	200	GMX: E-Mail, FreeMail & Nachrichten	gmx	300	no	2026-09-14			
+deu_gmx	gmx.ch	2021	aggregator	A3	A3	https://web.archive.org/web/20210630233147id_/https://www.gmx.ch/	200	GMX: E-Mail, FreeMail & Nachrichten	gmx	300	no	2026-09-14			
+usa_cnn	cnn.com	2021	foreign	A3-noarticles	A3	https://web.archive.org/web/20210701001345id_/https://www.cnn.com/	200	CNN - Breaking News, Latest News and Videos	cnn	0	no	2026-09-14			
+usa_yahoo	yahoo.com	2018	aggregator	A3-noarticles	A3	https://web.archive.org/web/20180701000125id_/https://www.yahoo.com/	200	Yahoo	yahoo	0	no	2026-09-14			
+usa_yahoo	yahoo.com	2020	aggregator	A3-noarticles	A3	https://web.archive.org/web/20200701000037id_/https://www.yahoo.com/	200	Yahoo	yahoo	0	no	2026-09-14			
+che_24heures	24heures.ch	2018	outlet	A3	A3	https://web.archive.org/web/20180701011702id_/https://www.24heures.ch/	200	24 heures, l'actualité en direct, en photos et vidéos : politique, sports, people, culture, économie, multimédia	24heures	300	no	2026-09-15			
+che_24heures	24heures.ch	2021	outlet	A3-arts?	A3	https://web.archive.org/web/20210630141109id_/https://www.24heures.ch/	200	24 heures | l’actualité du canton de Vaud, de la Suisse et du monde	24heures		no	2026-09-15			
+che_24heures	24heures.ch	2023	outlet	A3-noarticles	A3	https://web.archive.org/web/20230630235050id_/http://www.24heures.ch/	200	24 heures | l’actualité du canton de Vaud, de la Suisse et du monde	24heures	0	no	2026-09-15			
+che_24heures	24heures.ch	2024	outlet	A3-arts?	A3	https://web.archive.org/web/20240702005221id_/https://www.24heures.ch/	200	24 heures | l’actualité du canton de Vaud, de la Suisse et du monde	24heures		no	2026-09-15			
+che_24heures	24heures.ch	2026	outlet	no-title		https://web.archive.org/web/20260630081802id_/https://www.24heures.ch/	200				no	2026-09-15			
+che_blick	blick.ch	2024	outlet	shared	A3	https://web.archive.org/web/20240630124019id_/https://www.blick.ch/	200	Blick: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt	blick		yes	2026-09-15			
+che_blick	blick.ch	2026	outlet	shared	A3	https://web.archive.org/web/20260630223914id_/https://www.blick.ch/	200	Blick: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt	blick	300	yes	2026-09-15			
+che_bluenews	bluewin.ch	2016	aggregator	A3	A3	https://web.archive.org/web/20160702192239id_/https://www.bluewin.ch/de/index.html	200	Bluewin | Top News online, Sport, Unterhaltung & Online TV	bluewin	300	no	2026-09-15			
+che_bluenews	bluewin.ch	2019	aggregator	A3	A3	https://web.archive.org/web/20190630232356id_/https://www.bluewin.ch/de/index.html	200	Bluewin | Home	bluewin	300	no	2026-09-15			
+che_bluenews	bluewin.ch	2020	aggregator	A3	A3	https://web.archive.org/web/20200630154850id_/https://www.bluewin.ch/de/index.html	200	Bluewin | Home	bluewin	300	no	2026-09-15			
+che_bluenews	bluewin.ch	2021	aggregator	A3	A3	https://web.archive.org/web/20210630233150id_/https://www.bluewin.ch/de/index.html	200	blue News | Home	bluenews	300	no	2026-09-15			
+che_bluenews	bluewin.ch	2022	aggregator	A3	A3	https://web.archive.org/web/20220701035133id_/https://www.bluewin.ch/de/index.html	200	blue News - Aktuelle News, bester Sport und Entertainment	bluenews	300	no	2026-09-15			
+che_bluenews	bluewin.ch	2023	aggregator	A3	A3	https://web.archive.org/web/20230701091147id_/https://www.bluewin.ch/de/index.html	200	blue News | Bluewin E-Mail | Schlagzeilen, Politik, Sport, People	bluenews	300	no	2026-09-15			
+che_bluenews	bluewin.ch	2024	aggregator	A3	A3	https://web.archive.org/web/20240630204640id_/https://www.bluewin.ch/de/index.html	200	blue News | bluewin E-Mail | News, Politik, Sport, People	bluenews	300	no	2026-09-15			
+che_bluenews	bluewin.ch	2025	aggregator	no-title		https://web.archive.org/web/20250701133116id_/https://www.bluewin.ch/de/index.html	200			300	no	2026-09-15			
+che_bluenews	bluewin.ch	2026	aggregator	A3	A3	https://web.archive.org/web/20260630184542id_/https://www.bluewin.ch/de	200	News & E-Mail bei blue News | Schweiz, Sport, People, Ausland	bluenews	300	no	2026-09-15			
+che_laliberte	laliberte.ch	2020	outlet	A3	A3	https://web.archive.org/web/20200701044934id_/https://www.laliberte.ch/	200	La Liberté - Quotidien romand édité à Fribourg	laliberte	300	no	2026-09-15			
+che_laliberte	laliberte.ch	2021	outlet	A3	A3	https://web.archive.org/web/20210702075705id_/https://www.laliberte.ch/	200	La Liberté - Quotidien romand édité à Fribourg	laliberte	300	no	2026-09-15			
+che_lematin	lematin.ch	2018	outlet	shared	A3	https://web.archive.org/web/20180701004705id_/https://www.lematin.ch/	200	Le Matin, l'actualité en direct: Suisse, sports, people, faits divers, politique, économie, techno, auto	lematin	300	yes	2026-09-15			
+che_lematin	lematin.ch	2019	outlet	shared	A3	https://web.archive.org/web/20190701000423id_/https://www.lematin.ch/	200	Le Matin, l'actualité en direct: Suisse, sports, people, faits divers, politique, économie, techno, auto	lematin	300	yes	2026-09-15			
+che_lematin	lematin.ch	2021	outlet	shared	A3	https://web.archive.org/web/20210630143419id_/https://www.lematin.ch/	200	Le Matin: toute l'actualité en Suisse romande et dans le monde	lematin		yes	2026-09-15			
+che_lematin	lematin.ch	2022	outlet	shared	A3	https://web.archive.org/web/20220630233000id_/http://www.lematin.ch/	200	Le Matin: toute l'actualité en Suisse et dans le monde	lematin	300	yes	2026-09-15			
+che_lematin	lematin.ch	2024	outlet	shared	A3	https://web.archive.org/web/20240701000006id_/https://www.lematin.ch/	200	Le Matin: toute l'actualité en Suisse et dans le monde	lematin	300	yes	2026-09-15			
+che_lematin	lematin.ch	2025	outlet	shared	A3	https://web.archive.org/web/20250701002453id_/https://www.lematin.ch/	200	Le Matin: toute l'actualité en Suisse et dans le monde	lematin	300	yes	2026-09-15			
+che_lematindimanche	lematin.ch	2020	outlet	shared	A3	https://web.archive.org/web/20200630183848id_/https://www.lematin.ch/	200	Le Matin, l'actualité en direct: Suisse, sports, people, faits divers, politique, économie, techno, auto	matin	300	yes	2026-09-15			
+che_lematindimanche	lematin.ch	2021	outlet	shared	A3	https://web.archive.org/web/20210630143419id_/https://www.lematin.ch/	200	Le Matin: toute l'actualité en Suisse romande et dans le monde	matin	300	yes	2026-09-15			
+che_lematindimanche	lematin.ch	2023	outlet	shared	A3	https://web.archive.org/web/20230630235304id_/http://www.lematin.ch/	200	Le Matin: toute l'actualité en Suisse et dans le monde	matin		yes	2026-09-15			
+che_lematindimanche	lematin.ch	2024	outlet	shared	A3	https://web.archive.org/web/20240701000006id_/https://www.lematin.ch/	200	Le Matin: toute l'actualité en Suisse et dans le monde	matin	300	yes	2026-09-15			
+che_lematindimanche	lematin.ch	2026	outlet	shared		https://web.archive.org/web/20260701043139id_/https://www.lematin.ch/	200			300	yes	2026-09-15			
+che_letemps	letemps.ch	2018	outlet	A3	A3	https://web.archive.org/web/20180706163432id_/https://www.letemps.ch/	200	Site suisse d'information - Le Temps	letemps	300	no	2026-09-15			
+che_letemps	letemps.ch	2019	outlet	A3	A3	https://web.archive.org/web/20190630192835id_/https://www.letemps.ch/	200	Site suisse d'information - Le Temps	letemps	300	no	2026-09-15			
+che_letemps	letemps.ch	2020	outlet	A3	A3	https://web.archive.org/web/20200701080617id_/https://www.letemps.ch/	200	Site suisse d'information - Le Temps	letemps	300	no	2026-09-15			
+che_letemps	letemps.ch	2021	outlet	A3	A3	https://web.archive.org/web/20210701034137id_/https://www.letemps.ch/	200	Site suisse d'information - Le Temps	letemps	300	no	2026-09-15			
+che_letemps	letemps.ch	2023	outlet	A3	A3	https://web.archive.org/web/20230630235308id_/http://www.letemps.ch/	200	Le Temps	letemps	300	no	2026-09-15			
+che_letemps	letemps.ch	2024	outlet	A3	A3	https://web.archive.org/web/20240701003739id_/https://www.letemps.ch/	200	Le Temps	letemps	300	no	2026-09-15			
+che_letemps	letemps.ch	2025	outlet	A3	A3	https://web.archive.org/web/20250701001727id_/https://www.letemps.ch/	200	Le Temps: actualités et informations en Suisse et dans le Monde	letemps	300	no	2026-09-15			
+che_letemps	letemps.ch	2026	outlet	no-title		https://web.archive.org/web/20260701011354id_/https://www.letemps.ch/	200			300	no	2026-09-15			
+che_luzernerzeitung	luzernerzeitung.ch	2020	outlet	A3	A3	https://web.archive.org/web/20200702024836id_/https://www.luzernerzeitung.ch/	200	Luzerner Zeitung | Aktuelle Nachrichten	luzernerzeitung	300	no	2026-09-15			
+che_nau	nau.ch	2021	outlet	no-title		https://web.archive.org/web/20210630131746id_/https://www.nau.ch/	200			300	no	2026-09-15			
+che_nau	nau.ch	2022	outlet	A3	A3	https://web.archive.org/web/20220701001206id_/https://www.nau.ch/	200	News für die Schweiz - Nau.ch	nau	300	no	2026-09-15			
+che_nau	nau.ch	2023	outlet	A3	A3	https://web.archive.org/web/20230701000013id_/https://www.nau.ch/	200	News für die Schweiz - Nau.ch	nau	300	no	2026-09-15			
+che_nau	nau.ch	2025	outlet	A3	A3	https://web.archive.org/web/20250701000218id_/https://www.nau.ch/	200	News für die Schweiz - Nau.ch	nau	300	no	2026-09-15			
+che_nouvelliste	lenouvelliste.ch	2017	outlet	A3	A3	https://web.archive.org/web/20170703191930id_/http://www.lenouvelliste.ch/	200	Le Nouvelliste - Actualités du Valais, Nationales et Internationales	lenouvelliste	300	no	2026-09-15			
+che_nouvelliste	lenouvelliste.ch	2018	outlet	A3	A3	https://web.archive.org/web/20180712184714id_/https://www.lenouvelliste.ch/	200	Le Nouvelliste - Actualités du Valais, Nationales et Internationales	lenouvelliste	300	no	2026-09-15			
+che_nouvelliste	lenouvelliste.ch	2019	outlet	no-title		https://web.archive.org/web/20190630211335id_/https://www.lenouvelliste.ch/	200			300	no	2026-09-15			
+che_nouvelliste	lenouvelliste.ch	2021	outlet	A3	A3	https://web.archive.org/web/20210629091126id_/https://www.lenouvelliste.ch/	200	Le Nouvelliste - Actualités du Valais, Nationales et Internationales	lenouvelliste	300	no	2026-09-15			
+che_nouvelliste	lenouvelliste.ch	2022	outlet	A3	A3	https://web.archive.org/web/20220630232042id_/http://www.lenouvelliste.ch/	200	Le Nouvelliste	lenouvelliste	300	no	2026-09-15			
+che_nouvelliste	lenouvelliste.ch	2024	outlet	A3	A3	https://web.archive.org/web/20240701001342id_/https://www.lenouvelliste.ch/	200	Le Nouvelliste | Site d'informations régionales valaisannes, sportive, suisse et internationale	lenouvelliste	300	no	2026-09-15			
+che_nouvelliste	lenouvelliste.ch	2026	outlet	no-title		https://web.archive.org/web/20260624215506id_/https://www.lenouvelliste.ch/	200			300	no	2026-09-15			
+che_nzz	nzz.ch	2016	outlet	A3-arts?	A3	https://web.archive.org/web/20160630191022id_/http://www.nzz.ch/	200	NZZ Startseite	nzz		no	2026-09-15			
+che_nzz	nzz.ch	2017	outlet	A3-arts?	A3	https://web.archive.org/web/20170701020546id_/https://www.nzz.ch/	200	NZZ News – Aktuelle Nachrichten - Neue Zürcher Zeitung	zeitung		no	2026-09-15			
+che_nzz	nzz.ch	2018	outlet	A3	A3	https://web.archive.org/web/20180701182935id_/https://www.nzz.ch/	200	NZZ News – Aktuelle Nachrichten - Neue Zürcher Zeitung	zeitung	300	no	2026-09-15			
+che_nzz	nzz.ch	2019	outlet	A3-arts?	A3	https://web.archive.org/web/20190701045436id_/https://www.nzz.ch/	200	NZZ News – Aktuelle Nachrichten – Neue Zürcher Zeitung	zeitung		no	2026-09-15			
+che_nzz	nzz.ch	2020	outlet	A3-arts?	A3	https://web.archive.org/web/20200630225752id_/https://www.nzz.ch/	200	NZZ – Neue Zürcher Zeitung | Aktuelle News, Hintergründe & mehr	zeitung		no	2026-09-15			
+che_nzz	nzz.ch	2021	outlet	A3-arts?	A3	https://web.archive.org/web/20210701010707id_/https://www.nzz.ch/	200	NZZ – Neue Zürcher Zeitung | Aktuelle News, Hintergründe & mehr	zeitung		no	2026-09-15			
+che_nzz	nzz.ch	2022	outlet	A3	A3	https://web.archive.org/web/20220701000136id_/https://www.nzz.ch/	200	NZZ – Neue Zürcher Zeitung | Aktuelle News, Hintergründe & mehr	zeitung	300	no	2026-09-15			
+che_nzz	nzz.ch	2024	outlet	A3-arts?	A3	https://web.archive.org/web/20240701010412id_/https://www.nzz.ch/	200	NZZ – Neue Zürcher Zeitung | Aktuelle News, Hintergründe & mehr	zeitung		no	2026-09-15			
+che_nzz	nzz.ch	2025	outlet	A3-arts?	A3	https://web.archive.org/web/20250701014110id_/https://www.nzz.ch/deutschland	200	NZZ Deutschland | Aktuelle News, Hintergründe & mehr	nzz		no	2026-09-15			
+che_nzz	nzz.ch	2026	outlet	no-title		https://web.archive.org/web/20260630190822id_/https://www.nzz.ch/	200			300	no	2026-09-15			
+che_rts	rts.ch	2016	outlet	A3	A3	https://web.archive.org/web/20160629211651id_/http://www.rts.ch/	200	rts.ch - Radio Télévision Suisse	rts	300	no	2026-09-15			
+che_rts	rts.ch	2017	outlet	A3	A3	https://web.archive.org/web/20170701112716id_/http://www.rts.ch/	200	rts.ch - Radio Télévision Suisse	rts	300	no	2026-09-15			
+che_rts	rts.ch	2018	outlet	A3	A3	https://web.archive.org/web/20180630071535id_/http://www.rts.ch/	200	Radio Télévision Suisse - rts.ch	rts	300	no	2026-09-15			
+che_rts	rts.ch	2019	outlet	no-title		https://web.archive.org/web/20190630233157id_/https://www.rts.ch/	200			300	no	2026-09-15			
+che_rts	rts.ch	2022	outlet	A3	A3	https://web.archive.org/web/20220701000150id_/https://www.rts.ch/	200	Radio Télévision Suisse - rts.ch	rts	300	no	2026-09-15			
+che_rts	rts.ch	2023	outlet	A3	A3	https://web.archive.org/web/20230701002829id_/https://www.rts.ch/	200	Radio Télévision Suisse - rts.ch	rts	300	no	2026-09-15			
+che_rts	rts.ch	2025	outlet	A3	A3	https://web.archive.org/web/20250630234044id_/https://www.rts.ch/	200	Radio Télévision Suisse - rts.ch	rts	300	no	2026-09-15			
+che_rts	rts.ch	2026	outlet	A3-arts?	A3	https://web.archive.org/web/20260701002240id_/https://www.rts.ch/	200		(body) rts		no	2026-09-15			
+che_sonntagsblick	blick.ch	2020	outlet	shared		https://web.archive.org/web/20200630185613id_/https://www.blick.ch/	200	BLICK: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt		300	yes	2026-09-15			
+che_sonntagsblick	blick.ch	2026	outlet	shared		https://web.archive.org/web/20260630223914id_/https://www.blick.ch/	200	Blick: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt		300	yes	2026-09-15			
+che_sonntagszeitung	sonntagszeitung.ch	2018	outlet	A3	A3	https://web.archive.org/web/20180627133002id_/https://www.tagesanzeiger.ch/sonntagszeitung/	200	News SonntagsZeitung - tagesanzeiger.ch	sonntagszeitung	300	no	2026-09-15			
+che_sonntagszeitung	sonntagszeitung.ch	2019	outlet	needs-human		https://web.archive.org/web/20190701011908id_/https://epaper.sonntagszeitung.ch/	200	Einen Moment bitte, die Ausgabe wird geladen...		300	no	2026-09-15			
+che_sonntagszeitung	sonntagszeitung.ch	2021	outlet	needs-human		https://web.archive.org/web/20210630054023id_/https://epaper.sonntagszeitung.ch/	200	Einen Moment bitte, die Ausgabe wird geladen...		300	no	2026-09-15			
+che_sonntagszeitung	sonntagszeitung.ch	2023	outlet	no-title		https://web.archive.org/web/20230705022218id_/https://epaper.sonntagszeitung.ch/	200			300	no	2026-09-15			
+che_sonntagszeitung	sonntagszeitung.ch	2024	outlet	needs-human		https://web.archive.org/web/20240702024853id_/https://epaper.sonntagszeitung.ch/	200	Einen Moment bitte, die Ausgabe wird geladen...		300	no	2026-09-15			
+che_sonntagszeitung	sonntagszeitung.ch	2025	outlet	needs-human		https://web.archive.org/web/20250708223145id_/https://epaper.sonntagszeitung.ch/	200	Einen Moment bitte, die Ausgabe wird geladen...		300	no	2026-09-15			
+che_sonntagszeitung	sonntagszeitung.ch	2026	outlet	no-title		https://web.archive.org/web/20260702194436id_/https://epaper.sonntagszeitung.ch/	200			300	no	2026-09-15			
+che_srf	srf.ch	2016	outlet	A3	A3	https://web.archive.org/web/20160630220843id_/http://www.srf.ch/	200	Schweizer Radio und Fernsehen (SRF)	srf	300	no	2026-09-15			
+che_srf	srf.ch	2017	outlet	A3	A3	https://web.archive.org/web/20170630232520id_/http://www.srf.ch/	200	Schweizer Radio und Fernsehen (SRF)	srf	300	no	2026-09-15			
+che_srf	srf.ch	2018	outlet	A3	A3	https://web.archive.org/web/20180630205217id_/https://www.srf.ch/	200	Schweizer Radio und Fernsehen (SRF)	srf	300	no	2026-09-15			
+che_srf	srf.ch	2019	outlet	no-title		https://web.archive.org/web/20190630233205id_/https://www.srf.ch/	200			300	no	2026-09-15			
+che_srf	srf.ch	2023	outlet	A3	A3	https://web.archive.org/web/20230701000221id_/https://www.srf.ch/	200	Schweizer Radio und Fernsehen (SRF)	srf	300	no	2026-09-15			
+che_srf	srf.ch	2024	outlet	A3	A3	https://web.archive.org/web/20240701001811id_/https://www.srf.ch/	200	Schweizer Radio und Fernsehen (SRF)	srf	300	no	2026-09-15			
+che_srf	srf.ch	2025	outlet	A3	A3	https://web.archive.org/web/20250701001209id_/https://www.srf.ch/	200	Schweizer Radio und Fernsehen (SRF)	srf	300	no	2026-09-15			
+che_srf	srf.ch	2026	outlet	no-title		https://web.archive.org/web/20260630191651id_/https://www.srf.ch/	200			300	no	2026-09-15			
+che_tagesanzeiger	tagesanzeiger.ch	2016	outlet	A3	A3	https://web.archive.org/web/20160630023054id_/http://www.tagesanzeiger.ch/	200	tagesanzeiger.ch: Nichts verpassen	tagesanzeiger	300	no	2026-09-15			
+che_tagesanzeiger	tagesanzeiger.ch	2017	outlet	A3	A3	https://web.archive.org/web/20170701013712id_/http://www.tagesanzeiger.ch/	200	tagesanzeiger.ch: Nichts verpassen	tagesanzeiger	300	no	2026-09-15			
+che_tagesanzeiger	tagesanzeiger.ch	2018	outlet	A3-arts?	A3	https://web.archive.org/web/20180701092253id_/https://www.tagesanzeiger.ch/	200	tagesanzeiger.ch: Nichts verpassen	tagesanzeiger		no	2026-09-15			
+che_tagesanzeiger	tagesanzeiger.ch	2019	outlet	A3-arts?	A3	https://web.archive.org/web/20190701024548id_/https://www.tagesanzeiger.ch/	200	tagesanzeiger.ch: Nichts verpassen	tagesanzeiger		no	2026-09-15			
+che_tagesanzeiger	tagesanzeiger.ch	2020	outlet	A3	A3	https://web.archive.org/web/20200701004526id_/https://www.tagesanzeiger.ch/	200	Tages-Anzeiger | Du bist, was du liest. Die Schweizer Zeitung.	tagesanzeiger	300	no	2026-09-15			
+che_tagesanzeiger	tagesanzeiger.ch	2021	outlet	A3-arts?	A3	https://web.archive.org/web/20210630204631id_/https://www.tagesanzeiger.ch/	200	Tages-Anzeiger | Du bist, was du liest. Die Schweizer Zeitung.	tagesanzeiger		no	2026-09-15			
+che_tagesanzeiger	tagesanzeiger.ch	2022	outlet	A3-arts?	A3	https://web.archive.org/web/20220701001057id_/https://www.tagesanzeiger.ch/	200	Tages-Anzeiger | Aktuelle Nachrichten und Hintergründe.	tagesanzeiger		no	2026-09-15			
+che_tagesanzeiger	tagesanzeiger.ch	2023	outlet	A3-arts?	A3	https://web.archive.org/web/20230630235726id_/http://www.tagesanzeiger.ch/	200	Tages-Anzeiger | Aktuelle Nachrichten und Hintergründe.	tagesanzeiger		no	2026-09-15			
+che_tagesanzeiger	tagesanzeiger.ch	2024	outlet	A3-arts?	A3	https://web.archive.org/web/20240701155156id_/https://www.tagesanzeiger.ch/	200	Tages-Anzeiger | Aktuelle Nachrichten und Hintergründe.	tagesanzeiger		no	2026-09-15			
+che_tagesanzeiger	tagesanzeiger.ch	2026	outlet	no-title		https://web.archive.org/web/20260703080654id_/https://www.tagesanzeiger.ch/	200				no	2026-09-15			
+che_tdg	tdg.ch	2016	outlet	A3-arts?	A3	https://web.archive.org/web/20160706111455id_/http://www.tdg.ch/	200	Tribune de Genève, l'actualité en direct, en photos et vidéos : politique, sports, people, culture, économie, média	tribune		no	2026-09-15			
+che_tdg	tdg.ch	2018	outlet	A3-arts?	A3	https://web.archive.org/web/20180702002209id_/https://www.tdg.ch/	200	Tribune de Genève, l'actualité en direct, en photos et vidéos : politique, sports, people, culture, économie, média	tribune		no	2026-09-15			
+che_tdg	tdg.ch	2019	outlet	A3	A3	https://web.archive.org/web/20190630235908id_/https://www.tdg.ch/	200	Tribune de Genève, l'actualité en direct, en photos et vidéos : politique, sports, people, culture, économie, média	tribune	300	no	2026-09-15			
+che_tdg	tdg.ch	2020	outlet	A3-arts?	A3	https://web.archive.org/web/20200701015756id_/https://www.tdg.ch/	200	Tribune de Genève | l’actualité de Genève, de la Suisse et du monde	tribune		no	2026-09-15			
+che_tdg	tdg.ch	2021	outlet	A3	A3	https://web.archive.org/web/20210701033830id_/https://www.tdg.ch/	200	Tribune de Genève | l’actualité de Genève, de la Suisse et du monde	tribune	300	no	2026-09-15			
+che_tdg	tdg.ch	2022	outlet	A3-arts?	A3	https://web.archive.org/web/20220701004113id_/http://www.tdg.ch/	200	Tribune de Genève | l’actualité de Genève, de la Suisse et du monde	tribune		no	2026-09-15			
+che_tdg	tdg.ch	2023	outlet	A3	A3	https://web.archive.org/web/20230630235034id_/http://www.tdg.ch/	200	Tribune de Genève | l’actualité de Genève, de la Suisse et du monde	tribune	300	no	2026-09-15			
+che_tdg	tdg.ch	2024	outlet	no-title		https://web.archive.org/web/20240630153850id_/https://www.tdg.ch/	200			300	no	2026-09-15			
+che_tdg	tdg.ch	2025	outlet	A3-arts?	A3	https://web.archive.org/web/20250701015525id_/https://www.tdg.ch/	200	Tribune de Genève | l’actualité de Genève, de la Suisse et du monde	tribune		no	2026-09-15			
+che_tdg	tdg.ch	2026	outlet	no-title		https://web.archive.org/web/20260702041755id_/https://www.tdg.ch/	200				no	2026-09-15			
+che_teletext	teletext.ch	2016	aggregator	A3	A3	https://web.archive.org/web/20160630174615id_/http://www.teletext.ch/	200	teletext.ch -  SRF1 100	teletext	51	no	2026-09-15			
+che_teletext	teletext.ch	2019	aggregator	A3	A3	https://web.archive.org/web/20190629091648id_/http://www.teletext.ch/	200	teletext.ch -  SRF1 100	teletext	300	no	2026-09-15			
+che_teletext	teletext.ch	2020	aggregator	A3	A3	https://web.archive.org/web/20200628093807id_/http://www.teletext.ch/	200	teletext.ch -  RTSUn 100	teletext	118	no	2026-09-15			
+che_teletext	teletext.ch	2021	aggregator	A3	A3	https://web.archive.org/web/20210621101402id_/https://www.teletext.ch/	200	teletext.ch -  SRF1 100	teletext	17	no	2026-09-15			
+che_teletext	teletext.ch	2023	aggregator	A3	A3	https://web.archive.org/web/20230706233450id_/https://www.teletext.ch/	200	teletext.ch -  SRF1 100	teletext	74	no	2026-09-15			
+che_teletext	teletext.ch	2025	aggregator	no-page		https://web.archive.org/web/20250701000000id_/http://teletext.ch/	404			75	no	2026-09-15			
+che_watson	watson.ch	2019	outlet	A3	A3	https://web.archive.org/web/20190701045420id_/https://www.watson.ch/	200	watson – News ohne Bla Bla	watson	300	no	2026-09-15			
+che_watson	watson.ch	2020	outlet	A3-arts?	A3	https://web.archive.org/web/20200702233447id_/https://www.watson.ch/	200	watson – News ohne Bla Bla	watson		no	2026-09-15			
+che_watson	watson.ch	2021	outlet	A3	A3	https://web.archive.org/web/20210630141212id_/https://www.watson.ch/	200	watson – News ohne Bla Bla	watson	300	no	2026-09-15			
+che_watson	watson.ch	2022	outlet	A3-arts?	A3	https://web.archive.org/web/20220701001853id_/https://www.watson.ch/	200	watson – News ohne Bla Bla	watson		no	2026-09-15			
+che_watson	watson.ch	2025	outlet	A3	A3	https://web.archive.org/web/20250630234852id_/https://www.watson.ch/	200	watson - News, aber deep	watson	300	no	2026-09-15			
+che_watson	watson.ch	2026	outlet	no-title		https://web.archive.org/web/20260709115510id_/https://www.watson.ch/	200			300	no	2026-09-15			
+deu_gmx	gmx.ch	2018	aggregator	A3	A3	https://web.archive.org/web/20180629130454id_/https://www.gmx.ch/	200	GMX: E-Mail, FreeMail & Nachrichten	gmx	300	no	2026-09-15			
+deu_gmx	gmx.ch	2019	aggregator	A3	A3	https://web.archive.org/web/20190630232416id_/https://www.gmx.ch/	200	GMX: E-Mail, FreeMail & Nachrichten	gmx	300	no	2026-09-15			
+deu_gmx	gmx.ch	2020	aggregator	A3-arts?	A3	https://web.archive.org/web/20200630170647id_/https://www.gmx.ch/	200	GMX: E-Mail, FreeMail & Nachrichten	gmx		no	2026-09-15			
+deu_gmx	gmx.ch	2022	aggregator	A3-arts?	A3	https://web.archive.org/web/20220630234724id_/https://www.gmx.ch/	200	GMX: E-Mail, FreeMail & Nachrichten	gmx		no	2026-09-15			
+deu_gmx	gmx.ch	2023	aggregator	no-title		https://web.archive.org/web/20230701090922id_/https://www.gmx.ch/	200			300	no	2026-09-15			
+deu_gmx	gmx.ch	2024	aggregator	no-title		https://web.archive.org/web/20240701001723id_/https://www.gmx.ch/	200				no	2026-09-15			
+deu_gmx	gmx.ch	2025	aggregator	no-title		https://web.archive.org/web/20250701150746id_/https://www.gmx.ch/	200			300	no	2026-09-15			
+deu_gmx	gmx.ch	2026	aggregator	A3	A3	https://web.archive.org/web/20260625121517id_/https://www.gmx.ch/	200	GMX - kostenlose E-Mail, Cloud, Nachrichten & Freemail	gmx	300	no	2026-09-15			
+deu_spiegel	spiegel.de	2018	foreign	A3-arts?	A3	https://web.archive.org/web/20180630214936id_/http://www.spiegel.de/	200	SPIEGEL ONLINE - Aktuelle Nachrichten	spiegel		no	2026-09-15			
+fra_lemonde	lemonde.fr	2018	foreign	A3-arts?	A3	https://web.archive.org/web/20180630211612id_/https://www.lemonde.fr/	200	Le Monde.fr - Actualités et Infos en France et dans le monde	lemonde		no	2026-09-15			
+fra_lemonde	lemonde.fr	2019	foreign	A3-arts?	A3	https://web.archive.org/web/20190630225722id_/https://www.lemonde.fr/	200	Le Monde.fr - Actualités et Infos en France et dans le monde	lemonde		no	2026-09-15			
+fra_lemonde	lemonde.fr	2020	foreign	A3-arts?	A3	https://web.archive.org/web/20200630232357id_/https://www.lemonde.fr/	200	Le Monde.fr - Actualités et Infos en France et dans le monde	lemonde		no	2026-09-15			
+gbr_bbc	bbc.co.uk	2018	foreign	A3-arts?	A3	https://web.archive.org/web/20180701023913id_/https://www.bbc.co.uk/	200	BBC - Home	bbc		no	2026-09-15			
+gbr_bbc	bbc.co.uk	2021	foreign	A3-arts?	A3	https://web.archive.org/web/20210701000844id_/https://www.bbc.co.uk/	200	BBC - Home	bbc		no	2026-09-15			
+gbr_bbc	bbc.co.uk	2022	foreign	A3-arts?	A3	https://web.archive.org/web/20220701000053id_/https://www.bbc.co.uk/	200	BBC - Home	bbc		no	2026-09-15			
+gbr_bbc	bbc.co.uk	2023	foreign	A3-arts?	A3	https://web.archive.org/web/20230630235711id_/http://www.bbc.co.uk/	200	BBC - Home	bbc		no	2026-09-15			
+gbr_bbc	bbc.co.uk	2024	foreign	no-title		https://web.archive.org/web/20240701000558id_/https://www.bbc.co.uk/	200				no	2026-09-15			
+gbr_bbc	bbc.co.uk	2025	foreign	A3-arts?	A3	https://web.archive.org/web/20250630235253id_/https://www.bbc.co.uk/	200	BBC - Home	bbc		no	2026-09-15			
+gbr_bbc	bbc.co.uk	2026	foreign	no-title		https://web.archive.org/web/20260630211835id_/https://www.bbc.co.uk/	200				no	2026-09-15			
+usa_cnn	cnn.com	2018	foreign	A3-arts?	A3	https://web.archive.org/web/20180701010029id_/https://www.cnn.com/	200	CNN - Breaking News, Latest News and Videos	cnn		no	2026-09-15			
+usa_cnn	cnn.com	2019	foreign	A3-arts?	A3	https://web.archive.org/web/20190701000410id_/https://www.cnn.com/	200	CNN - Breaking News, Latest News and Videos	cnn		no	2026-09-15			
+usa_cnn	cnn.com	2020	foreign	no-title		https://web.archive.org/web/20200630235640id_/https://www.cnn.com/	200				no	2026-09-15			
+usa_cnn	cnn.com	2022	foreign	A3-arts?	A3	https://web.archive.org/web/20220701000100id_/https://edition.cnn.com/	200	CNN International - Breaking News, US News, World News and Video	cnn		no	2026-09-15			
+usa_cnn	cnn.com	2024	foreign	A3-arts?	A3	https://web.archive.org/web/20240630235503id_/https://edition.cnn.com/	200	Breaking News, Latest News and Videos | CNN	cnn		no	2026-09-15			
+usa_cnn	cnn.com	2025	foreign	A3-arts?	A3	https://web.archive.org/web/20250630235449id_/https://edition.cnn.com/	200	Breaking News, Latest News and Videos | CNN	cnn		no	2026-09-15			
+usa_cnn	cnn.com	2026	foreign	A3-arts?	A3	https://web.archive.org/web/20260701010617id_/https://edition.cnn.com/	200	Breaking News, Latest News and Videos | CNN	cnn		no	2026-09-15			
+usa_msn	msn.com	2017	aggregator	A3-arts?	A3	https://web.archive.org/web/20170701000103id_/http://www.msn.com/	200	MSN.com - Hotmail, Outlook, Skype, Bing, Latest News, Photos & Videos	msn		no	2026-09-15			
+usa_msn	msn.com	2018	aggregator	A3-arts?	A3	https://web.archive.org/web/20180701000223id_/http://www.msn.com/	200	MSN | Outlook, Office, Skype, Bing, Breaking News, and Latest Videos	msn		no	2026-09-15			
+usa_msn	msn.com	2019	aggregator	A3-noarticles	A3	https://web.archive.org/web/20190701000306id_/https://www.msn.com/en-nz/	200	MSN New Zealand | latest news, Hotmail, Outlook, photos and Videos	msn	0	no	2026-09-15			
+usa_msn	msn.com	2020	aggregator	A3-arts?	A3	https://web.archive.org/web/20200701000006id_/http://www.msn.com/	200	MSN | Outlook, Office, Skype, Bing, Breaking News, and Latest Videos	msn		no	2026-09-15			
+usa_msn	msn.com	2021	aggregator	A3-arts?	A3	https://web.archive.org/web/20210630234728id_/http://www.msn.com/	200	MSN | Outlook, Office, Skype, Bing, Breaking News, and Latest Videos	msn		no	2026-09-15			
+usa_msn	msn.com	2023	aggregator	A3-arts?	A3	https://web.archive.org/web/20230701000050id_/https://www.msn.com/fi-fi	200	MSN	msn		no	2026-09-15			
+usa_msn	msn.com	2024	aggregator	A3-arts?	A3	https://web.archive.org/web/20240630235419id_/https://www.msn.com/	200	MSN	msn		no	2026-09-15			
+usa_msn	msn.com	2025	aggregator	A3-arts?	A3	https://web.archive.org/web/20250701000802id_/https://www.msn.com/fi-fi	200	MSN	msn		no	2026-09-15			
+usa_yahoo	yahoo.com	2016	aggregator	A3-arts?	A3	https://web.archive.org/web/20160701000157id_/https://www.yahoo.com/	200	Yahoo	yahoo		no	2026-09-15			
+usa_yahoo	yahoo.com	2017	aggregator	A3-arts?	A3	https://web.archive.org/web/20170701000008id_/https://www.yahoo.com/	200	Yahoo	yahoo		no	2026-09-15			
+usa_yahoo	yahoo.com	2019	aggregator	A3-arts?	A3	https://web.archive.org/web/20190630235940id_/https://www.yahoo.com/	200	Yahoo	yahoo		no	2026-09-15			
+usa_yahoo	yahoo.com	2021	aggregator	A3-arts?	A3	https://web.archive.org/web/20210630234302id_/https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_97357b92-ef68-4274-812e-11922feb4a61	200	Yahoo on nyt osa Verizon Mediaa	yahoo		no	2026-09-15			
+usa_yahoo	yahoo.com	2023	aggregator	no-page		https://web.archive.org/web/20230701000000id_/http://yahoo.com/	500				no	2026-09-15			
+usa_yahoo	yahoo.com	2024	aggregator	A3-arts?	A3	https://web.archive.org/web/20240630235714id_/https://de.yahoo.com/?p=us	200	Yahoo | Mail, Wetter, Suche, Nachrichten, Finanzen, Sport & mehr	yahoo		no	2026-09-15			
+usa_yahoo	yahoo.com	2025	aggregator	A3-arts?	A3	https://web.archive.org/web/20250701000509id_/https://ca.yahoo.com/?p=us	200	Yahoo | Mail, Weather, Search, News, Finance, Sports, Shopping, Entertainment, Video	yahoo		no	2026-09-15			
+usa_yahoo	yahoo.com	2026	aggregator	A3-arts?	A3	https://web.archive.org/web/20260701004049id_/https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_9876e373-cb39-4f36-9211-4f5e2da7c85a	200	Jouw privacykeuzes	(body) yahoo		no	2026-09-15			

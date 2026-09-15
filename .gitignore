@@ -1,0 +1,24 @@
+# Source reports downloaded from the Reuters Institute.
+# Local working copies only — regenerate with dnr_pdfs/README.md. Never commit (~165 MB).
+dnr_pdfs/*.pdf
+
+# Extracted text / intermediate files
+*.txt.tmp
+
+# Credentials
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
