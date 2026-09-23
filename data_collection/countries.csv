@@ -1,0 +1,29 @@
+country,iso3,vdem_regime_2016_2025,inclusion_rule,dnr_first_year_approx
+Austria,AUT,3333333333,democracy_all_years,2015
+Belgium,BEL,3333333333,democracy_all_years,2016
+Bulgaria,BGR,2222222222,democracy_all_years,2017
+Canada,CAN,3333232222,democracy_all_years,2016
+Croatia,HRV,2222222222,democracy_all_years,2017
+Czechia,CZE,3333223333,democracy_all_years,2015
+Denmark,DNK,3333333333,democracy_all_years,2012
+Finland,FIN,3333333333,democracy_all_years,2014
+France,FRA,3333333333,democracy_all_years,2012
+Germany,DEU,3333333333,democracy_all_years,2012
+Greece,GRC,3333222222,democracy_all_years,2016
+Hungary,HUN,2211111111,democracy_some_years,2016
+Ireland,IRL,3333333333,democracy_all_years,2015
+Italy,ITA,3333333333,democracy_all_years,2013
+Mexico,MEX,2222222211,democracy_some_years,2017
+Netherlands,NLD,3333333333,democracy_all_years,2014
+Norway,NOR,3333333333,democracy_all_years,2016
+Poland,POL,2222222222,democracy_all_years,2015
+Portugal,PRT,3333333222,democracy_all_years,2015
+Romania,ROU,2222222222,democracy_all_years,2017
+Serbia,SRB,1111111111,dnr_market_added_manually,2022
+Slovakia,SVK,3332333222,democracy_all_years,2017
+Spain,ESP,3333333333,democracy_all_years,2014
+Sweden,SWE,3333333333,democracy_all_years,2016
+Switzerland,CHE,3333333333,democracy_all_years,2016
+Turkey,TUR,1111111111,dnr_market_added_manually,2016
+United Kingdom,GBR,3333333322,democracy_all_years,2012
+United States,USA,3333333332,democracy_all_years,2012
