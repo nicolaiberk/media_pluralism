@@ -9,17 +9,20 @@ Include all countries from Europe and North America which are covered in a given
 
 ## Task
 
-For **each country × each DNR year** in scope, open the country page of that year's DNR and record the **"Top brands" lists**. Note:
+The "Top brands" lists of the DNR country pages have already been transcribed into `data_collection/outlet_urls/outlets_<year>.csv` (one file per DNR year, e.g. `outlets_2016.csv`). For **each country × each DNR year** in scope, open the country page of that year's DNR and:
 
-- The DNR reports **two lists**: *offline* brands (TV, radio, print combined — there is no print-only list) and *online* brands. Record **both lists, all brands shown** (usually ~12–16 per list, i.e. more than 10 — record everything printed, we filter later).
+1. **Check the transcribed rows** against the country page: all brands present, percentages correct, brand names as printed, sensible `outlet_id` merges of offline/online variants. Fix errors directly in the CSV and mention them in `notes`.
+2. **Add the domains** (see "Domain research" below). The `domain` column is pre-filled only where the printed brand name is itself a domain.
+3. **Mark your progress** in `data_collection/data_checks/checks_dnr_<year>.csv`. Each file has one row per country (or language market, e.g. "Switzerland (german)") and market type (`print` = the offline "TV, radio and print" list, `digital` = the online list). Put `x` in `checked_content` once the content check is complete and `x` in `added_domain` once all domains for that row are added. Update as you go — this is how we see what is done.
+
+Note:
+
+- The DNR reports **two lists**: *offline* brands (TV, radio, print combined — there is no print-only list) and *online* brands. Both lists are recorded with **all brands shown** (usually ~12–16 per list, i.e. more than 10 — everything printed, we filter later).
 - The DNR figure is **weekly reach in %** ("used in the last week"), not market share.
+- Some countries (e.g. Switzerland) have several lists. These are recorded as separate markets in the `submarket` column.
+- Samples for some markets (e.g. Turkey) are **urban/online-representative only** — any such sample caveat from the country page belongs in `notes`.
 
-Notes:
-
-- Some countries (e.g. Switzerland) might have a several lists. Record these as separate markets in the `submarket` column.
-- Samples for some markets (e.g. Turkey) are **urban/online-representative only** — copy any such sample caveat from the country page into `notes`.
-
-## Output table (`outlets_dnr.csv`)
+## Output table (`outlets_<year>.csv`)
 
 One row per country × year × list × brand:
 
@@ -31,7 +34,7 @@ One row per country × year × list × brand:
 | `list_type` | `online` or `offline` | `online` |
 | `brand` | Brand name exactly as printed in the DNR | `20 Minuten` |
 | `weekly_reach_pct` | Weekly reach in % as printed | `28` |
-| `outlet_id` | Stable ID you assign, same across years/lists/spellings | `che_20min` |
+| `outlet_id` | Stable ID, same across years/lists/spellings | `che_20min` |
 | `domain` | Registered domain of the brand's news website **at that time**, | `20min.ch` |
 | `notes` | Anything odd: representativity issues, rebrands, domain changes, regional editions | |
 | `source` | DNR report + page where information was found | DNR 2023, p. 111 |
