@@ -24,10 +24,6 @@ A curated table, one row per outlet × country, maintained as versioned CSV/YAML
 
 **Primary: CC-NEWS** (Aug 2016 →). CC-NEWS has **no URL index** — retrieval requires a full scan: iterate WARC files from `s3://commoncrawl/crawl-data/CC-NEWS/`, stream-parse record headers, and keep records whose target URI host matches the registry domains. Because one scan costs the same regardless of how many domains we match, **scan once against the union domain list of all target countries** (not just the pilot) and store matched raw records partitioned by country — downstream stages then process Switzerland first without ever rescanning.
 
-**Secondary: CC-MAIN** (2013 →, for pre-2016 and gap-filling). CC-MAIN *does* have a columnar index (**cc-index parquet, queryable via AWS Athena / DuckDB**): query by domain to locate records, then fetch only the matching byte ranges from S3. Assess per-outlet coverage before committing. *Note: the index does not make CC-MAIN a substitute for CC-NEWS — CC-MAIN samples pages per domain under crawl budgets (homepage-skewed, capture often long after publication), while CC-NEWS polls RSS/sitemaps daily and systematically captures articles near publication. CC-MAIN's role is gap-filling (outlets without feeds, CC-NEWS dropouts, pre-2016).*
-
-**Fallback: Internet Archive CDX API** per domain, for outlets/periods with poor CC coverage. Log provenance (`source_corpus`, `crawl_id`) on every record.
-
 **Compute**: see Infrastructure section below. Jobs are embarrassingly parallel over WARC files; a monthly CC-NEWS slice is independent, so backfill and incremental updates use the same job.
 
 ## Stage 2 — Extraction & cleaning
