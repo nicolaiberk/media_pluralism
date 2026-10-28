@@ -1,0 +1,929 @@
+country,submarket,year,list_type,brand,weekly_reach_pct,outlet_id,domain,notes,source,use_3days_pct
+GBR,,2021,offline,BBC News (TV & radio),57,gbr_bbc,,,"DNR 2021, p. 63",46
+GBR,,2021,offline,ITV News,31,gbr_itv,,,"DNR 2021, p. 63",18
+GBR,,2021,offline,Sky News,21,gbr_sky,,,"DNR 2021, p. 63",13
+GBR,,2021,offline,Channel 4 News,11,gbr_channel_4,,,"DNR 2021, p. 63",5
+GBR,,2021,offline,Daily Mail/Mail on Sunday,7,gbr_daily_mail,,,"DNR 2021, p. 63",4
+GBR,,2021,offline,Regional or local newspaper,6,gbr_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 63",2
+GBR,,2021,offline,Commercial radio news,6,gbr_commercial_radio,,"generic category, not a single outlet","DNR 2021, p. 63",4
+GBR,,2021,offline,CNN,6,gbr_cnn,,,"DNR 2021, p. 63",3
+GBR,,2021,offline,Sun/Sun on Sunday,5,gbr_sun,,,"DNR 2021, p. 63",3
+GBR,,2021,offline,Guardian/Observer,4,gbr_guardian,,,"DNR 2021, p. 63",2
+GBR,,2021,offline,The Times/Sunday Times,4,gbr_times,,,"DNR 2021, p. 63",2
+GBR,,2021,offline,Metro,3,gbr_metro,,,"DNR 2021, p. 63",
+GBR,,2021,offline,Channel 5 News,3,gbr_channel_5,,,"DNR 2021, p. 63",
+GBR,,2021,offline,Daily Telegraph/Sunday Telegraph,3,gbr_telegraph,,,"DNR 2021, p. 63",
+GBR,,2021,offline,Daily Mirror/Sunday Mirror/Sunday People,2,gbr_daily_mirror,,,"DNR 2021, p. 63",
+GBR,,2021,offline,The i,2,gbr_i,,kept separate from The Independent,"DNR 2021, p. 63",
+GBR,,2021,online,BBC News online,46,gbr_bbc,,,"DNR 2021, p. 63",35
+GBR,,2021,online,Guardian online,17,gbr_guardian,,,"DNR 2021, p. 63",9
+GBR,,2021,online,Sky News online,14,gbr_sky,,,"DNR 2021, p. 63",9
+GBR,,2021,online,MailOnline,14,gbr_daily_mail,,merged with Daily Mail (gbr_daily_mail),"DNR 2021, p. 63",9
+GBR,,2021,online,Regional or local newspaper website,8,gbr_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 63",4
+GBR,,2021,online,HuffPost,7,gbr_huffington_post,,,"DNR 2021, p. 63",2
+GBR,,2021,online,Independent/i100 online,6,gbr_independent,,,"DNR 2021, p. 63",2
+GBR,,2021,online,Telegraph online,6,gbr_telegraph,,,"DNR 2021, p. 63",2
+GBR,,2021,online,Metro online,5,gbr_metro,,,"DNR 2021, p. 63",2
+GBR,,2021,online,Sun online,5,gbr_sun,,,"DNR 2021, p. 63",2
+GBR,,2021,online,MSN News,5,gbr_msn,,,"DNR 2021, p. 63",3
+GBR,,2021,online,ITV News online,5,gbr_itv,,,"DNR 2021, p. 63",2
+GBR,,2021,online,Mirror online,5,gbr_daily_mirror,,,"DNR 2021, p. 63",2
+GBR,,2021,online,The Times online,4,gbr_times,,,"DNR 2021, p. 63",2
+GBR,,2021,online,BuzzFeed News,4,gbr_buzzfeed,,,"DNR 2021, p. 63",1
+GBR,,2021,online,CNN.com,4,gbr_cnn,cnn.com,,"DNR 2021, p. 63",2
+GBR,,2021,offline,BBC TV News,52,gbr_bbc_tv,,inset box next to the TV/radio/print chart,"DNR 2021, p. 63",
+GBR,,2021,offline,BBC Radio News,19,gbr_bbc_radio,,inset box next to the TV/radio/print chart,"DNR 2021, p. 63",
+AUT,,2021,offline,ORF News (public broadcaster),79,aut_orf,,,"DNR 2021, p. 65",65
+AUT,,2021,offline,Kronen Zeitung,36,aut_kronen_zeitung,,,"DNR 2021, p. 65",22
+AUT,,2021,offline,ServusTV News,24,aut_servustv,,,"DNR 2021, p. 65",13
+AUT,,2021,offline,Puls 4 News,20,aut_puls_4,,,"DNR 2021, p. 65",10
+AUT,,2021,offline,ZDF News,19,aut_zdf,,,"DNR 2021, p. 65",10
+AUT,,2021,offline,Puls 24,17,aut_puls24,,,"DNR 2021, p. 65",13
+AUT,,2021,offline,oe24 TV,16,aut_oe24_tv,,TV channel of the Österreich/oe24 group; kept separate from the newspaper (aut_oesterreich),"DNR 2021, p. 65",9
+AUT,,2021,offline,ARD News,15,aut_ard,,,"DNR 2021, p. 65",8
+AUT,,2021,offline,RTL News,15,aut_rtl,,,"DNR 2021, p. 65",7
+AUT,,2021,offline,Heute,14,aut_heute,,,"DNR 2021, p. 65",6
+AUT,,2021,offline,ATV News,14,aut_atv,,,"DNR 2021, p. 65",6
+AUT,,2021,offline,Bezirksblätter,14,aut_bezirksblaetter,,,"DNR 2021, p. 65",3
+AUT,,2021,offline,KroneHit,14,aut_kronehit,,,"DNR 2021, p. 65",7
+AUT,,2021,offline,Österreich,13,aut_oesterreich,,,"DNR 2021, p. 65",6
+AUT,,2021,offline,Kleine Zeitung,13,aut_kleine_zeitung,,,"DNR 2021, p. 65",8
+AUT,,2021,offline,Der Standard,12,aut_der_standard,,,"DNR 2021, p. 65",5
+AUT,,2021,online,ORF News online,38,aut_orf,,,"DNR 2021, p. 65",29
+AUT,,2021,online,Kronen Zeitung online,27,aut_kronen_zeitung,,,"DNR 2021, p. 65",19
+AUT,,2021,online,Der Standard online,20,aut_der_standard,,,"DNR 2021, p. 65",14
+AUT,,2021,online,GMX,15,aut_gmx,,,"DNR 2021, p. 65",8
+AUT,,2021,online,Kurier online,15,aut_kurier,,,"DNR 2021, p. 65",8
+AUT,,2021,online,meinbezirk.at/woche.at/bezirksrundschau.at,14,aut_bezirksblaetter,meinbezirk.at,portals of Regionalmedien Austria = online presence of Bezirksblätter/Woche; merged with Bezirksblätter,"DNR 2021, p. 65",6
+AUT,,2021,online,Heute online,13,aut_heute,,,"DNR 2021, p. 65",7
+AUT,,2021,online,"oe24.at (incl. österreich.at, sport.oe24.at etc.)",12,aut_oesterreich,oe24.at,,"DNR 2021, p. 65",7
+AUT,,2021,online,KroneHit online,10,aut_kronehit,,,"DNR 2021, p. 65",4
+AUT,,2021,online,Die Presse online,10,aut_die_presse,,,"DNR 2021, p. 65",4
+AUT,,2021,online,Kleine Zeitung online,9,aut_kleine_zeitung,,,"DNR 2021, p. 65",6
+AUT,,2021,online,Puls24 online,9,aut_puls24,,Puls 24 = news channel of ProSiebenSat.1 Puls 4 group; separate id from Puls 4,"DNR 2021, p. 65",5
+AUT,,2021,online,salzburg24.at,7,aut_salzburg24_at,salzburg24.at,site of Salzburger Nachrichten,"DNR 2021, p. 65",3
+AUT,,2021,online,OÖ Nachrichten,7,aut_oo_nachrichten,,,"DNR 2021, p. 65",4
+AUT,,2021,online,MSN News,7,aut_msn,,,"DNR 2021, p. 65",3
+AUT,,2021,online,tagesschau.de (ARD Germany),7,aut_tagesschau,tagesschau.de,German ARD news site (foreign brand),"DNR 2021, p. 65",3
+AUT,,2021,offline,ORF TV News,63,aut_orf_tv,,inset box next to the TV/radio/print chart,"DNR 2021, p. 65",
+AUT,,2021,offline,ORF Radio News,50,aut_orf_radio,,inset box next to the TV/radio/print chart,"DNR 2021, p. 65",
+BEL,flemish-speaking,2021,offline,VTM,45,bel_vtm,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",33
+BEL,flemish-speaking,2021,offline,Eén (VRT),39,bel_een,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",31
+BEL,flemish-speaking,2021,offline,Het Laatste Nieuws,28,bel_het_laatste_nieuws,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",17
+BEL,flemish-speaking,2021,offline,Radio 2 (VRT),22,bel_radio_2,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",14
+BEL,flemish-speaking,2021,offline,Het Nieuwsblad,18,bel_het_nieuwsblad,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",11
+BEL,flemish-speaking,2021,offline,Qmusic,17,bel_qmusic,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",11
+BEL,flemish-speaking,2021,offline,MNM (VRT),16,bel_mnm,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",8
+BEL,flemish-speaking,2021,offline,Radio 1 (VRT),14,bel_radio_1,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",9
+BEL,flemish-speaking,2021,offline,Canvas (VRT),13,bel_canvas,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",8
+BEL,flemish-speaking,2021,offline,Het Belang van Limburg,12,bel_het_belang_van_limburg,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",8
+BEL,flemish-speaking,2021,offline,Joe FM,12,bel_joe_fm,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",7
+BEL,flemish-speaking,2021,offline,Studio Brussel (VRT),11,bel_studio_brussel,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",6
+BEL,flemish-speaking,2021,online,Het Laatste Nieuws online,48,bel_het_laatste_nieuws,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",40
+BEL,flemish-speaking,2021,online,VRT Nieuws online,35,bel_vrt,,VRT news site; merged with VRT; DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",22
+BEL,flemish-speaking,2021,online,Het Nieuwsblad online,28,bel_het_nieuwsblad,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",21
+BEL,flemish-speaking,2021,online,Het Belang van Limburg online,12,bel_het_belang_van_limburg,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",10
+BEL,flemish-speaking,2021,online,De Standaard online,11,bel_de_standaard,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",7
+BEL,flemish-speaking,2021,online,Gazet van Antwerpen online,10,bel_gazet_van_antwerpen,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",6
+BEL,flemish-speaking,2021,online,De Morgen online,9,bel_de_morgen,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",5
+BEL,flemish-speaking,2021,online,De Tijd online,9,bel_de_tijd,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",4
+BEL,flemish-speaking,2021,online,MSN News,7,bel_msn,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",3
+BEL,flemish-speaking,2021,online,CNN.com,5,bel_cnn,cnn.com,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",2
+BEL,flemish-speaking,2021,online,Knack online,5,bel_knack_be,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",2
+BEL,flemish-speaking,2021,online,Metro online,4,bel_metro,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",2
+BEL,flemish-speaking,2021,offline,VRT (Public broadcaster),67,bel_vrt,,inset box next to the TV/radio/print chart; DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",
+BEL,french-speaking,2021,offline,La Une (RTBF),48,bel_la_une,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",35
+BEL,french-speaking,2021,offline,RTL,47,bel_rtl,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",34
+BEL,french-speaking,2021,offline,TF1 (France),29,bel_tf1,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",18
+BEL,french-speaking,2021,offline,Vivacité (RTBF),22,bel_vivacite,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",14
+BEL,french-speaking,2021,offline,Bel-RTL,21,bel_bel_rtl,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",13
+BEL,french-speaking,2021,offline,Le Soir,19,bel_le_soir,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",9
+BEL,french-speaking,2021,offline,Radio Contact,15,bel_radio_contact,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",9
+BEL,french-speaking,2021,offline,L’Avenir,15,bel_l_avenir,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",6
+BEL,french-speaking,2021,offline,Metro,15,bel_metro,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",4
+BEL,french-speaking,2021,offline,La Première (RTBF),15,bel_la_premiere,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",8
+BEL,french-speaking,2021,offline,Regional or local newspapers,14,bel_local_newspaper,,"generic category, not a single outlet; DNR reports Flemish-speaking and French-speaking lists separately","DNR 2021, p. 67",4
+BEL,french-speaking,2021,offline,"France Télévisions (France 2, France 3)",14,bel_france_television,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",8
+BEL,french-speaking,2021,online,RTL News online,39,bel_rtl,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",28
+BEL,french-speaking,2021,online,RTBF News online,30,bel_rtbf,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",19
+BEL,french-speaking,2021,online,DH online,24,bel_la_derniere_heure,,DH = La Dernière Heure; DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",16
+BEL,french-speaking,2021,online,Le Soir online,24,bel_le_soir,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",15
+BEL,french-speaking,2021,online,7sur7,20,bel_7sur7,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",14
+BEL,french-speaking,2021,online,L'Avenir online,19,bel_l_avenir,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",12
+BEL,french-speaking,2021,online,La Libre online,12,bel_la_libre,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",6
+BEL,french-speaking,2021,online,Regional news online,12,bel_regional_news_sites,,"generic category, not a single outlet; DNR reports Flemish-speaking and French-speaking lists separately","DNR 2021, p. 67",6
+BEL,french-speaking,2021,online,MSN News,9,bel_msn,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",3
+BEL,french-speaking,2021,online,Yahoo! News,8,bel_yahoo,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",3
+BEL,french-speaking,2021,online,Metro online,8,bel_metro,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",3
+BEL,french-speaking,2021,online,L’Echo,8,bel_l_echo,,DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",4
+BEL,french-speaking,2021,offline,RTBF (Public broadcaster),69,bel_rtbf,,inset box next to the TV/radio/print chart; DNR reports Flemish-speaking and French-speaking lists separately,"DNR 2021, p. 67",
+BGR,,2021,offline,NovaTV News,66,bgr_nova,,,"DNR 2021, p. 69",57
+BGR,,2021,offline,BTV News,62,bgr_btv,,,"DNR 2021, p. 69",52
+BGR,,2021,offline,BNT News (Bulgarian National Television),47,bgr_bnt,,,"DNR 2021, p. 69",36
+BGR,,2021,offline,24 Chasa,30,bgr_24_chasa,,,"DNR 2021, p. 69",10
+BGR,,2021,offline,Bulgaria on Air,20,bgr_bulgaria_on_air,,,"DNR 2021, p. 69",10
+BGR,,2021,offline,BNR News (Bulgarian National Radio),18,bgr_bnr,,,"DNR 2021, p. 69",11
+BGR,,2021,offline,TV Evropa News,18,bgr_tv_evropa,,,"DNR 2021, p. 69",10
+BGR,,2021,offline,Regional or local newspaper,15,bgr_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 69",5
+BGR,,2021,offline,Telegraf,15,bgr_telegraf,,,"DNR 2021, p. 69",5
+BGR,,2021,offline,Trud,14,bgr_trud,,,"DNR 2021, p. 69",5
+BGR,,2021,offline,Darik Radio,14,bgr_darik,,merged with bgr_darik,"DNR 2021, p. 69",9
+BGR,,2021,offline,Kanal 3,10,bgr_kanal_3,,,"DNR 2021, p. 69",5
+BGR,,2021,offline,Capital,10,bgr_capital,,,"DNR 2021, p. 69",3
+BGR,,2021,offline,Monitor,9,bgr_monitor,,,"DNR 2021, p. 69",2
+BGR,,2021,offline,CNN,9,bgr_cnn,,,"DNR 2021, p. 69",4
+BGR,,2021,offline,Sega,7,bgr_sega,,,"DNR 2021, p. 69",4
+BGR,,2021,online,Nova TV News online,49,bgr_nova,,,"DNR 2021, p. 69",39
+BGR,,2021,online,BTV News online,41,bgr_btv,,,"DNR 2021, p. 69",31
+BGR,,2021,online,ABV News online,36,bgr_abv,,,"DNR 2021, p. 69",25
+BGR,,2021,online,novini.bg,35,bgr_novini_bg,novini.bg,,"DNR 2021, p. 69",17
+BGR,,2021,online,24 Chasa online,31,bgr_24_chasa,,,"DNR 2021, p. 69",14
+BGR,,2021,online,BNT News online,26,bgr_bnt,,,"DNR 2021, p. 69",18
+BGR,,2021,online,dir.bg,23,bgr_dir_bg,dir.bg,,"DNR 2021, p. 69",11
+BGR,,2021,online,Dnevnik online,18,bgr_dnevnik,,,"DNR 2021, p. 69",9
+BGR,,2021,online,Blitz.bg,18,bgr_blitz_bg,blitz.bg,,"DNR 2021, p. 69",9
+BGR,,2021,online,Bivol.bg,16,bgr_bivol_bg,bivol.bg,,"DNR 2021, p. 69",7
+BGR,,2021,online,Petel.bg,15,bgr_petel_bg,petel.bg,,"DNR 2021, p. 69",7
+BGR,,2021,online,Trud online,14,bgr_trud,,,"DNR 2021, p. 69",5
+BGR,,2021,online,Capital online,13,bgr_capital,,,"DNR 2021, p. 69",4
+BGR,,2021,online,Maritza,13,bgr_maritza,,,"DNR 2021, p. 69",7
+BGR,,2021,online,BNR News online,13,bgr_bnr,,,"DNR 2021, p. 69",8
+BGR,,2021,online,Darik,12,bgr_darik,,,"DNR 2021, p. 69",6
+HRV,,2021,offline,NovaTV News,57,hrv_novatv,,,"DNR 2021, p. 71",44
+HRV,,2021,offline,RTL News,57,hrv_rtl,,,"DNR 2021, p. 71",43
+HRV,,2021,offline,HTV & HR News (public broadcaster),52,hrv_hrt,,,"DNR 2021, p. 71",41
+HRV,,2021,offline,24sata,33,hrv_24sata,,,"DNR 2021, p. 71",17
+HRV,,2021,offline,Jutarnji list,25,hrv_jutarnji_list,,,"DNR 2021, p. 71",12
+HRV,,2021,offline,Otvoreni radio,20,hrv_otvoreni_radio,,,"DNR 2021, p. 71",12
+HRV,,2021,offline,N1,19,hrv_n1,,,"DNR 2021, p. 71",12
+HRV,,2021,offline,Večernji list,19,hrv_vecernji_list,,,"DNR 2021, p. 71",8
+HRV,,2021,offline,Local radio news,18,hrv_local_radio,,"generic category, not a single outlet","DNR 2021, p. 71",10
+HRV,,2021,offline,Narodni radio,16,hrv_narodni_radio,,,"DNR 2021, p. 71",8
+HRV,,2021,offline,Local television news,11,hrv_local_tv,,"generic category, not a single outlet","DNR 2021, p. 71",4
+HRV,,2021,offline,Slobodna Dalmacija,10,hrv_slobodna_dalmacija,,,"DNR 2021, p. 71",5
+HRV,,2021,offline,Antena radio,10,hrv_antena_radio,,,"DNR 2021, p. 71",5
+HRV,,2021,offline,Al-Jazeera,9,hrv_al_jazeera,,,"DNR 2021, p. 71",3
+HRV,,2021,offline,Regional or local newspaper,9,hrv_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 71",3
+HRV,,2021,offline,Novi list,7,hrv_novi_list,,,"DNR 2021, p. 71",3
+HRV,,2021,online,Index.hr,64,hrv_index_hr,index.hr,,"DNR 2021, p. 71",44
+HRV,,2021,online,24sata online,57,hrv_24sata,,,"DNR 2021, p. 71",38
+HRV,,2021,online,Jutarnji online,48,hrv_jutarnji_list,,,"DNR 2021, p. 71",30
+HRV,,2021,online,Net.hr,39,hrv_net_hr,net.hr,,"DNR 2021, p. 71",23
+HRV,,2021,online,Dnevnik online,38,hrv_dnevnik,,news site of Nova TV (dnevnik.hr),"DNR 2021, p. 71",18
+HRV,,2021,online,Tportal.hr,36,hrv_tportal_hr,tportal.hr,,"DNR 2021, p. 71",17
+HRV,,2021,online,Večernji online,35,hrv_vecernji_list,,,"DNR 2021, p. 71",20
+HRV,,2021,online,Telegram.hr,22,hrv_telegram_hr,telegram.hr,,"DNR 2021, p. 71",10
+HRV,,2021,online,RTL News online,20,hrv_rtl,,,"DNR 2021, p. 71",8
+HRV,,2021,online,Dnevno.hr,20,hrv_dnevno_hr,dnevno.hr,,"DNR 2021, p. 71",8
+HRV,,2021,online,HRT News online (incl. HRTi) (public broadcaster),16,hrv_hrt,,,"DNR 2021, p. 71",8
+HRV,,2021,online,Slobodna Dalmacija online,15,hrv_slobodna_dalmacija,,,"DNR 2021, p. 71",9
+HRV,,2021,online,Direktno.hr,14,hrv_direktno_hr,direktno.hr,,"DNR 2021, p. 71",6
+HRV,,2021,online,Local radio news online,13,hrv_local_radio,,"generic category, not a single outlet","DNR 2021, p. 71",5
+HRV,,2021,online,N1 online,12,hrv_n1,,,"DNR 2021, p. 71",7
+HRV,,2021,online,Novilist.hr,11,hrv_novi_list,novilist.hr,,"DNR 2021, p. 71",5
+CZE,,2021,offline,"Czech TV News (incl. ČT1, ČT24) (public broadcaster)",58,cze_ceska_televize,,two-line label,"DNR 2021, p. 73",50
+CZE,,2021,offline,TV Nova News,45,cze_tv_nova,,,"DNR 2021, p. 73",33
+CZE,,2021,offline,Prima News,32,cze_prima,,,"DNR 2021, p. 73",21
+CZE,,2021,offline,CNN Prima News,22,cze_cnn_prima,,CNN Prima News = news channel of Prima group (launched 2020); separate id from cze_prima,"DNR 2021, p. 73",14
+CZE,,2021,offline,Czech Radio News (public broadcaster),14,cze_cesky_rozhlas,,,"DNR 2021, p. 73",10
+CZE,,2021,offline,Mlada Fronta DNES,13,cze_mlada_fronta_dnes,,,"DNR 2021, p. 73",6
+CZE,,2021,offline,Regional or local newspaper,13,cze_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 73",4
+CZE,,2021,offline,Blesk,12,cze_blesk,,,"DNR 2021, p. 73",5
+CZE,,2021,offline,Radio Impuls News,9,cze_radio_impuls,,,"DNR 2021, p. 73",5
+CZE,,2021,offline,Evropa 2 News,9,cze_evropa_2,,,"DNR 2021, p. 73",5
+CZE,,2021,offline,Metro,9,cze_metro,,,"DNR 2021, p. 73",4
+CZE,,2021,offline,Denik,8,cze_denik,,,"DNR 2021, p. 73",3
+CZE,,2021,offline,Frekvence 1 News,6,cze_frekvence_1,,,"DNR 2021, p. 73",3
+CZE,,2021,offline,Lidove noviny,6,cze_lidove_noviny,,,"DNR 2021, p. 73",2
+CZE,,2021,offline,Reflex,6,cze_reflex_cz,,,"DNR 2021, p. 73",2
+CZE,,2021,offline,Pravo,5,cze_pravo,,,"DNR 2021, p. 73",2
+CZE,,2021,online,Seznamzpravy.cz,50,cze_seznam_zpravy,seznamzpravy.cz,,"DNR 2021, p. 73",40
+CZE,,2021,online,iDnes.cz,39,cze_mlada_fronta_dnes,idnes.cz,news site of Mladá fronta DNES; merged with cze_mlada_fronta_dnes,"DNR 2021, p. 73",26
+CZE,,2021,online,Novinky.cz,34,cze_pravo,novinky.cz,news site of Právo (Seznam/Borgis); merged with cze_pravo,"DNR 2021, p. 73",25
+CZE,,2021,online,Aktualne.cz,28,cze_aktualne_cz,aktualne.cz,,"DNR 2021, p. 73",15
+CZE,,2021,online,Czech TV News online (Ct24.cz),24,cze_ceska_televize,ct24.cz,,"DNR 2021, p. 73",14
+CZE,,2021,online,Blesk.cz,15,cze_blesk,blesk.cz,news site of Blesk,"DNR 2021, p. 73",7
+CZE,,2021,online,TN.cz,15,cze_tv_nova,tn.cz,news site of TV Nova; merged with cze_tv_nova,"DNR 2021, p. 73",8
+CZE,,2021,online,iPrima.cz,14,cze_prima,iprima.cz,,"DNR 2021, p. 73",7
+CZE,,2021,online,Denik.cz,14,cze_denik,denik.cz,news site of Deník,"DNR 2021, p. 73",6
+CZE,,2021,online,Parlamentnilisty.cz,10,cze_parlamentnilisty_cz,parlamentnilisty.cz,,"DNR 2021, p. 73",5
+CZE,,2021,online,Super.cz,9,cze_super_cz,super.cz,,"DNR 2021, p. 73",4
+CZE,,2021,online,DVTV.cz,8,cze_dvtv_cz,dvtv.cz,,"DNR 2021, p. 73",4
+CZE,,2021,online,Lidovky.cz,8,cze_lidove_noviny,lidovky.cz,news site of Lidové noviny,"DNR 2021, p. 73",4
+CZE,,2021,online,CNN.iprima.cz,8,cze_cnn_prima,iprima.cz,site of CNN Prima News,"DNR 2021, p. 73",4
+CZE,,2021,online,Reflex.cz,8,cze_reflex_cz,reflex.cz,,"DNR 2021, p. 73",3
+CZE,,2021,online,iHned.cz,7,cze_hospodarske_noviny,ihned.cz,news site of Hospodářské noviny,"DNR 2021, p. 73",2
+DNK,,2021,offline,"DR News incl. P1, P3, P4 (main public broadcaster)",60,dnk_dr,,,"DNR 2021, p. 75",46
+DNK,,2021,offline,TV2 Nyhederne (incl. TV2 News),59,dnk_tv2,,,"DNR 2021, p. 75",48
+DNK,,2021,offline,"Regional news via TV2 (Nord, Fyn, Lorry)",27,dnk_tv2_regional,,"TV2 regional stations (generic); generic category, not a single outlet","DNR 2021, p. 75",18
+DNK,,2021,offline,Free local weekly newspaper,16,dnk_local_weekly,,"generic category, not a single outlet","DNR 2021, p. 75",3
+DNK,,2021,offline,Regional or local newspaper,9,dnk_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 75",6
+DNK,,2021,offline,BT,8,dnk_bt,,,"DNR 2021, p. 75",4
+DNK,,2021,offline,Ekstrabladet,8,dnk_ekstrabladet,,,"DNR 2021, p. 75",4
+DNK,,2021,offline,Commercial radio news,7,dnk_commercial_radio,,"generic category, not a single outlet","DNR 2021, p. 75",5
+DNK,,2021,offline,Jyllandsposten,6,dnk_jyllandsposten,,,"DNR 2021, p. 75",4
+DNK,,2021,offline,Berlingske,6,dnk_berlingske,,,"DNR 2021, p. 75",3
+DNK,,2021,offline,Politiken,5,dnk_politiken,,,"DNR 2021, p. 75",3
+DNK,,2021,offline,CNN,4,dnk_cnn,,,"DNR 2021, p. 75",2
+DNK,,2021,offline,Børsen,4,dnk_borsen,,,"DNR 2021, p. 75",1
+DNK,,2021,offline,BBC News,3,dnk_bbc,,,"DNR 2021, p. 75",
+DNK,,2021,offline,Weekendavisen,3,dnk_weekendavisen,,,"DNR 2021, p. 75",
+DNK,,2021,offline,Radio 4,3,dnk_radio_4,,,"DNR 2021, p. 75",
+DNK,,2021,online,DR News online,40,dnk_dr,,,"DNR 2021, p. 75",30
+DNK,,2021,online,TV2 Nyhederne online,37,dnk_tv2,,,"DNR 2021, p. 75",30
+DNK,,2021,online,Ekstra-Bladet online,26,dnk_ekstrabladet,,,"DNR 2021, p. 75",19
+DNK,,2021,online,BT online,21,dnk_bt,,,"DNR 2021, p. 75",15
+DNK,,2021,online,Local weekly online,13,dnk_local_weekly,,"generic category, not a single outlet","DNR 2021, p. 75",5
+DNK,,2021,online,Politiken online,12,dnk_politiken,,,"DNR 2021, p. 75",7
+DNK,,2021,online,Berlingske online,11,dnk_berlingske,,,"DNR 2021, p. 75",6
+DNK,,2021,online,Jyllandsposten online,10,dnk_jyllandsposten,,,"DNR 2021, p. 75",6
+DNK,,2021,online,Regional or local newspaper online,9,dnk_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 75",6
+DNK,,2021,online,Børsen online,6,dnk_borsen,,,"DNR 2021, p. 75",4
+DNK,,2021,online,Altinget online,6,dnk_altinget,,,"DNR 2021, p. 75",2
+DNK,,2021,online,Dagens online,5,dnk_dagens_dk,,,"DNR 2021, p. 75",1
+DNK,,2021,online,Avisen online,4,dnk_avisen_dk,,,"DNR 2021, p. 75",2
+DNK,,2021,online,Information online,4,dnk_information_dk,,,"DNR 2021, p. 75",2
+DNK,,2021,online,CNN.com,4,dnk_cnn,cnn.com,,"DNR 2021, p. 75",2
+DNK,,2021,online,BBC News online,4,dnk_bbc,,,"DNR 2021, p. 75",1
+FIN,,2021,offline,Yle News (public broadcaster),68,fin_yle,,,"DNR 2021, p. 77",55
+FIN,,2021,offline,MTV3 News,54,fin_mtv,,,"DNR 2021, p. 77",39
+FIN,,2021,offline,Free city papers,26,fin_free_city_paper,,"generic category, not a single outlet","DNR 2021, p. 77",8
+FIN,,2021,offline,"Regional newspapers (eg Turun Sanomat, Karjalainen)",18,fin_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 77",14
+FIN,,2021,offline,Ilta-Sanomat,18,fin_ilta_sanomat,,,"DNR 2021, p. 77",12
+FIN,,2021,offline,"Local newspapers (eg Raahen Seutu, Suur-Keuruu)",17,fin_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 77",8
+FIN,,2021,offline,Iltalehti,16,fin_iltalehti,,,"DNR 2021, p. 77",11
+FIN,,2021,offline,Helsingin Sanomat,14,fin_helsingin_sanomat,,,"DNR 2021, p. 77",10
+FIN,,2021,offline,Commercial radio news,14,fin_commercial_radio,,"generic category, not a single outlet","DNR 2021, p. 77",8
+FIN,,2021,offline,Alfa TV News,5,fin_alfa_tv,,,"DNR 2021, p. 77",2
+FIN,,2021,offline,Other foreign TV news channels,5,fin_foreign_tv,,"generic category, not a single outlet","DNR 2021, p. 77",3
+FIN,,2021,offline,Suomen Kuvalehti,4,fin_suomen_kuvalehti,,,"DNR 2021, p. 77",1
+FIN,,2021,offline,BBC News,4,fin_bbc,,,"DNR 2021, p. 77",1
+FIN,,2021,offline,CNN,4,fin_cnn,,,"DNR 2021, p. 77",2
+FIN,,2021,offline,Kauppalehti,3,fin_kauppalehti,,,"DNR 2021, p. 77",
+FIN,,2021,offline,Talouselämä,3,fin_talouselama,,,"DNR 2021, p. 77",
+FIN,,2021,online,Ilta-Sanomat online,61,fin_ilta_sanomat,,,"DNR 2021, p. 77",50
+FIN,,2021,online,Iltalehti online,56,fin_iltalehti,,,"DNR 2021, p. 77",45
+FIN,,2021,online,Yle News online (incl. news via Areena),44,fin_yle,,,"DNR 2021, p. 77",30
+FIN,,2021,online,MTV News online (incl. Katsomo News),31,fin_mtv,,,"DNR 2021, p. 77",19
+FIN,,2021,online,Helsingin Sanomat online,30,fin_helsingin_sanomat,,,"DNR 2021, p. 77",21
+FIN,,2021,online,Regional newspapers online,16,fin_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 77",11
+FIN,,2021,online,Local newspapers online,12,fin_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 77",6
+FIN,,2021,online,Kauppalehti online,10,fin_kauppalehti,,,"DNR 2021, p. 77",5
+FIN,,2021,online,Talouselämä online,8,fin_talouselama,,,"DNR 2021, p. 77",3
+FIN,,2021,online,Uusi Suomi online,8,fin_uusi_suomi,,,"DNR 2021, p. 77",3
+FIN,,2021,online,Free city papers online,7,fin_free_city_paper,,"generic category, not a single outlet","DNR 2021, p. 77",2
+FIN,,2021,online,MSN News,6,fin_msn,,,"DNR 2021, p. 77",3
+FIN,,2021,online,Commercial radio news online,6,fin_commercial_radio,,"generic category, not a single outlet","DNR 2021, p. 77",2
+FIN,,2021,online,BBC News online,5,fin_bbc,,,"DNR 2021, p. 77",2
+FIN,,2021,online,CNN.com,5,fin_cnn,cnn.com,,"DNR 2021, p. 77",2
+FIN,,2021,online,Maaseudun Tulevaisuus online,4,fin_maaseudun_tulevaisuus,,,"DNR 2021, p. 77",2
+FRA,,2021,offline,BFM TV News,40,fra_bfm_tv,,,"DNR 2021, p. 79",29
+FRA,,2021,offline,France Télévisions (public broadcaster),39,fra_france_televisions,,,"DNR 2021, p. 79",27
+FRA,,2021,offline,"TF1 News (incl. TF1, LCI, TMC)",36,fra_tf1,,,"DNR 2021, p. 79",27
+FRA,,2021,offline,M6 News,27,fra_m6,,,"DNR 2021, p. 79",17
+FRA,,2021,offline,Cnews,19,fra_cnews,,,"DNR 2021, p. 79",12
+FRA,,2021,offline,Other regional or local newspapers,16,fra_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 79",7
+FRA,,2021,offline,Public radio news (France Inter etc),15,fra_public_radio,,"generic category, not a single outlet","DNR 2021, p. 79",10
+FRA,,2021,offline,Commercial radio news (RTL etc),15,fra_commercial_radio,,"generic category, not a single outlet","DNR 2021, p. 79",9
+FRA,,2021,offline,20 minutes,11,fra_20_minutes,,,"DNR 2021, p. 79",4
+FRA,,2021,offline,Le Monde,8,fra_le_monde,,,"DNR 2021, p. 79",3
+FRA,,2021,offline,France 24,8,fra_france_24,,,"DNR 2021, p. 79",4
+FRA,,2021,offline,Le Figaro,6,fra_le_figaro,,,"DNR 2021, p. 79",2
+FRA,,2021,offline,Ouest France,6,fra_ouest_france,,,"DNR 2021, p. 79",3
+FRA,,2021,offline,Le Parisien/Aujourd’hui en France,6,fra_le_parisien,,,"DNR 2021, p. 79",2
+FRA,,2021,offline,Canal+,5,fra_canal_plus,,,"DNR 2021, p. 79",2
+FRA,,2021,offline,La Voix du Nord,4,fra_la_voix_du_nord,,,"DNR 2021, p. 79",2
+FRA,,2021,online,20 minutes online,18,fra_20_minutes,,,"DNR 2021, p. 79",9
+FRA,,2021,online,Other regional or local newspaper online,15,fra_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 79",8
+FRA,,2021,online,Le Monde online,14,fra_le_monde,,,"DNR 2021, p. 79",6
+FRA,,2021,online,France Info (public broadcaster),13,fra_france_info,,"franceinfo; successor of francetvinfo (fra_france_televisions online, 2015-16)","DNR 2021, p. 79",7
+FRA,,2021,online,BFM TV online,12,fra_bfm_tv,,,"DNR 2021, p. 79",9
+FRA,,2021,online,TF1 News online,12,fra_tf1,,,"DNR 2021, p. 79",7
+FRA,,2021,online,Le Parisien online,10,fra_le_parisien,,,"DNR 2021, p. 79",5
+FRA,,2021,online,Le Figaro online,10,fra_le_figaro,,,"DNR 2021, p. 79",4
+FRA,,2021,online,Brut,10,fra_brut,,,"DNR 2021, p. 79",4
+FRA,,2021,online,M6 online,10,fra_m6,,,"DNR 2021, p. 79",5
+FRA,,2021,online,Le HuffPost,9,fra_huffington_post,,French HuffPost,"DNR 2021, p. 79",3
+FRA,,2021,online,Yahoo! News,8,fra_yahoo,,,"DNR 2021, p. 79",3
+FRA,,2021,online,Médiapart,7,fra_mediapart,,,"DNR 2021, p. 79",3
+FRA,,2021,online,Cnews online,7,fra_cnews,,,"DNR 2021, p. 79",4
+FRA,,2021,online,Ouest France online,7,fra_ouest_france,,,"DNR 2021, p. 79",3
+FRA,,2021,online,MSN News,7,fra_msn,,,"DNR 2021, p. 79",4
+DEU,,2021,offline,"ARD News (Tagesschau, Tagesthemen)",54,deu_ard,,,"DNR 2021, p. 81",40
+DEU,,2021,offline,"ZDF News (heute, heute-journal etc)",45,deu_zdf,,,"DNR 2021, p. 81",27
+DEU,,2021,offline,Regional or local newspaper,27,deu_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 81",17
+DEU,,2021,offline,RTL aktuell,26,deu_rtl,,,"DNR 2021, p. 81",18
+DEU,,2021,offline,n-tv,24,deu_n_tv,,,"DNR 2021, p. 81",14
+DEU,,2021,offline,Public regional radio news,21,deu_regional_radio,,"generic category, not a single outlet","DNR 2021, p. 81",13
+DEU,,2021,offline,Public regional TV news,20,deu_regional_tv,,"generic category, not a single outlet","DNR 2021, p. 81",11
+DEU,,2021,offline,Commercial radio news,13,deu_commercial_radio,,"generic category, not a single outlet","DNR 2021, p. 81",8
+DEU,,2021,offline,WELT (former N24),13,deu_die_welt,,N24 was rebranded WELT in 2018; deu_n24 (<=2020) refers to the same channel,"DNR 2021, p. 81",8
+DEU,,2021,offline,Sat.1 News,13,deu_sat_1_nachrichten,,,"DNR 2021, p. 81",6
+DEU,,2021,offline,Bild/Bild am Sonntag,8,deu_bild,,,"DNR 2021, p. 81",4
+DEU,,2021,offline,Commercial regional TV news,8,deu_regional_tv,,"generic category, not a single outlet","DNR 2021, p. 81",4
+DEU,,2021,offline,Der Spiegel,7,deu_spiegel,,,"DNR 2021, p. 81",3
+DEU,,2021,offline,ProSieben News,7,deu_prosieben_newstime,,ProSieben Newstime,"DNR 2021, p. 81",3
+DEU,,2021,offline,Focus,7,deu_focus,,,"DNR 2021, p. 81",3
+DEU,,2021,offline,CNN,6,deu_cnn,,,"DNR 2021, p. 81",3
+DEU,,2021,online,ARD News online (tagesschau.de etc),18,deu_ard,,,"DNR 2021, p. 81",12
+DEU,,2021,online,Spiegel online,16,deu_spiegel,,,"DNR 2021, p. 81",9
+DEU,,2021,online,t-online,15,deu_t_online,,,"DNR 2021, p. 81",10
+DEU,,2021,online,Focus online,14,deu_focus,,,"DNR 2021, p. 81",8
+DEU,,2021,online,n-tv.de,14,deu_n_tv,n-tv.de,,"DNR 2021, p. 81",9
+DEU,,2021,online,Bild.de,13,deu_bild,bild.de,,"DNR 2021, p. 81",8
+DEU,,2021,online,Regional or local newspaper online,12,deu_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 81",7
+DEU,,2021,online,welt.de,11,deu_die_welt,welt.de,,"DNR 2021, p. 81",7
+DEU,,2021,online,Web.de,11,deu_web_de,web.de,,"DNR 2021, p. 81",6
+DEU,,2021,online,Gmx.de,10,deu_gmx,gmx.de,,"DNR 2021, p. 81",7
+DEU,,2021,online,ZEIT Online,10,deu_zeit,,,"DNR 2021, p. 81",5
+DEU,,2021,online,Sueddeutsche.de,9,deu_sueddeutsche,sueddeutsche.de,,"DNR 2021, p. 81",4
+DEU,,2021,online,ZDF News online (heute.de etc),8,deu_zdf,,,"DNR 2021, p. 81",5
+DEU,,2021,online,Public regional TV news websites,8,deu_regional_tv,,"generic category; generic category, not a single outlet","DNR 2021, p. 81",4
+DEU,,2021,online,Stern.de,7,deu_stern,stern.de,,"DNR 2021, p. 81",3
+DEU,,2021,online,FAZ.NET,7,deu_faz,faz.net,,"DNR 2021, p. 81",3
+GRC,,2021,offline,SKAI News (incl. radio),51,grc_skai,,,"DNR 2021, p. 83",35
+GRC,,2021,offline,ANT1 News,43,grc_ant1,,,"DNR 2021, p. 83",25
+GRC,,2021,offline,Alpha News,40,grc_alpha_tv,,,"DNR 2021, p. 83",24
+GRC,,2021,offline,ERT (incl. ERT3 & ERA1) (public broadcaster),38,grc_ert,,,"DNR 2021, p. 83",23
+GRC,,2021,offline,MEGA,34,grc_mega,,,"DNR 2021, p. 83",20
+GRC,,2021,offline,Star News,34,grc_star,,,"DNR 2021, p. 83",20
+GRC,,2021,offline,Open News,32,grc_open,,,"DNR 2021, p. 83",18
+GRC,,2021,offline,Kathimerini,17,grc_kathimerini,,,"DNR 2021, p. 83",6
+GRC,,2021,offline,Real News (print & radio),17,grc_real_news,,,"DNR 2021, p. 83",6
+GRC,,2021,offline,Proto Thema,15,grc_proto_thema,,,"DNR 2021, p. 83",6
+GRC,,2021,offline,Regional or local newspaper,15,grc_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 83",4
+GRC,,2021,offline,To Vima,14,grc_to_vima,,,"DNR 2021, p. 83",4
+GRC,,2021,offline,Ta Nea,12,grc_ta_nea,,,"DNR 2021, p. 83",4
+GRC,,2021,offline,BBC News,11,grc_bbc,,,"DNR 2021, p. 83",5
+GRC,,2021,offline,CNN,10,grc_cnn,,,"DNR 2021, p. 83",5
+GRC,,2021,offline,Regional or local radio news,7,grc_local_radio,,"generic category, not a single outlet","DNR 2021, p. 83",3
+GRC,,2021,online,Newsbomb.gr,33,grc_newsbomb_gr,newsbomb.gr,,"DNR 2021, p. 83",14
+GRC,,2021,online,Dikaiologitika.gr,31,grc_dikaiologitika_gr,dikaiologitika.gr,,"DNR 2021, p. 83",15
+GRC,,2021,online,In.gr,27,grc_in_gr,in.gr,,"DNR 2021, p. 83",14
+GRC,,2021,online,News247.gr,26,grc_news247_gr,news247.gr,,"DNR 2021, p. 83",10
+GRC,,2021,online,Proto Thema online,26,grc_proto_thema,,,"DNR 2021, p. 83",14
+GRC,,2021,online,Kathimerini online,24,grc_kathimerini,,,"DNR 2021, p. 83",10
+GRC,,2021,online,Newsit.gr,22,grc_newsit_gr,newsit.gr,,"DNR 2021, p. 83",10
+GRC,,2021,online,CNN Greece online,22,grc_cnn_greece,,,"DNR 2021, p. 83",9
+GRC,,2021,online,SKAI online,20,grc_skai,,,"DNR 2021, p. 83",10
+GRC,,2021,online,Newsbeast.gr,19,grc_newsbeast_gr,newsbeast.gr,,"DNR 2021, p. 83",7
+GRC,,2021,online,Iefimerida.gr,19,grc_iefimerida_gr,iefimerida.gr,,"DNR 2021, p. 83",9
+GRC,,2021,online,mixanitouxronou.gr,18,grc_mixanitouxronou_gr,mixanitouxronou.gr,,"DNR 2021, p. 83",7
+GRC,,2021,online,Zougla.gr,18,grc_zougla_gr,zougla.gr,,"DNR 2021, p. 83",8
+GRC,,2021,online,Lifo.gr,18,grc_lifo_gr,lifo.gr,,"DNR 2021, p. 83",7
+GRC,,2021,online,Capital.gr,17,grc_capital_gr,capital.gr,,"DNR 2021, p. 83",7
+GRC,,2021,online,Naftemporiki online,16,grc_naftemporiki,,,"DNR 2021, p. 83",7
+HUN,,2021,offline,RTL Klub,51,hun_rtl_klub,,,"DNR 2021, p. 85",36
+HUN,,2021,offline,TV2,34,hun_tv2,,,"DNR 2021, p. 85",21
+HUN,,2021,offline,ATV,28,hun_atv,,,"DNR 2021, p. 85",18
+HUN,,2021,offline,MTV (public TV news),19,hun_mtv,,,"DNR 2021, p. 85",10
+HUN,,2021,offline,Hír TV,19,hun_hir_tv,,,"DNR 2021, p. 85",9
+HUN,,2021,offline,Retro Rádió,19,hun_retro_radio,,,"DNR 2021, p. 85",10
+HUN,,2021,offline,Duna TV,15,hun_duna_tv,,,"DNR 2021, p. 85",7
+HUN,,2021,offline,HVG,15,hun_hvg,,,"DNR 2021, p. 85",6
+HUN,,2021,offline,Blikk,14,hun_blikk,,,"DNR 2021, p. 85",3
+HUN,,2021,offline,Rádió 1,14,hun_radio_1,,,"DNR 2021, p. 85",7
+HUN,,2021,offline,Magyar Rádió (public radio news),13,hun_magyar_radio,,,"DNR 2021, p. 85",7
+HUN,,2021,offline,Regional or local newspaper,10,hun_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 85",3
+HUN,,2021,offline,Bors,8,hun_bors,,,"DNR 2021, p. 85",2
+HUN,,2021,offline,CNN,7,hun_cnn,,,"DNR 2021, p. 85",3
+HUN,,2021,offline,Euronews,7,hun_euronews,,,"DNR 2021, p. 85",3
+HUN,,2021,offline,Nemzeti Sport,6,hun_nemzeti_sport,,,"DNR 2021, p. 85",2
+HUN,,2021,online,24.hu,39,hun_24_hu,24.hu,,"DNR 2021, p. 85",19
+HUN,,2021,online,index.hu,37,hun_index_hu,index.hu,,"DNR 2021, p. 85",19
+HUN,,2021,online,origo.hu,34,hun_origo,origo.hu,,"DNR 2021, p. 85",17
+HUN,,2021,online,444.hu,29,hun_444_hu,444.hu,,"DNR 2021, p. 85",13
+HUN,,2021,online,hvg.hu,28,hun_hvg,hvg.hu,,"DNR 2021, p. 85",12
+HUN,,2021,online,rtlklub.hu,24,hun_rtl_klub,rtlklub.hu,,"DNR 2021, p. 85",13
+HUN,,2021,online,telex.hu,20,hun_telex_hu,telex.hu,,"DNR 2021, p. 85",13
+HUN,,2021,online,atv.hu,18,hun_atv,atv.hu,,"DNR 2021, p. 85",10
+HUN,,2021,online,tv2.hu,18,hun_tv2,tv2.hu,,"DNR 2021, p. 85",10
+HUN,,2021,online,blikk.hu,16,hun_blikk,blikk.hu,,"DNR 2021, p. 85",5
+HUN,,2021,online,portfolio.hu,15,hun_portfolio_hu,portfolio.hu,,"DNR 2021, p. 85",6
+HUN,,2021,online,hirado.hu (public broadcaster),11,hun_mtv,hirado.hu,news site of the public broadcaster (MTVA/M1); merged with hun_mtv,"DNR 2021, p. 85",4
+HUN,,2021,online,hirtv.hu,10,hun_hir_tv,hirtv.hu,,"DNR 2021, p. 85",4
+HUN,,2021,online,168ora.hu,10,hun_168_ora,168ora.hu,,"DNR 2021, p. 85",3
+HUN,,2021,online,napi.hu,9,hun_napi_hu,napi.hu,,"DNR 2021, p. 85",3
+HUN,,2021,online,ripost.hu,7,hun_ripost_hu,ripost.hu,,"DNR 2021, p. 85",2
+IRL,,2021,offline,RTÉ News (public broadcaster),66,irl_rte,,,"DNR 2021, p. 87",52
+IRL,,2021,offline,Sky News,30,irl_sky,,,"DNR 2021, p. 87",18
+IRL,,2021,offline,BBC News,27,irl_bbc,,,"DNR 2021, p. 87",16
+IRL,,2021,offline,Virgin Media TV News,25,irl_virgin_media,,"formerly TV3 (irl_tv3, <=2018)","DNR 2021, p. 87",16
+IRL,,2021,offline,Irish Independent/Sunday Independent,22,irl_irish_independent_herald,,,"DNR 2021, p. 87",10
+IRL,,2021,offline,Today FM,19,irl_today_fm,,,"DNR 2021, p. 87",11
+IRL,,2021,offline,The Irish Times,19,irl_irish_times,,,"DNR 2021, p. 87",10
+IRL,,2021,offline,CNN,18,irl_cnn,,,"DNR 2021, p. 87",12
+IRL,,2021,offline,Local radio news,18,irl_local_radio,,"generic category, not a single outlet","DNR 2021, p. 87",10
+IRL,,2021,offline,Newstalk,16,irl_newstalk,,,"DNR 2021, p. 87",9
+IRL,,2021,offline,ITV or Channel 4 News,12,irl_itv_or_channel_4,,"UK channels, combined item","DNR 2021, p. 87",5
+IRL,,2021,offline,Irish Daily Sun,11,irl_irish_sun,,,"DNR 2021, p. 87",5
+IRL,,2021,offline,Irish Examiner,11,irl_irish_examiner,,,"DNR 2021, p. 87",4
+IRL,,2021,offline,Irish Mirror,11,irl_irish_mirror,,,"DNR 2021, p. 87",3
+IRL,,2021,offline,Regional or local newspaper,10,irl_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 87",2
+IRL,,2021,offline,Irish Daily Mail/Irish Mail on Sunday,10,irl_irish_daily_mail,,,"DNR 2021, p. 87",3
+IRL,,2021,online,RTÉ News online,41,irl_rte,,,"DNR 2021, p. 87",30
+IRL,,2021,online,TheJournal.ie,35,irl_thejournal,thejournal.ie,,"DNR 2021, p. 87",18
+IRL,,2021,online,Irish Independent online,28,irl_irish_independent_herald,,,"DNR 2021, p. 87",17
+IRL,,2021,online,The Irish Times online,24,irl_irish_times,,,"DNR 2021, p. 87",14
+IRL,,2021,online,BreakingNews.ie,23,irl_breakingnews_ie,breakingnews.ie,,"DNR 2021, p. 87",11
+IRL,,2021,online,Sky News online,16,irl_sky,,,"DNR 2021, p. 87",9
+IRL,,2021,online,BBC News online,16,irl_bbc,,,"DNR 2021, p. 87",9
+IRL,,2021,online,Irish Examiner online,13,irl_irish_examiner,,,"DNR 2021, p. 87",7
+IRL,,2021,online,Irish Mirror online,11,irl_irish_mirror,,,"DNR 2021, p. 87",6
+IRL,,2021,online,Local radio news online,11,irl_local_radio,,"generic category, not a single outlet","DNR 2021, p. 87",6
+IRL,,2021,online,CNN.com,10,irl_cnn,cnn.com,,"DNR 2021, p. 87",5
+IRL,,2021,online,Virgin Media News online,10,irl_virgin_media,,formerly TV3,"DNR 2021, p. 87",5
+IRL,,2021,online,MailOnline,9,irl_mail_online,,merged with irl_mail_online (UK Mail Online),"DNR 2021, p. 87",4
+IRL,,2021,online,Guardian online,9,irl_guardian,,,"DNR 2021, p. 87",4
+IRL,,2021,online,Her.ie/joe.ie,8,irl_her_joe,her.ie,"two sites (her.ie, joe.ie), same publisher","DNR 2021, p. 87",3
+IRL,,2021,online,Regional or local newspaper,8,irl_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 87",3
+IRL,,2021,offline,RTÉ TV News,56,irl_rte_tv,,inset box next to the TV/radio/print chart,"DNR 2021, p. 87",
+IRL,,2021,offline,RTÉ Radio News,30,irl_rte_radio,,inset box next to the TV/radio/print chart,"DNR 2021, p. 87",
+ITA,,2021,offline,"RAI TV News (Tg1, Tg2, Tg3, TgR)",46,ita_rai,,,"DNR 2021, p. 89",34
+ITA,,2021,offline,"Mediaset TV News (Tg4, Tg5, Studio Aperto)",42,ita_mediaset,,,"DNR 2021, p. 89",32
+ITA,,2021,offline,SkyTg24,32,ita_sky_tg24,,,"DNR 2021, p. 89",20
+ITA,,2021,offline,TgCom24 (Mediaset),32,ita_tgcom24,,,"DNR 2021, p. 89",17
+ITA,,2021,offline,RAI News24,26,ita_rainews24,,,"DNR 2021, p. 89",14
+ITA,,2021,offline,Tg La7,22,ita_tg_la7,,,"DNR 2021, p. 89",12
+ITA,,2021,offline,La Repubblica,17,ita_la_repubblica,,,"DNR 2021, p. 89",6
+ITA,,2021,offline,Il Corriere della Sera,13,ita_corriere_della_sera,,,"DNR 2021, p. 89",5
+ITA,,2021,offline,"RAI radio news (Gr1, Gr2, Gr3)",12,ita_rai_radio,,,"DNR 2021, p. 89",5
+ITA,,2021,offline,Porta a Porta,12,ita_porta_porta,,,"DNR 2021, p. 89",4
+ITA,,2021,offline,Regional or local newspaper,12,ita_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 89",3
+ITA,,2021,offline,Non è l’Arena,12,ita_non_e_l_arena,,,"DNR 2021, p. 89",3
+ITA,,2021,offline,Commercial radio news,11,ita_commercial_radio,,"generic category, not a single outlet","DNR 2021, p. 89",6
+ITA,,2021,offline,Piazza pulita,11,ita_piazza_pulita,,,"DNR 2021, p. 89",2
+ITA,,2021,offline,Dritto e Rovescio,10,ita_dritto_e_rovescio,,,"DNR 2021, p. 89",3
+ITA,,2021,offline,Il Sole 24 Ore,9,ita_il_sole_24_ore,,,"DNR 2021, p. 89",3
+ITA,,2021,online,TgCom24 online (Mediaset),24,ita_tgcom24,,,"DNR 2021, p. 89",14
+ITA,,2021,online,SkyTg24 online,22,ita_sky_tg24,,,"DNR 2021, p. 89",14
+ITA,,2021,online,ANSA online,20,ita_ansa,,,"DNR 2021, p. 89",10
+ITA,,2021,online,La Repubblica online,20,ita_la_repubblica,,,"DNR 2021, p. 89",12
+ITA,,2021,online,Fanpage,19,ita_fanpage,,fanpage.it,"DNR 2021, p. 89",9
+ITA,,2021,online,Il Corriere della Sera online,16,ita_corriere_della_sera,,,"DNR 2021, p. 89",8
+ITA,,2021,online,RAI News online (public broadcaster),14,ita_rai,,,"DNR 2021, p. 89",6
+ITA,,2021,online,Il Fatto Quotidiano online,12,ita_il_fatto_quotidiano,,,"DNR 2021, p. 89",6
+ITA,,2021,online,Il Sole 24 ore online,12,ita_il_sole_24_ore,,,"DNR 2021, p. 89",3
+ITA,,2021,online,HuffPost,11,ita_huffington_post,,,"DNR 2021, p. 89",4
+ITA,,2021,online,Commercial radio news online,11,ita_commercial_radio,,"generic category, not a single outlet","DNR 2021, p. 89",6
+ITA,,2021,online,Regional or local newspaper online,11,ita_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 89",5
+ITA,,2021,online,Notizie Libero online,11,ita_libero,libero.it,news section of the Libero portal (notizie.libero.it),"DNR 2021, p. 89",5
+ITA,,2021,online,Yahoo! News,10,ita_yahoo,,,"DNR 2021, p. 89",4
+ITA,,2021,online,TgLa7 online,9,ita_tg_la7,,,"DNR 2021, p. 89",5
+ITA,,2021,online,"Quotidiano.net (La Nazione online, etc.)",8,ita_quotidiano_net,quotidiano.net,,"DNR 2021, p. 89",3
+NLD,,2021,offline,NOS News (public broadcaster),61,nld_nos,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",49
+NLD,,2021,offline,RTL (incl. RTL Z and EditieNL),29,nld_rtl,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",19
+NLD,,2021,offline,SBS News,22,nld_sbs,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",14
+NLD,,2021,offline,Regional or local newspaper,18,nld_local_newspaper,,"generic category, not a single outlet; DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",12
+NLD,,2021,offline,Free local papers,18,nld_local_newspaper,,"generic category, not a single outlet; DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",4
+NLD,,2021,offline,Algemeen Dagblad,17,nld_algemeen_dagblad,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",11
+NLD,,2021,offline,Other NPO TV news programmes,16,nld_other_npo_tv_programmes,,"generic category, not a single outlet; DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",8
+NLD,,2021,offline,De Telegraaf,15,nld_de_telegraaf,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",9
+NLD,,2021,offline,Commercial radio news,15,nld_commercial_radio,,"generic category, not a single outlet; DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",9
+NLD,,2021,offline,Regional TV news,13,nld_regional_tv,,"generic category, not a single outlet; DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",8
+NLD,,2021,offline,Regional radio news,11,nld_regional_radio,,"generic category, not a single outlet; DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",6
+NLD,,2021,offline,de Volkskrant,8,nld_de_volkskrant,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",5
+NLD,,2021,offline,CNN,6,nld_cnn,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",2
+NLD,,2021,offline,Non-daily regional or local newspaper,6,nld_local_newspaper,,"generic category, not a single outlet; DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",1
+NLD,,2021,offline,BNR Nieuwsradio,6,nld_bnr,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",3
+NLD,,2021,offline,BBC News,5,nld_bbc,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",3
+NLD,,2021,online,NU.nl,41,nld_nu_nl,nu.nl,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",30
+NLD,,2021,online,NOS News online,28,nld_nos,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",19
+NLD,,2021,online,Algemeen Dagblad online,26,nld_algemeen_dagblad,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",18
+NLD,,2021,online,De Telegraaf online,22,nld_de_telegraaf,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",15
+NLD,,2021,online,RTL News online,15,nld_rtl,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",9
+NLD,,2021,online,Regional or local newspaper online,11,nld_local_newspaper,,"generic category, not a single outlet; DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",6
+NLD,,2021,online,Regional or local TV news online,11,nld_regional_tv,,"generic category, not a single outlet; DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",6
+NLD,,2021,online,de Volkskrant online,8,nld_de_volkskrant,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",4
+NLD,,2021,online,SBS News online,7,nld_sbs,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",4
+NLD,,2021,online,MSN News,7,nld_msn,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",3
+NLD,,2021,online,indebuurt.nl,5,nld_indebuurt_nl,indebuurt.nl,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",2
+NLD,,2021,online,Geen Stijl,5,nld_geen_stijl,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",2
+NLD,,2021,online,NRC online,5,nld_nrc,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",2
+NLD,,2021,online,Linda News,5,nld_linda,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",2
+NLD,,2021,online,BBC News online,4,nld_bbc,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",2
+NLD,,2021,online,Nederlands Dagblad online,4,nld_nederlands_dagblad,,"DNR 2021 footnote: brand reach data for the Netherlands come from a separate re-poll (26 March - 6 April 2021, N=1504) due to a scripting error in the original survey","DNR 2021, p. 91",2
+NOR,,2021,offline,NRK News (TV & radio) (public broadcaster),56,nor_nrk,,,"DNR 2021, p. 93",44
+NOR,,2021,offline,TV2 News,50,nor_tv2,,,"DNR 2021, p. 93",36
+NOR,,2021,offline,VG (Verdens Gang),23,nor_vg,,,"DNR 2021, p. 93",15
+NOR,,2021,offline,Regional or local newspaper,20,nor_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 93",12
+NOR,,2021,offline,P4 News (radio),15,nor_p4,,,"DNR 2021, p. 93",8
+NOR,,2021,offline,Local radio news,13,nor_local_radio,,"generic category, not a single outlet","DNR 2021, p. 93",7
+NOR,,2021,offline,Dagbladet,11,nor_dagbladet,,,"DNR 2021, p. 93",5
+NOR,,2021,offline,Aftenposten,11,nor_aftenposten,,,"DNR 2021, p. 93",7
+NOR,,2021,offline,Local TV news,11,nor_local_tv,,"generic category, not a single outlet","DNR 2021, p. 93",5
+NOR,,2021,offline,CNN,10,nor_cnn,,,"DNR 2021, p. 93",5
+NOR,,2021,offline,Radio Norge,8,nor_radio_norge,,,"DNR 2021, p. 93",4
+NOR,,2021,offline,BBC News,8,nor_bbc,,,"DNR 2021, p. 93",4
+NOR,,2021,offline,Dagens Næringsliv,6,nor_dagens_naeringsliv,,,"DNR 2021, p. 93",3
+NOR,,2021,offline,SVT (Svensk TV),5,nor_svt,,Swedish public broadcaster (foreign brand),"DNR 2021, p. 93",2
+NOR,,2021,offline,Bergens Tidende,4,nor_bergens_tidende,,,"DNR 2021, p. 93",3
+NOR,,2021,offline,Klassekampen,4,nor_klassekampen,,,"DNR 2021, p. 93",2
+NOR,,2021,online,VG Nett,59,nor_vg,,,"DNR 2021, p. 93",48
+NOR,,2021,online,NRK News online,42,nor_nrk,,,"DNR 2021, p. 93",32
+NOR,,2021,online,Dagbladet online,37,nor_dagbladet,,,"DNR 2021, p. 93",26
+NOR,,2021,online,TV2 News online,34,nor_tv2,,,"DNR 2021, p. 93",23
+NOR,,2021,online,Nettavisen,27,nor_nettavisen,,,"DNR 2021, p. 93",14
+NOR,,2021,online,Regional or local newspaper online,23,nor_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 93",18
+NOR,,2021,online,Aftenposten online,21,nor_aftenposten,,,"DNR 2021, p. 93",12
+NOR,,2021,online,ABC News online,11,nor_abcnyheter,,"ABC Nyheter (abcnyheter.no), not the US ABC News","DNR 2021, p. 93",5
+NOR,,2021,online,Dagens Næringsliv online,11,nor_dagens_naeringsliv,,,"DNR 2021, p. 93",6
+NOR,,2021,online,Bergens Tidende online,9,nor_bergens_tidende,,,"DNR 2021, p. 93",5
+NOR,,2021,online,CNN.com,8,nor_cnn,cnn.com,,"DNR 2021, p. 93",3
+NOR,,2021,online,Dagsavisen online,7,nor_dagsavisen,,,"DNR 2021, p. 93",3
+NOR,,2021,online,Adresseavisen online,7,nor_adresseavisen,,,"DNR 2021, p. 93",4
+NOR,,2021,online,BBC News online,7,nor_bbc,,,"DNR 2021, p. 93",3
+NOR,,2021,online,Resett.no,5,nor_resett,resett.no,,"DNR 2021, p. 93",3
+NOR,,2021,online,Document.no,5,nor_document,document.no,,"DNR 2021, p. 93",2
+NOR,,2021,offline,NRK TV News,51,nor_nrk_tv,,inset box next to the TV/radio/print chart,"DNR 2021, p. 93",
+NOR,,2021,offline,NRK Radio News,23,nor_nrk_radio,,inset box next to the TV/radio/print chart,"DNR 2021, p. 93",
+POL,,2021,offline,TVN News (incl. TVN 24),49,pol_tvn,,,"DNR 2021, p. 95",41
+POL,,2021,offline,Polsat News,38,pol_polsat,,,"DNR 2021, p. 95",27
+POL,,2021,offline,RMF FM,38,pol_rmf_fm,,,"DNR 2021, p. 95",26
+POL,,2021,offline,TVP News (public broadcaster),26,pol_tvp,,,"DNR 2021, p. 95",19
+POL,,2021,offline,Radio Zet,25,pol_radio_zet,,,"DNR 2021, p. 95",13
+POL,,2021,offline,Gazeta Wyborcza,17,pol_gazeta_wyborcza,,,"DNR 2021, p. 95",7
+POL,,2021,offline,Fakt,16,pol_fakt,,,"DNR 2021, p. 95",7
+POL,,2021,offline,Regional or local newspaper,14,pol_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 95",5
+POL,,2021,offline,Eska,14,pol_eska,,,"DNR 2021, p. 95",7
+POL,,2021,offline,TTV,13,pol_ttv,,,"DNR 2021, p. 95",8
+POL,,2021,offline,Regional or local radio,12,pol_local_radio,,"generic category, not a single outlet","DNR 2021, p. 95",7
+POL,,2021,offline,Super Express,11,pol_super_express,,,"DNR 2021, p. 95",3
+POL,,2021,offline,Newsweek Polska,9,pol_newsweek_polska,,,"DNR 2021, p. 95",3
+POL,,2021,offline,Angora,7,pol_angora,,,"DNR 2021, p. 95",3
+POL,,2021,offline,Polityka,7,pol_polityka,,,"DNR 2021, p. 95",2
+POL,,2021,offline,VOX FM,7,pol_vox_fm,,,"DNR 2021, p. 95",4
+POL,,2021,online,Onet.pl,50,pol_onet,onet.pl,,"DNR 2021, p. 95",34
+POL,,2021,online,WP.pl,39,pol_wp,wp.pl,,"DNR 2021, p. 95",26
+POL,,2021,online,TVN24.pl,36,pol_tvn,tvn24.pl,news site of TVN; merged with pol_tvn,"DNR 2021, p. 95",26
+POL,,2021,online,Interia.pl,30,pol_interia,interia.pl,,"DNR 2021, p. 95",19
+POL,,2021,online,(Gazeta) Wyborcza.pl,20,pol_gazeta_wyborcza,wyborcza.pl,site of Gazeta Wyborcza,"DNR 2021, p. 95",9
+POL,,2021,online,RMF24.pl,19,pol_rmf_fm,rmf24.pl,news site of RMF FM,"DNR 2021, p. 95",11
+POL,,2021,online,Fakt.pl,17,pol_fakt,fakt.pl,,"DNR 2021, p. 95",8
+POL,,2021,online,Gazeta.pl,17,pol_gazeta_pl,gazeta.pl,"Agora portal, distinct from wyborcza.pl","DNR 2021, p. 95",8
+POL,,2021,online,Polsatnews.pl,17,pol_polsat,polsatnews.pl,news site of Polsat News,"DNR 2021, p. 95",9
+POL,,2021,online,TVP.info,15,pol_tvp,tvp.info,news site of TVP; merged with pol_tvp,"DNR 2021, p. 95",10
+POL,,2021,online,Radiozet.pl,12,pol_radio_zet,radiozet.pl,,"DNR 2021, p. 95",5
+POL,,2021,online,OKO.press,11,pol_oko_press,,,"DNR 2021, p. 95",5
+POL,,2021,online,Newsweek.pl,11,pol_newsweek_polska,newsweek.pl,,"DNR 2021, p. 95",3
+POL,,2021,online,Regional or local newspaper online,10,pol_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 95",4
+POL,,2021,online,NaszeMiasto.pl,8,pol_naszemiasto_pl,naszemiasto.pl,,"DNR 2021, p. 95",3
+POL,,2021,online,Wprost.pl,8,pol_wprost,wprost.pl,,"DNR 2021, p. 95",2
+PRT,,2021,offline,SIC News (incl. SIC Noticias),70,prt_sic,,,"DNR 2021, p. 97",56
+PRT,,2021,offline,TVI News (incl. TVI 24),56,prt_tvi,,,"DNR 2021, p. 97",41
+PRT,,2021,offline,RTP News (public broadcaster),44,prt_rtp_rdp,,,"DNR 2021, p. 97",31
+PRT,,2021,offline,Correio da Manhã TV,26,prt_correio_da_manha_tv,,,"DNR 2021, p. 97",16
+PRT,,2021,offline,Correio da Manhã (newspaper),23,prt_correio_da_manha,,,"DNR 2021, p. 97",10
+PRT,,2021,offline,Jornal de Notícias,22,prt_jornal_de_noticias,,,"DNR 2021, p. 97",10
+PRT,,2021,offline,Rádio Comercial,21,prt_radio_comercial,,,"DNR 2021, p. 97",12
+PRT,,2021,offline,RFM,20,prt_rfm,,,"DNR 2021, p. 97",11
+PRT,,2021,offline,TSF,17,prt_tsf,,,"DNR 2021, p. 97",10
+PRT,,2021,offline,Expresso,14,prt_expresso,,,"DNR 2021, p. 97",5
+PRT,,2021,offline,Público,13,prt_publico,,,"DNR 2021, p. 97",5
+PRT,,2021,offline,Diário de Notícias,13,prt_diario_de_noticias,,,"DNR 2021, p. 97",5
+PRT,,2021,offline,M80,10,prt_m80,,,"DNR 2021, p. 97",6
+PRT,,2021,offline,Regional or local newspaper,10,prt_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 97",3
+PRT,,2021,offline,A Bola,9,prt_bola,,,"DNR 2021, p. 97",5
+PRT,,2021,offline,CNN,9,prt_cnn,,,"DNR 2021, p. 97",4
+PRT,,2021,online,SIC News online,37,prt_sic,,,"DNR 2021, p. 97",23
+PRT,,2021,online,Notícias ao Minuto,33,prt_noticias_ao_minuto,,,"DNR 2021, p. 97",18
+PRT,,2021,online,Sapo,27,prt_sapo,,,"DNR 2021, p. 97",15
+PRT,,2021,online,TVI News online (incl. TVI 24),26,prt_tvi,,,"DNR 2021, p. 97",16
+PRT,,2021,online,Observador,25,prt_observador,,,"DNR 2021, p. 97",13
+PRT,,2021,online,Correio da Manhã online,24,prt_correio_da_manha,,,"DNR 2021, p. 97",13
+PRT,,2021,online,Jornal de Notícias online,24,prt_jornal_de_noticias,,,"DNR 2021, p. 97",11
+PRT,,2021,online,Público online,21,prt_publico,,,"DNR 2021, p. 97",11
+PRT,,2021,online,Expresso online,20,prt_expresso,,,"DNR 2021, p. 97",9
+PRT,,2021,online,Correio da Manhã TV online,17,prt_correio_da_manha_tv,,,"DNR 2021, p. 97",9
+PRT,,2021,online,RTP News online,17,prt_rtp_rdp,,,"DNR 2021, p. 97",9
+PRT,,2021,online,Diário de Notícias online,16,prt_diario_de_noticias,,,"DNR 2021, p. 97",7
+PRT,,2021,online,MSN News,14,prt_msn,,,"DNR 2021, p. 97",8
+PRT,,2021,online,Jornal Económico,14,prt_jornal_economico,,,"DNR 2021, p. 97",5
+PRT,,2021,online,Jornal ECO online,12,prt_jornal_eco,,,"DNR 2021, p. 97",7
+PRT,,2021,online,Rádio Comercial online,11,prt_radio_comercial,,,"DNR 2021, p. 97",6
+ROU,,2021,offline,Pro TV,61,rou_pro_tv,,,"DNR 2021, p. 99",48
+ROU,,2021,offline,Digi24,47,rou_digi24,,,"DNR 2021, p. 99",35
+ROU,,2021,offline,Antena 1,40,rou_antena_1,,,"DNR 2021, p. 99",27
+ROU,,2021,offline,Antena 3,33,rou_antena_3,,,"DNR 2021, p. 99",24
+ROU,,2021,offline,România TV,29,rou_romania_tv,,,"DNR 2021, p. 99",21
+ROU,,2021,offline,TVR (public broadcaster),27,rou_tvr,,,"DNR 2021, p. 99",17
+ROU,,2021,offline,B1 TV,23,rou_b1_tv,,,"DNR 2021, p. 99",14
+ROU,,2021,offline,Adevărul,22,rou_adevarul,,,"DNR 2021, p. 99",9
+ROU,,2021,offline,Realitatea TV,22,rou_realitatea,,,"DNR 2021, p. 99",13
+ROU,,2021,offline,Kanal D,21,rou_kanal_d,,,"DNR 2021, p. 99",13
+ROU,,2021,offline,Radio Europa FM,19,rou_radio_europa_fm,,,"DNR 2021, p. 99",11
+ROU,,2021,offline,Radio România (public broadcaster),18,rou_radio_romania,,,"DNR 2021, p. 99",11
+ROU,,2021,offline,Libertatea,18,rou_libertatea,,,"DNR 2021, p. 99",6
+ROU,,2021,offline,Regional or local newspaper,18,rou_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 99",5
+ROU,,2021,offline,Prima TV News,17,rou_prima_tv,,,"DNR 2021, p. 99",8
+ROU,,2021,offline,Free city paper,14,rou_free_city_paper,,"generic category, not a single outlet","DNR 2021, p. 99",5
+ROU,,2021,online,Digi24 online,35,rou_digi24,,,"DNR 2021, p. 99",25
+ROU,,2021,online,Pro TV News online,29,rou_pro_tv,,,"DNR 2021, p. 99",19
+ROU,,2021,online,Ziare.com,28,rou_ziare_com,ziare.com,,"DNR 2021, p. 99",12
+ROU,,2021,online,Adevărul online,24,rou_adevarul,,,"DNR 2021, p. 99",10
+ROU,,2021,online,Libertatea online,24,rou_libertatea,,,"DNR 2021, p. 99",11
+ROU,,2021,online,Mediafax online,23,rou_mediafax,,,"DNR 2021, p. 99",10
+ROU,,2021,online,Yahoo! News,22,rou_yahoo,,,"DNR 2021, p. 99",12
+ROU,,2021,online,Stiripesurse.ro,20,rou_stiripesurse_ro,stiripesurse.ro,,"DNR 2021, p. 99",9
+ROU,,2021,online,HotNews,20,rou_hotnews,,,"DNR 2021, p. 99",10
+ROU,,2021,online,Ziarul Financiar online,18,rou_ziarul_financiar,,,"DNR 2021, p. 99",9
+ROU,,2021,online,Evenimentul Zilei,17,rou_evenimentul_zilei,,,"DNR 2021, p. 99",7
+ROU,,2021,online,Capital online,16,rou_capital,,,"DNR 2021, p. 99",6
+ROU,,2021,online,Antena 3 online,16,rou_antena_3,,,"DNR 2021, p. 99",10
+ROU,,2021,online,România TV online,15,rou_romania_tv,,,"DNR 2021, p. 99",9
+ROU,,2021,online,DCNews,15,rou_dcnews,,,"DNR 2021, p. 99",8
+ROU,,2021,online,Click online,14,rou_click,,,"DNR 2021, p. 99",6
+SVK,,2021,offline,TV Markíza,55,svk_tv_markiza,,,"DNR 2021, p. 101",39
+SVK,,2021,offline,TV JOJ,54,svk_tv_joj,,,"DNR 2021, p. 101",36
+SVK,,2021,offline,TA3,48,svk_ta3,,,"DNR 2021, p. 101",33
+SVK,,2021,offline,RTVS (public broadcaster),47,svk_rtvs,,,"DNR 2021, p. 101",32
+SVK,,2021,offline,Rádio Expres,29,svk_radio_expres,,,"DNR 2021, p. 101",16
+SVK,,2021,offline,Nový Čas,23,svk_novy_cas,,,"DNR 2021, p. 101",7
+SVK,,2021,offline,SME,15,svk_sme,,,"DNR 2021, p. 101",5
+SVK,,2021,offline,Plus 7 dní,14,svk_plus_7_dni,,,"DNR 2021, p. 101",3
+SVK,,2021,offline,Pravda,12,svk_pravda,,,"DNR 2021, p. 101",4
+SVK,,2021,offline,Fun rádio,12,svk_fun_radio,,,"DNR 2021, p. 101",5
+SVK,,2021,offline,Regional or local newspaper,10,svk_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 101",2
+SVK,,2021,offline,Rádio Vlna,10,svk_radio_vlna,,,"DNR 2021, p. 101",5
+SVK,,2021,offline,Denník N,9,svk_dennik_n,,,"DNR 2021, p. 101",3
+SVK,,2021,offline,Plus Jeden Deň,9,svk_plus_jeden_den,,,"DNR 2021, p. 101",2
+SVK,,2021,offline,Rádio Europa 2,8,svk_radio_europa_2,,,"DNR 2021, p. 101",4
+SVK,,2021,offline,Rádio Jemné,8,svk_radio_jemne,,,"DNR 2021, p. 101",3
+SVK,,2021,online,aktuality.sk,47,svk_aktuality,aktuality.sk,,"DNR 2021, p. 101",28
+SVK,,2021,online,topky.sk,38,svk_topky_sk,topky.sk,,"DNR 2021, p. 101",21
+SVK,,2021,online,tvnoviny.sk,26,svk_tv_markiza,tvnoviny.sk,news site of TV Markíza; merged with svk_tv_markiza,"DNR 2021, p. 101",11
+SVK,,2021,online,sme.sk,26,svk_sme,sme.sk,,"DNR 2021, p. 101",13
+SVK,,2021,online,ta3.com,25,svk_ta3,ta3.com,,"DNR 2021, p. 101",15
+SVK,,2021,online,cas.sk,23,svk_cas_sk,cas.sk,,"DNR 2021, p. 101",12
+SVK,,2021,online,pravda.sk,22,svk_pravda,pravda.sk,,"DNR 2021, p. 101",11
+SVK,,2021,online,noviny.sk,19,svk_tv_joj,noviny.sk,news site of TV JOJ; merged with svk_tv_joj,"DNR 2021, p. 101",7
+SVK,,2021,online,pluska.sk,16,svk_pluska_sk,pluska.sk,,"DNR 2021, p. 101",7
+SVK,,2021,online,dennikn.sk,15,svk_dennik_n,dennikn.sk,,"DNR 2021, p. 101",7
+SVK,,2021,online,hnonline.sk,12,svk_hospodarske_noviny,hnonline.sk,,"DNR 2021, p. 101",5
+SVK,,2021,online,refresher.sk,12,svk_refresher_sk,refresher.sk,,"DNR 2021, p. 101",6
+SVK,,2021,online,dnes24.sk,11,svk_dnes24_sk,dnes24.sk,,"DNR 2021, p. 101",4
+SVK,,2021,online,hlavnespravy.sk,10,svk_hlavnespravy_sk,hlavnespravy.sk,,"DNR 2021, p. 101",5
+SVK,,2021,online,webnoviny.sk,9,svk_webnoviny_sk,webnoviny.sk,,"DNR 2021, p. 101",2
+SVK,,2021,online,startitup.sk,9,svk_startitup_sk,startitup.sk,,"DNR 2021, p. 101",4
+SVK,,2021,offline,RTVS TV News,38,svk_rtvs_tv,,inset box next to the TV/radio/print chart,"DNR 2021, p. 101",
+SVK,,2021,offline,RTVS Radio News,23,svk_rtvs_radio,,inset box next to the TV/radio/print chart,"DNR 2021, p. 101",
+ESP,,2021,offline,Antena 3 News,46,esp_antena_3,,,"DNR 2021, p. 103",34
+ESP,,2021,offline,LaSexta News,32,esp_lasexta,,,"DNR 2021, p. 103",22
+ESP,,2021,offline,Telecinco News,30,esp_telecinco,,,"DNR 2021, p. 103",23
+ESP,,2021,offline,RTVE (public broadcaster),28,esp_rtve,,,"DNR 2021, p. 103",19
+ESP,,2021,offline,Cuatro News,21,esp_cuatro,,,"DNR 2021, p. 103",12
+ESP,,2021,offline,Local public TV or radio news,19,esp_local_radio,,"generic category, not a single outlet","DNR 2021, p. 103",13
+ESP,,2021,offline,El País,16,esp_el_pais,,,"DNR 2021, p. 103",6
+ESP,,2021,offline,Regional or local newspaper,13,esp_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 103",6
+ESP,,2021,offline,Cadena SER News,12,esp_cadena_ser,,,"DNR 2021, p. 103",8
+ESP,,2021,offline,Local private TV or radio news,11,esp_local_radio,,"generic category, not a single outlet","DNR 2021, p. 103",6
+ESP,,2021,offline,El Mundo,11,esp_el_mundo,,,"DNR 2021, p. 103",5
+ESP,,2021,offline,20 Minutos,10,esp_20_minutos,,,"DNR 2021, p. 103",4
+ESP,,2021,offline,COPE News,10,esp_cope,,,"DNR 2021, p. 103",7
+ESP,,2021,offline,Marca,8,esp_marca,,,"DNR 2021, p. 103",4
+ESP,,2021,offline,La Vanguardia,7,esp_la_vanguardia,,,"DNR 2021, p. 103",3
+ESP,,2021,offline,El Periódico,7,esp_el_periodico,,,"DNR 2021, p. 103",3
+ESP,,2021,online,El País online,21,esp_el_pais,,,"DNR 2021, p. 103",11
+ESP,,2021,online,20 Minutos online,15,esp_20_minutos,,,"DNR 2021, p. 103",8
+ESP,,2021,online,elDiario.es,14,esp_el_diario,eldiario.es,,"DNR 2021, p. 103",7
+ESP,,2021,online,El Mundo online,14,esp_el_mundo,,,"DNR 2021, p. 103",8
+ESP,,2021,online,Antena 3 online,14,esp_antena_3,,,"DNR 2021, p. 103",8
+ESP,,2021,online,Regional or local newspaper online,13,esp_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 103",7
+ESP,,2021,online,El Confidencial,12,esp_el_confidencial,,,"DNR 2021, p. 103",5
+ESP,,2021,online,La Vanguardia online,12,esp_la_vanguardia,,,"DNR 2021, p. 103",6
+ESP,,2021,online,OKDiario,11,esp_okdiario,,,"DNR 2021, p. 103",5
+ESP,,2021,online,Marca online,11,esp_marca,,,"DNR 2021, p. 103",7
+ESP,,2021,online,RTVE News online (public broadcaster),11,esp_rtve,,,"DNR 2021, p. 103",6
+ESP,,2021,online,Local public TV or radio news online,10,esp_local_radio,,"generic category, not a single outlet","DNR 2021, p. 103",6
+ESP,,2021,online,Telecinco online,10,esp_telecinco,,,"DNR 2021, p. 103",6
+ESP,,2021,online,ABC online,9,esp_abc,,,"DNR 2021, p. 103",5
+ESP,,2021,online,LaSexta online,9,esp_lasexta,,,"DNR 2021, p. 103",5
+ESP,,2021,online,Local private TV or radio news online,8,esp_local_radio,,"generic category, not a single outlet","DNR 2021, p. 103",5
+SWE,,2021,offline,SVT News (public television),57,swe_svt,,,"DNR 2021, p. 105",43
+SWE,,2021,offline,TV4 News,52,swe_tv4,,,"DNR 2021, p. 105",36
+SWE,,2021,offline,SR News (public radio),34,swe_sr,,,"DNR 2021, p. 105",24
+SWE,,2021,offline,Regional or local newspaper,21,swe_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 105",10
+SWE,,2021,offline,Aftonbladet,16,swe_aftonbladet,,,"DNR 2021, p. 105",11
+SWE,,2021,offline,Expressen,12,swe_expressen,,,"DNR 2021, p. 105",6
+SWE,,2021,offline,Dagens Nyheter,10,swe_dagens_nyheter,,,"DNR 2021, p. 105",5
+SWE,,2021,offline,CNN,10,swe_cnn,,,"DNR 2021, p. 105",5
+SWE,,2021,offline,BBC News,7,swe_bbc,,,"DNR 2021, p. 105",4
+SWE,,2021,offline,Svenska Dagbladet,6,swe_svenska_dagbladet,,,"DNR 2021, p. 105",3
+SWE,,2021,offline,Göteborgs-Posten,6,swe_goteborgs_posten,,,"DNR 2021, p. 105",3
+SWE,,2021,offline,News media from outside Sweden,4,swe_foreign_media,,"generic category, not a single outlet","DNR 2021, p. 105",1
+SWE,,2021,offline,Dagens Industri,4,swe_dagens_industri,,,"DNR 2021, p. 105",2
+SWE,,2021,offline,Sydsvenska Dagbladet,4,swe_sydsvenska_dagbladet,,,"DNR 2021, p. 105",2
+SWE,,2021,offline,Uppsala Nya Tidning,3,swe_uppsala_nya_tidning,,,"DNR 2021, p. 105",
+SWE,,2021,offline,Helsingsborgs Dagblad,2,swe_helsingsborgs_dagblad,,,"DNR 2021, p. 105",
+SWE,,2021,online,Aftonbladet online,41,swe_aftonbladet,,,"DNR 2021, p. 105",32
+SWE,,2021,online,SVT News online,34,swe_svt,,,"DNR 2021, p. 105",23
+SWE,,2021,online,Expressen online,30,swe_expressen,,,"DNR 2021, p. 105",20
+SWE,,2021,online,TV4 News online,21,swe_tv4,,,"DNR 2021, p. 105",11
+SWE,,2021,online,Regional or local newspaper online,15,swe_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 105",9
+SWE,,2021,online,Dagens Nyheter online,13,swe_dagens_nyheter,,,"DNR 2021, p. 105",7
+SWE,,2021,online,Nyheter 24 (News 24),12,swe_nyheter_24,,,"DNR 2021, p. 105",4
+SWE,,2021,online,SR News online,12,swe_sr,,,"DNR 2021, p. 105",6
+SWE,,2021,online,Svenska Dagbladet online,10,swe_svenska_dagbladet,,,"DNR 2021, p. 105",5
+SWE,,2021,online,CNN.com,8,swe_cnn,cnn.com,,"DNR 2021, p. 105",4
+SWE,,2021,online,Göteborgs-Posten online,8,swe_goteborgs_posten,,,"DNR 2021, p. 105",5
+SWE,,2021,online,BBC News online,8,swe_bbc,,,"DNR 2021, p. 105",4
+SWE,,2021,online,Fria Tider,7,swe_fria_tider,,,"DNR 2021, p. 105",4
+SWE,,2021,online,Samhällsnytt,7,swe_samhallsnytt,,,"DNR 2021, p. 105",3
+SWE,,2021,online,Nyheter Idag,7,swe_nyheter_idag,,,"DNR 2021, p. 105",3
+SWE,,2021,online,Dagens Industri online,5,swe_dagens_industri,,,"DNR 2021, p. 105",3
+CHE,german-speaking,2021,offline,SRF News (public broadcaster),66,che_srf,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",49
+CHE,german-speaking,2021,offline,20 minuten,44,che_20_minuten,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",30
+CHE,german-speaking,2021,offline,German public TV news,25,che_german_public_tv,,"generic category, not a single outlet; DNR reports German-speaking and French-speaking lists separately","DNR 2021, p. 107",15
+CHE,german-speaking,2021,offline,Private TV news,22,che_private_tv,,"generic category, not a single outlet; DNR reports German-speaking and French-speaking lists separately","DNR 2021, p. 107",14
+CHE,german-speaking,2021,offline,German private TV news,21,che_german_commercial_tv,,"generic category, not a single outlet; DNR reports German-speaking and French-speaking lists separately","DNR 2021, p. 107",12
+CHE,german-speaking,2021,offline,Blick,18,che_blick,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",11
+CHE,german-speaking,2021,offline,Private radio news,17,che_private_radio,,"generic category, not a single outlet; DNR reports German-speaking and French-speaking lists separately","DNR 2021, p. 107",9
+CHE,german-speaking,2021,offline,Regional/local newspaper,15,che_local_newspaper,,"generic category, not a single outlet; DNR reports German-speaking and French-speaking lists separately","DNR 2021, p. 107",6
+CHE,german-speaking,2021,offline,Tages-Anzeiger,12,che_tages_anzeiger,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",6
+CHE,german-speaking,2021,offline,CNN,9,che_cnn,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",5
+CHE,german-speaking,2021,offline,BBC News,8,che_bbc,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",4
+CHE,german-speaking,2021,offline,SonntagsZeitung,8,che_sonntagszeitung,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",2
+CHE,german-speaking,2021,online,20 minuten online,49,che_20_minuten,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",38
+CHE,german-speaking,2021,online,SRF News online,32,che_srf,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",18
+CHE,german-speaking,2021,online,Blick and Blick am Abend online,27,che_blick,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",19
+CHE,german-speaking,2021,online,Watson,20,che_watson,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",11
+CHE,german-speaking,2021,online,Bluewin News,18,che_bluewin,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",11
+CHE,german-speaking,2021,online,nau.ch,17,che_nau_ch,nau.ch,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",10
+CHE,german-speaking,2021,online,gmx,12,che_gmx,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",6
+CHE,german-speaking,2021,online,Tages-Anzeiger online,11,che_tages_anzeiger,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",7
+CHE,german-speaking,2021,online,NZZ online,10,che_nzz,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",5
+CHE,german-speaking,2021,online,Teletext online,9,che_teletext_ch,,listed in both language submarkets; DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",5
+CHE,german-speaking,2021,online,Regional/local newspaper online,9,che_local_newspaper,,"generic category, not a single outlet; DNR reports German-speaking and French-speaking lists separately","DNR 2021, p. 107",4
+CHE,german-speaking,2021,online,CNN.com,7,che_cnn,cnn.com,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",3
+CHE,german-speaking,2021,offline,SRF TV News,47,che_srf_tv,,inset box next to the TV/radio/print chart; DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",
+CHE,german-speaking,2021,offline,SRF Radio News,41,che_srf_radio,,inset box next to the TV/radio/print chart; DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",
+CHE,french-speaking,2021,offline,RTS News (public broadcaster),74,che_rts,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",54
+CHE,french-speaking,2021,offline,20 minutes,50,che_20_minutes,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",33
+CHE,french-speaking,2021,offline,French private TV news,33,che_french_commercial_tv,,"generic category, not a single outlet; DNR reports German-speaking and French-speaking lists separately","DNR 2021, p. 107",21
+CHE,french-speaking,2021,offline,French public TV news,26,che_french_public_tv,,"generic category, not a single outlet; DNR reports German-speaking and French-speaking lists separately","DNR 2021, p. 107",14
+CHE,french-speaking,2021,offline,24 heures,19,che_24_heures,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",11
+CHE,french-speaking,2021,offline,Le Matin Dimanche,17,che_le_matin_dimanche,,Sunday paper; kept separate from Le Matin (che_le_matin); DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",5
+CHE,french-speaking,2021,offline,Private radio news,16,che_private_radio,,"generic category, not a single outlet; DNR reports German-speaking and French-speaking lists separately","DNR 2021, p. 107",9
+CHE,french-speaking,2021,offline,Le Temps,15,che_le_temps,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",7
+CHE,french-speaking,2021,offline,Regional or local newspaper,11,che_local_newspaper,,"generic category, not a single outlet; DNR reports German-speaking and French-speaking lists separately","DNR 2021, p. 107",5
+CHE,french-speaking,2021,offline,Private TV news,10,che_private_tv,,"generic category, not a single outlet; DNR reports German-speaking and French-speaking lists separately","DNR 2021, p. 107",4
+CHE,french-speaking,2021,offline,Tribune de Genève,10,che_tribune_de_geneve,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",5
+CHE,french-speaking,2021,offline,La Liberté,9,che_la_liberte,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",5
+CHE,french-speaking,2021,online,20 minutes online,54,che_20_minutes,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",44
+CHE,french-speaking,2021,online,RTS News online,37,che_rts,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",20
+CHE,french-speaking,2021,online,Le Matin (incl. Sunday),24,che_le_matin,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",11
+CHE,french-speaking,2021,online,Bluewin.ch,20,che_bluewin,bluewin.ch,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",13
+CHE,french-speaking,2021,online,24 heures.ch,19,che_24_heures,24heures.ch,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",11
+CHE,french-speaking,2021,online,Teletext online,15,che_teletext_ch,,listed in both language submarkets; DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",8
+CHE,french-speaking,2021,online,MSN News,11,che_msn,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",4
+CHE,french-speaking,2021,online,Tribune de Genève online,10,che_tribune_de_geneve,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",6
+CHE,french-speaking,2021,online,Le Temps online,10,che_le_temps,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",4
+CHE,french-speaking,2021,online,Le Nouvelliste online,10,che_le_nouvelliste,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",6
+CHE,french-speaking,2021,online,Yahoo! News,9,che_yahoo,,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",3
+CHE,french-speaking,2021,online,Arcinfo.ch,9,che_arcinfo,arcinfo.ch,DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",6
+CHE,french-speaking,2021,offline,RTS TV News,58,che_rts_tv,,inset box next to the TV/radio/print chart; DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",
+CHE,french-speaking,2021,offline,RTS Radio News,40,che_rts_radio,,inset box next to the TV/radio/print chart; DNR reports German-speaking and French-speaking lists separately,"DNR 2021, p. 107",
+TUR,,2021,offline,Fox TV News,54,tur_fox_tv,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",43
+TUR,,2021,offline,CNN Türk,33,tur_cnn_turk,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",20
+TUR,,2021,offline,Sözcü,32,tur_sozcu,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",19
+TUR,,2021,offline,NTV,30,tur_ntv,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",18
+TUR,,2021,offline,Show TV,28,tur_show_tv,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",18
+TUR,,2021,offline,Habertürk TV,27,tur_haberturk_tv,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",17
+TUR,,2021,offline,Hürriyet,26,tur_hurriyet,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",10
+TUR,,2021,offline,TRT News (public broadcaster),25,tur_trt,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",15
+TUR,,2021,offline,Kanal D News,25,tur_kanal_d,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",15
+TUR,,2021,offline,ATV News,24,tur_atv,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",15
+TUR,,2021,offline,Star TV,24,tur_star_tv,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",14
+TUR,,2021,offline,Cumhuriyet,22,tur_cumhuriyet,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",10
+TUR,,2021,offline,Milliyet,20,tur_milliyet,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",9
+TUR,,2021,offline,Sabah,19,tur_sabah,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",7
+TUR,,2021,offline,A Haber,19,tur_a_haber,,"Ahaber; Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",11
+TUR,,2021,offline,Halk TV,18,tur_halk_tv,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",12
+TUR,,2021,online,Sondakika.com,30,tur_sondakika_com,sondakika.com,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",17
+TUR,,2021,online,CNN Türk online,30,tur_cnn_turk,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",17
+TUR,,2021,online,Sözcü online,27,tur_sozcu,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",19
+TUR,,2021,online,NTV online,25,tur_ntv,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",14
+TUR,,2021,online,Mynet,23,tur_mynet,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",14
+TUR,,2021,online,TRT news online,22,tur_trt,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",11
+TUR,,2021,online,Hürriyet online,22,tur_hurriyet,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",9
+TUR,,2021,online,Cumhuriyet online,20,tur_cumhuriyet,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",11
+TUR,,2021,online,BBC News online,20,tur_bbc,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",12
+TUR,,2021,online,Haberler.com,18,tur_haberler_com,haberler.com,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",8
+TUR,,2021,online,Habertürk online,18,tur_haberturk,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",10
+TUR,,2021,online,İnternethaber,17,tur_internethaber,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",7
+TUR,,2021,online,memurlar.net,17,tur_memurlar_net,memurlar.net,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",9
+TUR,,2021,online,Milliyet online,16,tur_milliyet,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",9
+TUR,,2021,online,Ensonhaber,15,tur_ensonhaber,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",7
+TUR,,2021,online,AA (Anadolu Ajansı),15,tur_aa,,"Urban sample; DNR 2021 methodology note: panel provider for Turkey changed in 2021, 'attempts to interpret change from 2020 to 2021 should be avoided'","DNR 2021, p. 109",8
+USA,,2021,offline,Local TV news,26,usa_local_tv,,"generic category, not a single outlet","DNR 2021, p. 113",18
+USA,,2021,offline,Fox News,25,usa_fox,,,"DNR 2021, p. 113",18
+USA,,2021,offline,CNN,24,usa_cnn,,,"DNR 2021, p. 113",16
+USA,,2021,offline,ABC News,20,usa_abc,,,"DNR 2021, p. 113",11
+USA,,2021,offline,NBC/MSNBC News,20,usa_nbc_msnbc,,,"DNR 2021, p. 113",15
+USA,,2021,offline,CBS News,20,usa_cbs,,,"DNR 2021, p. 113",11
+USA,,2021,offline,Local radio news,14,usa_local_radio,,"generic category, not a single outlet","DNR 2021, p. 113",8
+USA,,2021,offline,Regional or local newspaper,14,usa_local_newspaper,,"generic category, not a single outlet","DNR 2021, p. 113",6
+USA,,2021,offline,BBC News,10,usa_bbc,,,"DNR 2021, p. 113",6
+USA,,2021,offline,New York Times,10,usa_new_york_times,,,"DNR 2021, p. 113",5
+USA,,2021,offline,NPR News,10,usa_npr,,,"DNR 2021, p. 113",6
+USA,,2021,offline,PBS News,9,usa_pbs,,,"DNR 2021, p. 113",4
+USA,,2021,offline,Newsmax TV,9,usa_newsmax,,,"DNR 2021, p. 113",5
+USA,,2021,offline,USA Today,8,usa_usa_today,,,"DNR 2021, p. 113",3
+USA,,2021,offline,The Rush Limbaugh Show,8,usa_rush_limbaugh_show,,radio programme,"DNR 2021, p. 113",5
+USA,,2021,offline,Washington Post,7,usa_washington_post,,,"DNR 2021, p. 113",4
+USA,,2021,online,CNN.com,18,usa_cnn,cnn.com,,"DNR 2021, p. 113",12
+USA,,2021,online,Yahoo! News,16,usa_yahoo,,,"DNR 2021, p. 113",10
+USA,,2021,online,New York Times online,15,usa_new_york_times,,,"DNR 2021, p. 113",9
+USA,,2021,online,Fox News online,14,usa_fox,,,"DNR 2021, p. 113",9
+USA,,2021,online,Local TV news online,14,usa_local_tv,,"generic category, not a single outlet","DNR 2021, p. 113",8
+USA,,2021,online,NBC/MSNBC News online,13,usa_nbc_msnbc,,,"DNR 2021, p. 113",7
+USA,,2021,online,Washington Post online,12,usa_washington_post,,,"DNR 2021, p. 113",6
+USA,,2021,online,HuffPost,11,usa_huffington_post,,,"DNR 2021, p. 113",5
+USA,,2021,online,BuzzFeed News,11,usa_buzzfeed,,,"DNR 2021, p. 113",4
+USA,,2021,online,BBC News online,11,usa_bbc,,,"DNR 2021, p. 113",5
+USA,,2021,online,MSN News,10,usa_msn,,,"DNR 2021, p. 113",5
+USA,,2021,online,ABC News online,9,usa_abc,,,"DNR 2021, p. 113",5
+USA,,2021,online,CBS News online,8,usa_cbs,,,"DNR 2021, p. 113",4
+USA,,2021,online,Newsmax online,8,usa_newsmax,,,"DNR 2021, p. 113",5
+USA,,2021,online,USA Today online,8,usa_usa_today,,,"DNR 2021, p. 113",3
+USA,,2021,online,NPR News online,8,usa_npr,,,"DNR 2021, p. 113",4
+CAN,english-speaking,2021,offline,Global News,33,can_global,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",21
+CAN,english-speaking,2021,offline,CTV News,32,can_ctv,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",21
+CAN,english-speaking,2021,offline,CNN,30,can_cnn,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",22
+CAN,english-speaking,2021,offline,CBC News (public broadcaster),27,can_cbc,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",17
+CAN,english-speaking,2021,offline,Local radio news,22,can_local_radio,,"generic category, not a single outlet; DNR reports English-speaking and French-speaking lists separately","DNR 2021, p. 119",15
+CAN,english-speaking,2021,offline,CityTV News,18,can_citytv,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",9
+CAN,english-speaking,2021,offline,CP24,16,can_cp24,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",12
+CAN,english-speaking,2021,offline,BBC News,16,can_bbc,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",8
+CAN,english-speaking,2021,offline,Community newspaper,14,can_local_newspaper,,"generic category, not a single outlet; DNR reports English-speaking and French-speaking lists separately","DNR 2021, p. 119",5
+CAN,english-speaking,2021,offline,Toronto Star,11,can_toronto_star,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",6
+CAN,english-speaking,2021,offline,Fox News,11,can_fox,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",5
+CAN,english-speaking,2021,offline,Local daily newspaper (eg Calgary Sun),10,can_local_newspaper,,"generic category, not a single outlet; DNR reports English-speaking and French-speaking lists separately","DNR 2021, p. 119",4
+CAN,english-speaking,2021,online,CBC News online,27,can_cbc,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",18
+CAN,english-speaking,2021,online,CTV News online,26,can_ctv,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",17
+CAN,english-speaking,2021,online,CNN.com,23,can_cnn,cnn.com,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",17
+CAN,english-speaking,2021,online,Global News online,19,can_global,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",12
+CAN,english-speaking,2021,online,Yahoo! News,14,can_yahoo,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",7
+CAN,english-speaking,2021,online,Globe and Mail online,14,can_globe_and_mail,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",6
+CAN,english-speaking,2021,online,MSN News,14,can_msn,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",6
+CAN,english-speaking,2021,online,BBC News online,14,can_bbc,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",9
+CAN,english-speaking,2021,online,HuffPost,12,can_huffington_post,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",4
+CAN,english-speaking,2021,online,Toronto Star online,12,can_toronto_star,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",5
+CAN,english-speaking,2021,online,BuzzFeed News,11,can_buzzfeed,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",4
+CAN,english-speaking,2021,online,CP24 online,10,can_cp24,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",8
+CAN,french-speaking,2021,offline,TVA/LCN Nouvelles,62,can_tva,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",53
+CAN,french-speaking,2021,offline,Radio-Canada/ICI RDI (public broadcaster),49,can_radio_canada_rdi,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",37
+CAN,french-speaking,2021,offline,Journal de Montréal ou Québec,26,can_journal_de_montreal_de_quebec,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",14
+CAN,french-speaking,2021,offline,Local radio news,13,can_local_radio,,"generic category, not a single outlet; DNR reports English-speaking and French-speaking lists separately","DNR 2021, p. 119",8
+CAN,french-speaking,2021,offline,Regional or local newspaper,13,can_local_newspaper,,"generic category, not a single outlet; DNR reports English-speaking and French-speaking lists separately","DNR 2021, p. 119",3
+CAN,french-speaking,2021,offline,TV5,9,can_tv5,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",5
+CAN,french-speaking,2021,offline,CNN,8,can_cnn,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",5
+CAN,french-speaking,2021,offline,Le Devoir,7,can_le_devoir,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",3
+CAN,french-speaking,2021,offline,CTV News,6,can_ctv,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",3
+CAN,french-speaking,2021,offline,L’actualité,6,can_l_actualite,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",2
+CAN,french-speaking,2021,offline,CBC News,6,can_cbc,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",2
+CAN,french-speaking,2021,offline,Métro,6,can_metro,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",2
+CAN,french-speaking,2021,online,TVA Nouvelles online,36,can_tva,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",25
+CAN,french-speaking,2021,online,Radio-Canada/ICI RDI online,34,can_radio_canada_rdi,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",23
+CAN,french-speaking,2021,online,La Presse online,29,can_la_presse,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",20
+CAN,french-speaking,2021,online,Journal de Montréal ou Québec online,24,can_journal_de_montreal_de_quebec,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",14
+CAN,french-speaking,2021,online,MSN News,15,can_msn,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",7
+CAN,french-speaking,2021,online,Le Devoir online,10,can_le_devoir,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",5
+CAN,french-speaking,2021,online,Local radio online,10,can_local_radio,,"generic category, not a single outlet; DNR reports English-speaking and French-speaking lists separately","DNR 2021, p. 119",5
+CAN,french-speaking,2021,online,Narcity.com,10,can_narcity,narcity.com,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",4
+CAN,french-speaking,2021,online,HuffPost,9,can_huffington_post_quebec,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",3
+CAN,french-speaking,2021,online,Yahoo! News,8,can_yahoo,,DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",3
+CAN,french-speaking,2021,online,Other regional or local newspaper website,7,can_local_newspaper,,"generic category, not a single outlet; DNR reports English-speaking and French-speaking lists separately","DNR 2021, p. 119",2
+CAN,french-speaking,2021,online,Le Soleil or regional daily online,6,can_le_soleil_or_regional_daily,,combined item; DNR reports English-speaking and French-speaking lists separately,"DNR 2021, p. 119",3
+MEX,,2021,offline,TV Azteca News,43,mex_tv_azteca,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",32
+MEX,,2021,offline,Televisa News,35,mex_televisa,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",25
+MEX,,2021,offline,El Universal,25,mex_el_universal,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",11
+MEX,,2021,offline,Regional or local newspaper,23,mex_local_newspaper,,"generic category, not a single outlet; Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",6
+MEX,,2021,offline,Milenio News,22,mex_milenio,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",14
+MEX,,2021,offline,Imagen News,22,mex_imagen,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",13
+MEX,,2021,offline,CNN,16,mex_cnn,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",8
+MEX,,2021,offline,Reforma,12,mex_reforma,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",4
+MEX,,2021,offline,Excelsior,11,mex_excelsior,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",3
+MEX,,2021,offline,La Jornada,11,mex_la_jornada,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",5
+MEX,,2021,offline,Local radio news,10,mex_local_radio,,"generic category, not a single outlet; Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",6
+MEX,,2021,offline,Radio Fórmula News,10,mex_radio_formula,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",5
+MEX,,2021,offline,Local TV news,10,mex_local_tv,,"generic category, not a single outlet; Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",5
+MEX,,2021,offline,Canal 22 News (public broadcaster),9,mex_canal_22,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",4
+MEX,,2021,offline,El Sol de México,9,mex_el_sol_de_mexico,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",3
+MEX,,2021,offline,El Financiero,7,mex_el_financiero,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",3
+MEX,,2021,online,El Universal online,30,mex_el_universal,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",16
+MEX,,2021,online,UnoTV online,25,mex_unotv,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",14
+MEX,,2021,online,TV Azteca News online,24,mex_tv_azteca,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",16
+MEX,,2021,online,Aristegui News,21,mex_aristegui,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",11
+MEX,,2021,online,Televisa News online,17,mex_televisa,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",11
+MEX,,2021,online,City paper online,16,mex_city_paper,,"generic category, not a single outlet; Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",9
+MEX,,2021,online,CNN.com,16,mex_cnn,cnn.com,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",8
+MEX,,2021,online,Imagen News online,16,mex_imagen,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",8
+MEX,,2021,online,Reforma online,14,mex_reforma,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",5
+MEX,,2021,online,Animal Político,14,mex_animal_politico,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",7
+MEX,,2021,online,Regional or local newspaper online,13,mex_local_newspaper,,"generic category, not a single outlet; Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",5
+MEX,,2021,online,El Financiero online,13,mex_el_financiero,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",6
+MEX,,2021,online,La Jornada online,12,mex_la_jornada,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",5
+MEX,,2021,online,Local TV news online,11,mex_local_tv,,"generic category, not a single outlet; Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",4
+MEX,,2021,online,Latinus (Carlos Loret y Brozzo) online,11,mex_latinus,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",7
+MEX,,2021,online,BBC News online,10,mex_bbc,,"Urban sample ('our predominantly urban sample', DNR 2021 country page)","DNR 2021, p. 125",5
