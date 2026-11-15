@@ -457,7 +457,7 @@ IRL,,2018,online,Any local radio news online,10,irl_local_radio,,"generic catego
 IRL,,2018,online,Irish Examiner online,10,irl_irish_examiner,,,"DNR 2018, p. 87",6
 IRL,,2018,online,BuzzFeed News,8,irl_buzzfeed,,,"DNR 2018, p. 87",4
 IRL,,2018,online,Yahoo! News,8,irl_yahoo,,,"DNR 2018, p. 87",4
-IRL,,2018,online,Mail online,8,irl_mail_online,,,"DNR 2018, p. 87",4
+IRL,,2018,online,Mail online,8,irl_irish_daily_mail,,id merged: was irl_mail_online (UK Mail Online site; online side of the Irish Daily Mail),"DNR 2018, p. 87",4
 IRL,,2018,online,Guardian online,8,irl_guardian,,,"DNR 2018, p. 87",4
 IRL,,2018,online,MSN News,8,irl_msn,,,"DNR 2018, p. 87",5
 IRL,,2018,online,TV3 news online,7,irl_tv3,,,"DNR 2018, p. 87",3
@@ -821,7 +821,7 @@ TUR,,2018,offline,Show TV,26,tur_show_tv,,"Urban sample ('our urban sample', DNR
 TUR,,2018,offline,Star TV,26,tur_star_tv,,"Urban sample ('our urban sample', DNR 2018 country page)","DNR 2018, p. 109",13
 TUR,,2018,offline,Cumhuriyet,22,tur_cumhuriyet,,"Urban sample ('our urban sample', DNR 2018 country page)","DNR 2018, p. 109",10
 TUR,,2018,offline,Sabah,21,tur_sabah,,"Urban sample ('our urban sample', DNR 2018 country page)","DNR 2018, p. 109",8
-TUR,,2018,offline,Ahaber news,21,tur_ahaber,,"Urban sample ('our urban sample', DNR 2018 country page)","DNR 2018, p. 109",13
+TUR,,2018,offline,Ahaber news,21,tur_a_haber,,"Urban sample ('our urban sample', DNR 2018 country page); id merged: was tur_ahaber (same outlet as A Haber)","DNR 2018, p. 109",13
 TUR,,2018,offline,Posta,20,tur_posta,,"Urban sample ('our urban sample', DNR 2018 country page)","DNR 2018, p. 109",7
 TUR,,2018,online,CNN Türk online,37,tur_cnn_turk,,"Urban sample ('our urban sample', DNR 2018 country page)","DNR 2018, p. 109",19
 TUR,,2018,online,Hürriyet online,36,tur_hurriyet,,"Urban sample ('our urban sample', DNR 2018 country page)","DNR 2018, p. 109",21
