@@ -391,7 +391,7 @@ IRL,,2017,online,Huffington Post,10,irl_huffington_post,,,"DNR 2017, p. 77",4
 IRL,,2017,online,MSN News,9,irl_msn,,,"DNR 2017, p. 77",5
 IRL,,2017,online,Local radio news online,8,irl_local_radio,,"generic category, not a single outlet","DNR 2017, p. 77",5
 IRL,,2017,online,Guardian online,8,irl_guardian,,,"DNR 2017, p. 77",5
-IRL,,2017,online,Mail online,8,irl_mail_online,,,"DNR 2017, p. 77",4
+IRL,,2017,online,Mail online,8,irl_irish_daily_mail,,id merged: was irl_mail_online (UK Mail Online site; online side of the Irish Daily Mail),"DNR 2017, p. 77",4
 IRL,,2017,online,BuzzFeed News,7,irl_buzzfeed,,,"DNR 2017, p. 77",3
 ITA,,2017,offline,"RAI (Tg1, Tg2, Tg3, TgR)",56,ita_rai,,,"DNR 2017, p. 79",40
 ITA,,2017,offline,"Mediaset (Tg4, Tg5, Studio Aperto)",45,ita_mediaset,,,"DNR 2017, p. 79",33
@@ -613,7 +613,7 @@ SVK,,2017,online,Zoznam.sk,17,svk_zoznam_sk,zoznam.sk,,"DNR 2017, p. 91",10
 SVK,,2017,online,pluska.sk,17,svk_pluska_sk,pluska.sk,,"DNR 2017, p. 91",7
 SVK,,2017,online,Noviny.sk,16,svk_tv_joj,noviny.sk,,"DNR 2017, p. 91",5
 SVK,,2017,online,ta3.com,14,svk_ta3,ta3.com,,"DNR 2017, p. 91",8
-SVK,,2017,online,expres.sk,13,svk_expres_sk,expres.sk,,"DNR 2017, p. 91",6
+SVK,,2017,online,expres.sk,13,svk_radio_expres,expres.sk,id merged: was svk_expres_sk (online site of Radio Expres),"DNR 2017, p. 91",6
 SVK,,2017,online,HNonline.sk,10,svk_hospodarske_noviny,hnonline.sk,,"DNR 2017, p. 91",5
 SVK,,2017,online,Dennik N online,9,svk_dennik_n,,,"DNR 2017, p. 91",5
 SVK,,2017,online,korzar.sme.sk,8,svk_korzar,sme.sk,regional edition of SME (Korzár),"DNR 2017, p. 91",4
@@ -745,7 +745,7 @@ TUR,,2017,online,NTV online,24,tur_ntv,,"Urban sample (DNR Turkey data come from
 TUR,,2017,online,Haberler.com,24,tur_haberler_com,haberler.com,"Urban sample (DNR Turkey data come from an urban, online sample; see DNR methodology)","DNR 2017, p. 99",10
 TUR,,2017,online,Milliyet,23,tur_milliyet,,"Urban sample (DNR Turkey data come from an urban, online sample; see DNR methodology)","DNR 2017, p. 99",14
 TUR,,2017,online,Sabah,21,tur_sabah,,"Urban sample (DNR Turkey data come from an urban, online sample; see DNR methodology)","DNR 2017, p. 99",11
-TUR,,2017,online,Ahaber,20,tur_ahaber,,"Urban sample (DNR Turkey data come from an urban, online sample; see DNR methodology)","DNR 2017, p. 99",11
+TUR,,2017,online,Ahaber,20,tur_a_haber,,"Urban sample (DNR Turkey data come from an urban, online sample; see DNR methodology); id merged: was tur_ahaber (same outlet as A Haber)","DNR 2017, p. 99",11
 TUR,,2017,online,Habertürk online,19,tur_haberturk,,"Urban sample (DNR Turkey data come from an urban, online sample; see DNR methodology)","DNR 2017, p. 99",9
 TUR,,2017,online,İnternethaber,19,tur_internethaber,,"Urban sample (DNR Turkey data come from an urban, online sample; see DNR methodology)","DNR 2017, p. 99",8
 TUR,,2017,online,Ensonhaber,16,tur_ensonhaber,,"Urban sample (DNR Turkey data come from an urban, online sample; see DNR methodology)","DNR 2017, p. 99",7

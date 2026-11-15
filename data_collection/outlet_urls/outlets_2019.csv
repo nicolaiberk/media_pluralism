@@ -468,7 +468,7 @@ IRL,,2019,online,Her.ie/joe.ie,14,irl_her_joe,her.ie,"two sites (her.ie, joe.ie)
 IRL,,2019,online,Local radio news online,13,irl_local_radio,,"generic category, not a single outlet","DNR 2019, p. 93",8
 IRL,,2019,online,Irish Examiner online,10,irl_irish_examiner,,,"DNR 2019, p. 93",6
 IRL,,2019,online,Yahoo! News,8,irl_yahoo,,,"DNR 2019, p. 93",4
-IRL,,2019,online,Mail online,8,irl_mail_online,,,"DNR 2019, p. 93",5
+IRL,,2019,online,Mail online,8,irl_irish_daily_mail,,id merged: was irl_mail_online (UK Mail Online site; online side of the Irish Daily Mail),"DNR 2019, p. 93",5
 IRL,,2019,online,BuzzFeed News,8,irl_buzzfeed,,,"DNR 2019, p. 93",3
 IRL,,2019,online,Irish Mirror online,8,irl_irish_mirror,,,"DNR 2019, p. 93",3
 IRL,,2019,online,Local/regional newspaper online,8,irl_local_newspaper,,"generic category, not a single outlet","DNR 2019, p. 93",3
@@ -837,7 +837,7 @@ TUR,,2019,offline,Sabah,29,tur_sabah,,"Urban sample ('our urban-based sample', D
 TUR,,2019,offline,Show TV,28,tur_show_tv,,"Urban sample ('our urban-based sample', DNR 2019 country page)","DNR 2019, p. 115",16
 TUR,,2019,offline,Cumhuriyet,26,tur_cumhuriyet,,"Urban sample ('our urban-based sample', DNR 2019 country page)","DNR 2019, p. 115",12
 TUR,,2019,offline,Posta,23,tur_posta,,"Urban sample ('our urban-based sample', DNR 2019 country page)","DNR 2019, p. 115",9
-TUR,,2019,offline,Ahaber,21,tur_ahaber,,"Urban sample ('our urban-based sample', DNR 2019 country page)","DNR 2019, p. 115",12
+TUR,,2019,offline,Ahaber,21,tur_a_haber,,"Urban sample ('our urban-based sample', DNR 2019 country page); id merged: was tur_ahaber (same outlet as A Haber)","DNR 2019, p. 115",12
 TUR,,2019,online,CNN Türk online,40,tur_cnn_turk,,"Urban sample ('our urban-based sample', DNR 2019 country page)","DNR 2019, p. 115",24
 TUR,,2019,online,NTV online,35,tur_ntv,,"Urban sample ('our urban-based sample', DNR 2019 country page)","DNR 2019, p. 115",20
 TUR,,2019,online,Hürriyet online,33,tur_hurriyet,,"Urban sample ('our urban-based sample', DNR 2019 country page)","DNR 2019, p. 115",17
