@@ -1,0 +1,888 @@
+outlet_id,country,brand,first_year,last_year,printed_domain,wikidata_qid,wd_label,wd_description,wd_classes,wd_website,wd_domain,country_match,label_sim,n_candidates,dissolved,domain_agrees
+aut_alles_roger,AUT,Alles Roger?,2018,2020,,Q51077560,Alles Roger?,Austrian magazine,magazine,,,yes,1.00,1,,
+aut_ard,AUT,ARD News (Germany),2016,2026,,Q296530,ARD-Morgenmagazin,morning news and information program produced by WDR for Das Erste,television series,http://www.ard-morgenmagazin.de/,ard-morgenmagazin.de,no,0.44,15,,
+aut_atv,AUT,ATV news,2016,2025,,Q300064,ATV,Austrian television station,television station; generalist television channel,http://www.atv.at/,atv.at,yes,1.00,5,,
+aut_bbc,AUT,BBC News online,2024,2026,,Q4704926,BBC News Online,website of BBC News,news website,https://www.bbc.com/news/,bbc.com,no,1.00,13,,
+aut_bezirksblaetter,AUT,Bezirksblätter,2016,2026,meinbezirk.at,Q15841984,Regional Medien Austria,Austrian regional news and media company,newspaper,http://www.regionalmedien.at,regionalmedien.at,yes,0.74,1,,no
+aut_cnn,AUT,CNN.com,2025,2026,cnn.com,Q12217473,CNN.com,news website of CNN,online newspaper,https://www.cnn.com/,cnn.com,no,1.00,12,,yes
+aut_contra_magazin,AUT,Contra Magazin,2018,2020,,Q89189328,Mujeres,magazine of the Association of Antifascist Women,periodical,,,no,0.18,2,,
+aut_der_standard,AUT,Der Standard online,2016,2026,,Q128660,Der Standard,Austrian daily newspaper,daily newspaper,https://www.derstandard.at/,derstandard.at,yes,1.00,5,,
+aut_die_presse,AUT,Die Presse online,2016,2026,,Q689934,Die Presse,Austrian daily broadsheet (1848-),daily newspaper; newspaper of record,http://diepresse.com,diepresse.com,yes,1.00,5,,
+aut_gmx,AUT,GMX,2016,2026,,,,,,,,,,11,,
+aut_heute,AUT,Heute,2016,2026,,Q132108,ZDF heute,German TV news program,television series,https://www.zdfheute.de/,zdfheute.de,no,1.00,15,,
+aut_heute_de,AUT,heute.de (ZDF Germany),2018,2025,heute.de,Q132108,ZDF heute,German TV news program,television series,https://www.zdfheute.de/,zdfheute.de,no,1.00,16,,no
+aut_huffington_post,AUT,Huffington Post,2017,2017,,Q3223501,Huffington Post France,newspaper,online newspaper; pure play,https://www.huffingtonpost.fr/,huffingtonpost.fr,no,1.00,5,,
+aut_info_direkt,AUT,Info Direkt,2018,2020,,Q133270796,Info-Direkt,,magazine; website,https://info-direkt.eu/,info-direkt.eu,yes,1.00,2,,
+aut_kleine_zeitung,AUT,Kleine Zeitung,2016,2026,,Q695301,Kleine Zeitung,Austrian newspaper,newspaper,https://www.kleinezeitung.at/,kleinezeitung.at,yes,1.00,1,,
+aut_kontrast,AUT,Kontrast,2018,2020,,Q43131797,Kontrast.at,,website,https://kontrast.at/,kontrast.at,yes,0.84,1,,
+aut_kronehit,AUT,KroneHit,2016,2026,,Q1671263,KroneHit,radio station in Austria,radio station,https://www.kronehit.at/,kronehit.at,yes,1.00,4,,
+aut_kronen_zeitung,AUT,Kronen Zeitung,2016,2026,,Q644103,Kronen Zeitung,Austrian newspaper,daily newspaper,https://krone.at/,krone.at,yes,1.00,5,,
+aut_kurier,AUT,Kurier online,2016,2026,,Q96330109,Holz - Kurier,,scientific journal,http://www.holzkurier.at/,holzkurier.at,yes,0.71,5,,
+aut_msn,AUT,MSN News,2016,2023,,Q66819336,Microsoft Start,news aggregator from Microsoft,application software; news aggregator; website,https://www.microsoftstart.com,microsoftstart.com,no,1.00,10,,
+aut_nachrichten_at,AUT,Nachrichten.at,2017,2018,nachrichten.at,Q2011584,Oberösterreichische Nachrichten,"German language regional newspaper published in Linz, Austria",periodical,https://www.nachrichten.at/,nachrichten.at,yes,1.00,6,,yes
+aut_news_at,AUT,news.at,2016,2026,news.at,Q1983648,NEWS,Austrian magazine,magazine,http://www.news.at,news.at,yes,1.00,15,,yes
+aut_oe24_tv,AUT,oe24 TV,2019,2026,,Q137944305,oe24.TV,,television station,https://www.oe24.at/video,oe24.at,yes,1.00,1,,
+aut_oesterreich,AUT,Österreich,2016,2026,oe24.at,Q298667,Österreich,newspaper in Austria,daily newspaper,http://www.oe24.at/,oe24.at,yes,1.00,8,,yes
+aut_oo_nachrichten,AUT,OÖ Nachrichten,2019,2026,,Q2011584,Oberösterreichische Nachrichten,"German language regional newspaper published in Linz, Austria",periodical,https://www.nachrichten.at/,nachrichten.at,yes,1.00,1,,
+aut_orf,AUT,ORF News online,2016,2026,,Q262386,Österreichischer Rundfunk,Austrian national public broadcaster,public broadcasting; public broadcaster; broadcaster; production company,https://der.orf.at,orf.at,yes,1.00,9,,
+aut_orf_radio,AUT,ORF Radio News,2021,2026,,Q22284861,ORF.at,online news portal operated by Austrian Broadcasting,website; news website,https://orf.at/,orf.at,yes,0.67,9,,
+aut_orf_tv,AUT,ORF TV News,2021,2026,,Q701811,ORF 1,Austrian TV station,television station,http://tv.orf.at/program/orf1,orf.at,yes,0.73,7,,
+aut_puls24,AUT,Puls 24,2021,2026,,Q66619606,Puls 24,Austrian television channel,television station,http://www.puls24.at/,puls24.at,yes,1.00,1,,
+aut_puls_4,AUT,Puls 4 News,2016,2026,,Q358559,Puls 4,terrestrial television channel in Austria,television station; generalist television channel,http://www.puls4.com,puls4.com,yes,1.00,10,,
+aut_rtl,AUT,RTL News,2016,2026,,Q96374424,RTL News,German news production company,website; news website; online newspaper,https://www.rtl.de,rtl.de,no,1.00,14,,
+aut_salzburg24_at,AUT,salzburg24.at,2021,2021,salzburg24.at,Q64846431,Salzburg24,,website,https://www.salzburg24.at/,salzburg24.at,yes,1.00,1,,yes
+aut_servustv,AUT,ServusTV News,2016,2026,,Q511397,ServusTV,Austrian TV station,television station; generalist television channel; generalist television channel,http://www.servustv.com/,servustv.com,yes,1.00,8,,
+aut_tagespresse,AUT,dietagespresse (satirical),2017,2022,,Q20925042,Die Tagespresse,Austrian satirical website by Fritz Jergitsch,periodical; news satire,http://dietagespresse.com/,dietagespresse.com,yes,1.00,1,,
+aut_tagesschau,AUT,Tagesschau (ARD News online),2018,2025,tagesschau.de,Q1409067,tagesschau.de,ARD's online news portal,online newspaper; website,https://www.tagesschau.de/,tagesschau.de,no,1.00,8,,yes
+aut_tiroler_tageszeitung,AUT,Tiroler Tageszeitung online,2023,2023,,Q2436295,Tiroler Tageszeitung,Austrian daily newspaper,daily newspaper,https://www.tt.com/,tt.com,yes,1.00,1,,
+aut_unzensuriert,AUT,Unzensuriert,2018,2020,,Q15445620,Unzensuriert.at,,book publisher,https://unzensuriert.at,unzensuriert.at,yes,0.89,1,,
+aut_yahoo,AUT,Yahoo News,2016,2016,,Q3044717,Yahoo News,news website from Yahoo!,website; news aggregation website,https://news.yahoo.com,yahoo.com,no,1.00,10,,
+aut_zackzack,AUT,ZackZack,2022,2022,,Q217246,The Suite Life of Zack & Cody,2005–2008 American sitcom,television series,http://disneychannel.disney.com/suite-life-of-zack-and-cody,disney.com,no,0.59,5,,
+aut_zdf,AUT,ZDF News (Germany),2016,2026,,Q48989,ZDF,main program of the German public-service television broadcaster Zweites Deutsches Fernsehen,generalist television channel; public broadcasting; television network,https://zdf.de,zdf.de,no,1.00,16,,
+bel_7sur7,BEL,7sur7,2016,2026,,Q2818441,7sur7,Belgian information website,website,http://www.7sur7.be/,7sur7.be,yes,1.00,1,,
+bel_bbc,BEL,BBC News online,2020,2026,,Q4704926,BBC News Online,website of BBC News,news website,https://www.bbc.com/news/,bbc.com,no,1.00,17,,
+bel_bel_rtl,BEL,Bel-RTL,2017,2026,,Q2894140,Bel RTL,Belgian radio station,radio station,http://www.belrtl.be/,belrtl.be,yes,1.00,1,,
+bel_bruzz_be,BEL,Bruzz.be,2025,2026,bruzz.be,Q23934497,BRUZZ,Brussels non-profit media company,media company,http://www.bruzz.be,bruzz.be,yes,1.00,7,,yes
+bel_canvas,BEL,Canvas,2019,2026,,Q1033960,VRT CANVAS,Flemish TV station,television station,https://www.canvas.be/,canvas.be,yes,1.00,6,,
+bel_classic_21,BEL,Classic 21,2019,2026,,Q1818363,Classic 21,Belgian public FM radio station,radio station,https://www.rtbf.be/classic21/,rtbf.be,yes,1.00,5,,
+bel_cnn,BEL,CNN.com,2021,2025,cnn.com,Q12217473,CNN.com,news website of CNN,online newspaper,https://www.cnn.com/,cnn.com,no,1.00,8,,yes
+bel_de_morgen,BEL,De Morgen online,2016,2026,,Q1180166,De Morgen,Flemish newspaper published in Brussels,daily newspaper,https://www.demorgen.be/,demorgen.be,yes,1.00,5,,
+bel_de_standaard,BEL,De Standaard online,2016,2026,,Q1180325,De Standaard,Flemish daily newspaper published by Mediahuis,periodical; newspaper,http://www.standaard.be,standaard.be,yes,1.00,5,,
+bel_de_tijd,BEL,De Tijd online,2017,2026,,Q1180345,De Tijd,Belgian daily newspaper,daily newspaper,http://www.tijd.be,tijd.be,no,1.00,17,,
+bel_een,BEL,Eén (VRT),2019,2026,,Q292940,VRT 1,Belgian Dutch-language TV channel,television station,,,yes,1.00,12,,
+bel_euronews,BEL,Euronews,2020,2026,,Q8478,Euronews,pan-European news television channel,television station; specialty channel,http://www.euronews.com/,euronews.com,yes,1.00,3,,
+bel_france_television,BEL,"France Télévisions (France 2, France 3)",2016,2026,,Q1124861,France Télévisions,French public television group,state-owned enterprise; state broadcaster,https://www.francetelevisions.fr/groupe,francetelevisions.fr,no,1.00,20,,
+bel_gazet_van_antwerpen,BEL,Gazet van Antwerpen online,2017,2026,,Q2467329,Gazet van Antwerpen,Belgian newspaper in Dutch,daily newspaper; organization,https://www.gva.be/,gva.be,yes,1.00,5,,
+bel_het_belang_van_limburg,BEL,Het Belang van Limburg online,2016,2026,,Q2230982,Het Belang van Limburg,Belgium newspaper,daily newspaper,https://www.hbvl.be/,hbvl.be,yes,1.00,2,,
+bel_het_laatste_nieuws,BEL,Het Laatste Nieuws,2016,2026,,Q1457499,Het Laatste Nieuws,Belgian newspaper,daily newspaper; organization,http://www.hln.be,hln.be,yes,1.00,7,,
+bel_het_nieuwsblad,BEL,Het Nieuwsblad,2016,2026,nieuwsblad.be,Q12467,Het Nieuwsblad,Flemish daily newspaper,daily newspaper,https://www.nieuwsblad.be,nieuwsblad.be,yes,1.00,5,,yes
+bel_joe_fm,BEL,Joe FM,2016,2026,,Q238110,JOE,Belgian pop radio station,radio station,https://joe.be/,joe.be,yes,1.00,5,,
+bel_klara,BEL,Klara,2019,2019,,Q1872773,Klara,radiostation in Belgium,radio station,http://www.klara.be/,klara.be,yes,1.00,5,,
+bel_knack_be,BEL,Knack.be (incl. trends.knack.be),2016,2022,knack.be,Q2608418,Knack,Belgian news magazine,weekly magazine; fact-checking organisation; website,,,yes,1.00,6,,
+bel_l_avenir,BEL,L'Avenir online,2016,2026,,Q2491106,L'Avenir,Belgian newspaper,business; newspaper; daily newspaper,http://www.lavenir.net/,lavenir.net,yes,1.00,6,,
+bel_l_echo,BEL,L’Echo,2018,2026,,Q3205137,L'Écho,Belgian business newspaper,daily newspaper; online newspaper,http://www.lecho.be/,lecho.be,yes,1.00,5,,
+bel_la_derniere_heure,BEL,DH online,2016,2026,,Q3208220,La Dernière Heure,newspaper,daily newspaper; organization,http://www.dhnet.be/,dhnet.be,yes,1.00,1,,
+bel_la_deux,BEL,La Deux,2019,2022,,Q2754385,La Deux,TV channel,television station,http://www.ladeux.be/,ladeux.be,yes,1.00,5,2020,
+bel_la_libre,BEL,La Libre online,2017,2026,,Q1798898,La Libre Belgique,Belgian newspaper in French,daily newspaper,http://www.lalibre.be/,lalibre.be,yes,1.00,5,,
+bel_la_premiere,BEL,La Première,2017,2026,,Q3211887,La Première,Belgian radio station,radio station,http://www.lapremiere.be/,lapremiere.be,yes,1.00,5,,
+bel_la_trois,BEL,La Trois,2019,2019,,Q1862930,La Trois,Belgian television channel,television station,http://www.latrois.be/,latrois.be,yes,1.00,5,,
+bel_la_une,BEL,La Une (RTBF),2019,2026,,Q2787504,La Une,Belgian French-language television channel,television station,http://www.la1.be/,la1.be,yes,1.00,5,,
+bel_le_soir,BEL,Le Soir,2016,2026,,Q690672,Le Soir,Belgian French-language newspaper,newspaper,http://www.lesoir.be/,lesoir.be,yes,1.00,5,,
+bel_le_vif,BEL,Levif (incl. trends.levif.be),2017,2019,,Q2445463,Le Vif/L’Express,Belgian weekly news magazine,newspaper,http://www.levif.be/actualite/,levif.be,yes,0.82,5,,
+bel_ln24,BEL,LN24,2023,2025,,Q65154268,LN24,Belgian news channel,specialty channel; television station,https://www.ln24.be,ln24.be,yes,1.00,1,,
+bel_metro,BEL,Metro,2016,2023,,Q6824453,Metro,New Zealand monthly magazine,magazine,http://metromag.co.nz/,metromag.co.nz,no,1.00,15,,
+bel_mnm,BEL,MNM (VRT),2019,2026,,Q2664282,MNM,radio station,radio station,https://mnm.be/,mnm.be,yes,1.00,5,,
+bel_msn,BEL,MSN News,2016,2026,,Q66819336,Microsoft Start,news aggregator from Microsoft,application software; news aggregator; website,https://www.microsoftstart.com,microsoftstart.com,no,1.00,14,,
+bel_musiq3,BEL,Musiq3,2019,2019,,Q3328567,Musiq'3,radio station in Brussels,radio station,https://www.rtbf.be/musiq3,rtbf.be,yes,1.00,1,,
+bel_newsmonkey_be,BEL,Newsmonkey.be,2018,2020,newsmonkey.be,Q23930545,Newsmonkey,Belgian news website,website,http://newsmonkey.be/,newsmonkey.be,yes,1.00,1,,yes
+bel_nostalgie,BEL,Nostalgie,2016,2025,,Q3344373,Nostalgie Wallonie,Walloon (French) Belgian version of Nostalgie,radio station,http://www.nostalgie.be/,nostalgie.be,yes,0.75,5,,
+bel_nws,BEL,NWS online,2022,2026,,Q6955983,NWS,"television station in Adelaide, South Australia",broadcaster,,,no,1.00,14,,
+bel_qmusic,BEL,Qmusic,2016,2026,,Q2600631,Qmusic,"Dutch spoken commercial radio station in Flanders, Belgium",radio station,http://www.q-music.be,q-music.be,yes,1.00,4,,
+bel_radio_1,BEL,Radio 1 (VRT),2019,2026,,Q1135464,Radio 1,Flemish radio station,radio station,http://www.radio1.be/,radio1.be,yes,1.00,5,,
+bel_radio_2,BEL,Radio 2 (VRT),2019,2026,,Q2538508,Radio2,Belgian radio station,radio station,https://www.radio2.be/,radio2.be,yes,1.00,5,,
+bel_radio_contact,BEL,Radio Contact,2016,2026,,Q1429859,Radio Contact,Belgian radio station,radio station,https://www.radiocontact.be/,radiocontact.be,yes,1.00,3,,
+bel_rtbf,BEL,RTBF News online,2016,2026,,Q1190356,RTBF,Belgium's French-language public broadcaster,broadcast network; public broadcaster; information system,https://www.rtbf.be,rtbf.be,yes,1.00,5,,
+bel_rtl,BEL,RTL,2016,2026,,Q155702,RTL,German television station based in Cologne,television station; generalist television channel,https://www.rtl.de/,rtl.de,no,1.00,15,,
+bel_studio_brussel,BEL,Studio Brussel (VRT),2019,2026,,Q2779611,Studio Brussel,radio station in Belgium,radio station; recording studio,http://www.stubru.be,stubru.be,yes,1.00,5,,
+bel_tf1,BEL,TF1 (France),2016,2026,,Q214683,TF1,French television channel,television station,https://www.tf1.fr/,tf1.fr,no,1.00,14,,
+bel_tipik,BEL,Tipik (RTBF),2023,2026,,Q2754385,La Deux,TV channel,television station,http://www.ladeux.be/,ladeux.be,yes,1.00,3,2020,
+bel_vivacite,BEL,Vivacité (RTBF),2019,2026,,Q3561420,Vivacité,Wikimedia disambiguation page,Wikimedia disambiguation page,,,no,1.00,6,,
+bel_vrt,BEL,VRT NWS online,2016,2026,,Q12858,Flemish Radio and Television Broadcasting Organization,Belgian national broadcaster for the Flemish community,public broadcaster; broadcast network,https://www.vrt.be,vrt.be,yes,1.00,7,,
+bel_vtm,BEL,VTM,2016,2026,,Q1176298,VTM,Belgian Dutch-speaking commercial TV station,television station,https://vtm.be/,vtm.be,yes,1.00,6,,
+bel_yahoo,BEL,Yahoo! News,2019,2026,,Q3044717,Yahoo News,news website from Yahoo!,website; news aggregation website,https://news.yahoo.com,yahoo.com,no,1.00,14,,
+bgr_24_chasa,BGR,24 Chasa,2018,2026,,Q217309,24 Chasa,periodical literature,periodical; newspaper,http://www.24chasa.bg,24chasa.bg,yes,1.00,3,,
+bgr_abv,BGR,ABV News online,2018,2026,,Q4650431,ABV,Australian television station,television station,http://www.abc.net.au/tv/,abc.net.au,no,1.00,10,,
+bgr_bbc,BGR,BBC News,2018,2018,,Q4704926,BBC News Online,website of BBC News,news website,https://www.bbc.com/news/,bbc.com,no,1.00,10,,
+bgr_bitelevision,BGR,BITelevision News,2018,2018,,,,,,,,,,0,,
+bgr_bivol_bg,BGR,Bivol.bg,2018,2022,bivol.bg,Q65044866,bivol.bg,Bulgarian investigative media company,media company; website,https://bivol.bg/,bivol.bg,yes,1.00,1,,yes
+bgr_blitz_bg,BGR,Blitz.bg,2018,2026,blitz.bg,,,,,,,,,7,,
+bgr_bloomberg_tv,BGR,Bloomberg TV News (Bulgarian),2019,2026,,Q31192262,Bloomberg TV Bulgaria,television channel,television station,http://www.bloombergtv.bg,bloombergtv.bg,yes,0.73,1,,
+bgr_bnr,BGR,BNR News online,2018,2026,,Q1142031,Bulgarian National Radio,public radio broadcaster of Bulgaria,radio station,https://www.bnr.bg,bnr.bg,yes,1.00,5,,
+bgr_bnt,BGR,BNT News online,2018,2026,,Q1004068,Bulgarian National Television,public broadcaster of Bulgaria,public broadcaster,https://bnt.bg/,bnt.bg,yes,1.00,8,,
+bgr_btv,BGR,BTV News,2018,2026,,Q12270580,bTV News,,television program,https://btvnovinite.bg/,btvnovinite.bg,yes,1.00,3,,
+bgr_bulgaria_on_air,BGR,Bulgaria ON AIR,2019,2026,,Q12274176,Bulgaria Оn Аir,Bulgarian media group,business; television station,https://www.bgonair.bg/,bgonair.bg,yes,1.00,6,,
+bgr_capital,BGR,Capital,2018,2026,capital.bg,Q1034634,Capital,Bulgarian weekly newspaper,newspaper,http://www.capital.bg,capital.bg,yes,1.00,6,,yes
+bgr_cnn,BGR,CNN,2018,2025,,Q48340,CNN,American news channel,cable news in the United States; specialty channel; news website; film production company,https://cnn.com,cnn.com,no,1.00,5,,
+bgr_darik,BGR,Darik,2018,2026,,Q1165890,Darik Radio,radio station,radio station,https://darikradio.bg/,darikradio.bg,yes,1.00,1,,
+bgr_dir_bg,BGR,dir.bg,2018,2026,dir.bg,Q103849471,dir.bg,Bulgarian online news outlet,website,http://dir.bg,dir.bg,yes,1.00,6,,yes
+bgr_dnes_bg,BGR,Dnes.bg,2026,2026,dnes.bg,Q103849831,Dnes.bg,Bulgarian online news outlet,website,http://dnes.bg,dnes.bg,yes,1.00,4,,yes
+bgr_dnevnik,BGR,Dnevnik online,2018,2026,,Q717721,Dnevnik,Bulgarian newspaper,newspaper,http://www.dnevnik.bg/,dnevnik.bg,yes,1.00,4,,
+bgr_economist,BGR,Economist,2018,2018,,Q180089,The Economist,British weekly news and international affairs publication (founded 1843),magazine; website,https://www.economist.com/,economist.com,no,1.00,6,,
+bgr_euronews_bulgaria,BGR,Euronews Bulgaria,2023,2026,,Q111796664,Euronews Bulgaria,Bulgarian television channel,television channel; foreign subsidiary company,http://euronewsbulgaria.com/,euronewsbulgaria.com,yes,1.00,2,,
+bgr_flagman_bg,BGR,Flagman.bg,2025,2025,flagman.bg,Q103849561,Flagman.bg,Bulgarian online news outlet,website,http://flagman.bg,flagman.bg,yes,1.00,2,,yes
+bgr_kanal_3,BGR,Kanal 3,2019,2021,,Q12282525,Kanal 3,television channel,television station,http://kanal3.bg/,kanal3.bg,yes,1.00,1,,
+bgr_maritza,BGR,Maritza,2018,2026,,,,,,,,,,13,,
+bgr_monitor,BGR,Monitor,2020,2022,,,,,,,,,,10,,
+bgr_nova,BGR,NovaTV News,2018,2026,,Q104637592,Nova News,Bulgarian TV channel,television station,https://nova.bg/novanews,nova.bg,yes,1.00,3,,
+bgr_novini_bg,BGR,novini.bg,2018,2026,novini.bg,,,,,,,,,6,,
+bgr_offnews_bg,BGR,offnews.bg,2018,2018,offnews.bg,Q103849529,OFFNews.bg,Bulgarian online news outlet,website,https://offnews.bg/,offnews.bg,yes,1.00,2,,yes
+bgr_petel_bg,BGR,Petel.bg,2018,2026,petel.bg,Q103849470,petel.bg,Bulgarian online news outlet,website,http://petel.bg,petel.bg,yes,1.00,2,,yes
+bgr_pik_bg,BGR,Pik.bg,2018,2019,pik.bg,,,,,,,,,7,,
+bgr_sega,BGR,Sega,2018,2021,,Q122741,Сега,Japanese video game developer and publisher and subsidiary of Sega Sammy Holdings,business; enterprise; video game developer; video game publisher,https://www.sega.com,sega.com,no,1.00,7,,
+bgr_standart,BGR,Standart,2020,2023,,Q140646560,Standart,specialty coffee magazine,magazine,https://standartmag.com,standartmag.com,no,1.00,5,,
+bgr_telegraf,BGR,Telegraf,2018,2026,,Q3656348,Telegraph,Bulgarian newspaper,periodical; newspaper,,,yes,1.00,2,,
+bgr_trud,BGR,Trud,2018,2026,,Q1232958,Trud,Bulgarian newspaper (est. 1936),periodical; newspaper,http://www.trud.bg,trud.bg,yes,1.00,5,,
+bgr_tv_7_8,BGR,TV 7/8,2022,2025,,Q379283,TV7,Bulgarian television channel,television station,http://www.tv7.bg/,tv7.bg,yes,0.86,4,2016,
+bgr_tv_evropa,BGR,TV Evropa News,2019,2022,,Q319993,Goldene Europa,German Television award,award; television program,,,no,0.76,5,,
+can_24_heures,CAN,24 Heures,2020,2020,,Q106678259,24 heures (Montreal),montreal free weekly newspaper,newspaper,https://www.24heures.ca/,24heures.ca,yes,1.00,4,,
+can_24_hours,CAN,24 hours,2016,2019,,Q217289,24 Hours,free of charge Canadian newspaper,daily newspaper; periodical,http://24hrs.ca/,24hrs.ca,yes,1.00,5,,
+can_bbc,CAN,BBC News,2017,2026,,Q4704926,BBC News Online,website of BBC News,news website,https://www.bbc.com/news/,bbc.com,no,1.00,20,,
+can_bnn_bloomberg,CAN,BNN Bloomberg online,2026,2026,,Q1017576,BNN Bloomberg,Canadian television channel,business channel; specialty channel,https://www.bnnbloomberg.ca,bnnbloomberg.ca,yes,1.00,1,,
+can_buzzfeed,CAN,BuzzFeed News,2016,2022,,Q55715275,BuzzFeed News,news website,online newspaper,https://www.buzzfeednews.com,buzzfeednews.com,no,1.00,9,,
+can_canoe_com,CAN,Canoe.com,2016,2020,canoe.com,Q902502,canoe.ca,Canadian news website,website,https://canoe.com,canoe.com,no,1.00,23,,yes
+can_cbc,CAN,CBC News online,2016,2026,,Q2931014,CBC News,news division of the Canadian broadcast network CBC,news website; division; news agency,https://www.cbc.ca/news,cbc.ca,yes,1.00,9,,
+can_citytv,CAN,CityTV News,2016,2026,,Q5122969,CityNews,television newscast,television program; news program,http://www.citynews.ca/,citynews.ca,yes,1.00,10,,
+can_cnn,CAN,CNN,2016,2026,cnn.com,Q48340,CNN,American news channel,cable news in the United States; specialty channel; news website; film production company,https://cnn.com,cnn.com,no,1.00,14,,yes
+can_cp24,CAN,CP24,2020,2026,,Q660276,CP24,Canadian television channel,specialty channel,https://www.cp24.com/,cp24.com,yes,1.00,5,,
+can_ctv,CAN,CTV News online,2016,2026,,Q5014635,CTV News,news division of CTV Television Network,business; news agency,https://www.ctvnews.ca/,ctvnews.ca,yes,1.00,8,,
+can_fox,CAN,Fox News,2018,2026,,Q5476834,Fox News Radio,American radio network programmed by Fox News,radio station; radio network,https://radio.foxnews.com,foxnews.com,yes,0.73,7,,
+can_global,CAN,Global News online,2016,2026,,Q5570514,Global News,"Canadian news network, division of Global Television Network",business; television channel,https://globalnews.ca/,globalnews.ca,yes,1.00,10,,
+can_globe_and_mail,CAN,Globe and Mail online,2017,2026,,Q604525,The Globe and Mail,English-language daily newspaper in Canada,daily newspaper; newspaper of record,https://www.theglobeandmail.com/,theglobeandmail.com,yes,0.88,5,,
+can_huffington_post,CAN,HuffPost,2016,2021,,Q18049522,HuffPost,American online news aggregator and blog,online newspaper; news aggregation website,https://www.huffpost.com/,huffpost.com,no,1.00,10,,
+can_huffington_post_quebec,CAN,HuffPost,2016,2021,,Q18049522,HuffPost,American online news aggregator and blog,online newspaper; news aggregation website,https://www.huffpost.com/,huffpost.com,no,1.00,10,,
+can_journal_de_montreal_de_quebec,CAN,Journal de Montréal ou Québec online,2016,2026,,Q58262077,Entre les lignes,journal,academic journal; scientific journal; cultural magazine,https://www.erudit.org/fr/revues/el/,erudit.org,yes,0.49,14,2013,
+can_l_actualite,CAN,L’actualité,2018,2026,,Q3201454,L'actualité,Canadian French-language news,magazine,http://www.lactualite.com/,lactualite.com,yes,1.00,4,,
+can_la_presse,CAN,La Presse online,2016,2026,,Q3083289,La Presse,Canadian newspaper,daily newspaper; newspaper of record,http://www.lapresse.ca/,lapresse.ca,yes,1.00,5,,
+can_le_devoir,CAN,Le Devoir,2018,2026,,Q1504424,Le Devoir,"daily newspaper published in Montreal, Canada",daily newspaper; newspaper of record,https://www.ledevoir.com/,ledevoir.com,yes,1.00,5,,
+can_le_monde,CAN,Le Monde,2023,2026,,Q12461,Le Monde,French daily newspaper founded in 1944,daily newspaper; online newspaper,https://www.lemonde.fr,lemonde.fr,no,1.00,15,,
+can_le_soleil_or_regional_daily,CAN,Le Soleil or regional daily online,2019,2022,,,,,,,,,,0,,
+can_metro,CAN,Métro,2016,2023,,,,,,,,,,15,,
+can_msn,CAN,MSN News,2016,2026,,Q66819336,Microsoft Start,news aggregator from Microsoft,application software; news aggregator; website,https://www.microsoftstart.com,microsoftstart.com,no,1.00,15,,
+can_narcity,CAN,Narcity.com,2021,2026,narcity.com,Q29561358,Narcity Media,Canadian online media company,media company,https://www.narcitymedia.com,narcitymedia.com,yes,0.75,2,,no
+can_national_post,CAN,National Post online,2022,2024,,Q1812075,National Post,"national newspaper based in Toronto, Ontario, Canada",daily newspaper; newspaper; public company,https://nationalpost.com/,nationalpost.com,yes,1.00,5,,
+can_new_york_times,CAN,New York Times online,2020,2026,,Q9684,The New York Times,American daily newspaper (founded 1851),daily newspaper; website,https://nytimes.com,nytimes.com,no,0.88,11,,
+can_noovo_info,CAN,Noovo Info,2022,2026,,Q113840155,Noovo Info,,website,https://www.noovo.info/,noovo.info,yes,1.00,5,,
+can_qub_radio,CAN,QUB Radio,2022,2026,,Q101486827,qub radio,radio station in Canada,radio station,https://www.qub.radio/,qub.radio,yes,1.00,2,,
+can_radio_canada_rdi,CAN,ICI Radio-Canada/ICI RDI (public broadcaster),2016,2026,,Q3456752,Ici RDI,Canadian French-language cable news channel,specialty channel,https://ici.radio-canada.ca/rdi/,radio-canada.ca,yes,0.52,3,,
+can_sympatico_ca,CAN,Sympatico.ca,2017,2018,sympatico.ca,Q6008790,InMusic,former Canadian music portal and music store,website; online shopping,http://musicstore.sympatico.msn.ca,msn.ca,yes,0.38,15,,no
+can_toronto_star,CAN,Toronto Star,2016,2026,thestar.com,Q1067299,Toronto Star,"daily newspaper in Toronto, Ontario, Canada",daily newspaper,https://www.thestar.com,thestar.com,yes,1.00,9,,yes
+can_tv5,CAN,TV5,2017,2026,,Q17906855,TV5 Unis,Canadian French-language television channel,specialty channel,https://www.tv5plus.ca/,tv5plus.ca,yes,0.75,5,,
+can_tva,CAN,TVA/LCN Nouvelles,2016,2026,,Q3512529,TVA Nouvelles,newscast,television program; division; news program; news website,https://www.tvanouvelles.ca/,tvanouvelles.ca,yes,1.00,2,,
+can_yahoo,CAN,Yahoo! News,2016,2026,,Q3044717,Yahoo News,news website from Yahoo!,website; news aggregation website,https://news.yahoo.com,yahoo.com,no,1.00,16,,
+che_20_minuten,CHE,20 Minuten online,2016,2026,,Q212855,20 Minuten,periodical literature,periodical; newspaper,http://www.20min.ch/de,20min.ch,yes,1.00,2,,
+che_20_minutes,CHE,20 Minutes online,2016,2026,,Q2814749,20 minutes,Swiss daily newspaper,daily newspaper,https://www.20min.ch/fr,20min.ch,yes,1.00,3,,
+che_24_heures,CHE,24 heures,2016,2026,24heures.ch,Q217313,24 heures,Swiss daily general newspaper,daily newspaper,https://www.24heures.ch,24heures.ch,yes,1.00,2,,yes
+che_arcinfo,CHE,Arcinfo.ch,2021,2022,arcinfo.ch,Q55192328,ArcInfo,Swiss daily newspaper,daily newspaper,https://www.arcinfo.ch,arcinfo.ch,yes,1.00,5,,yes
+che_bbc,CHE,BBC News,2018,2026,,Q4704926,BBC News Online,website of BBC News,news website,https://www.bbc.com/news/,bbc.com,no,1.00,17,,
+che_blick,CHE,Blick online,2016,2026,,Q883982,Blick.ch,newspaper,newspaper,https://www.blick.ch/,blick.ch,yes,1.00,5,,
+che_blick_am_abend,CHE,Blick am Abend online,2017,2017,,Q883988,Blick am Abend,newspaper,daily newspaper; free newspaper,http://www.blick.ch/blickamabend/,blick.ch,yes,1.00,1,,
+che_bluewin,CHE,Blue News,2016,2026,bluewin.ch,Q124648358,Big News with Blue,episode of Blue's Clues & You! (S1 E3),television series episode,,,no,0.47,23,,
+che_cnn,CHE,CNN,2018,2026,cnn.com,Q48340,CNN,American news channel,cable news in the United States; specialty channel; news website; film production company,https://cnn.com,cnn.com,no,1.00,10,,yes
+che_gmx,CHE,gmx,2017,2026,,,,,,,,,,5,,
+che_la_liberte,CHE,La Liberté,2020,2021,,Q1303632,La Liberté,Swiss newspaper,daily newspaper,https://www.laliberte.ch,laliberte.ch,yes,1.00,5,,
+che_le_matin,CHE,Le Matin online,2016,2026,,Q692822,Le Matin,newspaper,daily newspaper,,,yes,1.00,3,,
+che_le_matin_dimanche,CHE,Le Matin Dimanche,2019,2026,,Q57313000,Le Matin Dimanche,Swiss newspaper,Sunday newspaper,http://www.lematindimanche.ch,lematindimanche.ch,yes,1.00,2,,
+che_le_monde,CHE,Le Monde online,2018,2020,,Q12461,Le Monde,French daily newspaper founded in 1944,daily newspaper; online newspaper,https://www.lemonde.fr,lemonde.fr,no,1.00,15,,
+che_le_nouvelliste,CHE,Le Nouvelliste,2017,2026,lenouvelliste.ch,Q6507379,Le Nouvelliste,daily regional newspaper in Switzerland,daily newspaper,https://www.lenouvelliste.ch/,lenouvelliste.ch,yes,1.00,1,,yes
+che_le_temps,CHE,Le Temps online,2018,2026,,Q673324,Le Temps,Swiss French-language daily newspaper,daily newspaper,https://www.letemps.ch,letemps.ch,yes,1.00,5,,
+che_luzerner_zeitung,CHE,Luzerner Zeitung,2020,2020,,Q683440,Luzerner Zeitung,periodical literature,periodical,http://www.luzernerzeitung.ch,luzernerzeitung.ch,yes,1.00,2,,
+che_msn,CHE,MSN News,2017,2025,,Q66819336,Microsoft Start,news aggregator from Microsoft,application software; news aggregator; website,https://www.microsoftstart.com,microsoftstart.com,no,1.00,10,,
+che_nau_ch,CHE,nau.ch,2020,2026,nau.ch,Q50134852,Nau,Swiss online newspaper,online newspaper,https://www.nau.ch,nau.ch,yes,1.00,3,,yes
+che_nzz,CHE,NZZ online,2016,2026,,Q658945,Neue Zürcher Zeitung,Swiss German-language daily newspaper,daily newspaper,https://www.nzz.ch,nzz.ch,yes,1.00,9,,
+che_rts,CHE,RTS News online,2016,2026,,Q666454,RTS 1,Swiss television station,television station,https://www.rts.ch/play/tv/direct/rts-1,rts.ch,yes,0.75,5,,
+che_rts_radio,CHE,RTS Radio News,2021,2026,,Q663416,RTS Première,Swiss radio station,radio station,https://www.rts.ch/la-1ere/,rts.ch,yes,0.59,11,,
+che_rts_tv,CHE,RTS TV News,2021,2026,,Q666454,RTS 1,Swiss television station,television station,https://www.rts.ch/play/tv/direct/rts-1,rts.ch,yes,0.73,5,,
+che_sonntagsblick,CHE,Sonntagsblick,2019,2026,,Q57400967,Sonntagsblick,,newspaper,https://www.blick.ch/sonntagsblick/,blick.ch,yes,1.00,1,,
+che_sonntagszeitung,CHE,SonntagsZeitung,2018,2026,,Q2302165,SonntagsZeitung,Swiss sunday newspaper,periodical,http://www.sonntagszeitung.ch,sonntagszeitung.ch,yes,1.00,5,,
+che_spiegel,CHE,Spiegel online,2018,2018,,Q278151,Der Spiegel,German news website,newspaper; online newspaper,https://www.spiegel.de/,spiegel.de,no,1.00,13,,
+che_srf,CHE,SRF News online,2016,2026,,Q1441462,Schweizer Radio und Fernsehen,Swiss public radio and TV broadcaster in German language,public broadcaster; broadcaster; mass media; media industry,https://www.srf.ch/,srf.ch,yes,1.00,10,,
+che_srf_radio,CHE,SRF Radio News,2021,2026,,Q1157795,Radio SRF 4 News,radio station,radio station,https://www.srf.ch/radio-srf-4-news,srf.ch,yes,0.75,6,,
+che_srf_tv,CHE,SRF TV News,2021,2026,,Q1386605,SRF 1,Swiss TV channel,television station,https://www.srf.ch/play/tv/live/srf-1?tvLiveId=c4927fcf-e1a0-0001-7edd-1ef01d441651,srf.ch,yes,0.73,6,,
+che_tages_anzeiger,CHE,Tages-Anzeiger,2016,2026,,Q677683,Tages-Anzeiger,Swiss newspaper,daily newspaper,http://www.tagesanzeiger.ch/,tagesanzeiger.ch,yes,1.00,1,,
+che_teletext_ch,CHE,Teletext online,2016,2026,teletext.ch,Q203659,teletext,television information retrieval service developed in the United Kingdom in the early 1970s,broadcast engineering,,,no,1.00,8,,
+che_tribune_de_geneve,CHE,Tribune de Genève,2016,2026,,Q870221,Tribune de Genève,Swiss newspaper,daily newspaper,http://www.tdg.ch/,tdg.ch,yes,1.00,1,,
+che_watson,CHE,Watson,2017,2026,watson.ch,Q15677016,watson,Swiss online newspaper,periodical; online newspaper,https://www.watson.ch/,watson.ch,yes,1.00,2,,yes
+che_yahoo,CHE,Yahoo! News,2016,2026,,Q3044717,Yahoo News,news website from Yahoo!,website; news aggregation website,https://news.yahoo.com,yahoo.com,no,1.00,10,,
+cze_ac24_cz,CZE,Ac24.cz,2018,2020,ac24.cz,Q60313299,AC24.cz,,website,,,no,1.00,11,,
+cze_aeronet_cz,CZE,Aeronet.cz,2018,2020,aeronet.cz,Q19601982,Aeronet,Czech news (incl. fake) server,website,https://aeronet.news,aeronet.news,no,1.00,5,,no
+cze_aktualne_cz,CZE,Aktualne.cz,2016,2026,aktualne.cz,Q10728976,Aktuálně.cz,online newspaper,online newspaper,https://www.aktualne.cz/,aktualne.cz,yes,1.00,8,,yes
+cze_bbc,CZE,BBC News,2025,2025,,Q4704926,BBC News Online,website of BBC News,news website,https://www.bbc.com/news/,bbc.com,no,1.00,15,,
+cze_blesk,CZE,Blesk,2016,2026,blesk.cz,Q883880,Blesk,Czech daily tabloid newspaper,daily newspaper,http://www.blesk.cz,blesk.cz,yes,1.00,8,,yes
+cze_ceska_televize,CZE,Czech TV News online (Ct24.cz),2016,2026,ct24.cz,Q14567706,Televizní noviny,news program of Czech TV Nova,television program,https://tn.nova.cz,nova.cz,yes,0.57,8,,no
+cze_cesky_rozhlas,CZE,iRozhlas.cz,2016,2026,irozhlas.cz,Q76591659,iRozhlas,online newspaper by Czech Radio,web portal; online newspaper,https://www.irozhlas.cz,irozhlas.cz,yes,1.00,14,,yes
+cze_cesky_rozhlas_dvojka,CZE,Cesky rozhlas Dvojka news,2016,2016,,Q11294087,Český rozhlas Dvojka,radio station in Czechia,radio station,https://dvojka.rozhlas.cz,rozhlas.cz,yes,1.00,2,,
+cze_cesky_rozhlas_radiozurnal,CZE,Cesky rozhlas Radiozurnal news,2016,2018,,Q9393775,Český rozhlas Radiožurnál,Czech radio station,radio station,https://radiozurnal.rozhlas.cz,rozhlas.cz,yes,1.00,2,,
+cze_cnn,CZE,CNN,2022,2022,,Q48340,CNN,American news channel,cable news in the United States; specialty channel; news website; film production company,https://cnn.com,cnn.com,no,1.00,10,,
+cze_cnn_prima,CZE,CNN Prima News,2021,2026,iprima.cz,Q62715025,CNN Prima News,Czech 24-hour news channel,television station,https://cnn.iprima.cz,iprima.cz,yes,1.00,4,,yes
+cze_denik,CZE,Denik,2016,2026,denik.cz,Q11157847,Deník.cz,regional daily newspaper in Czechia,newspaper,https://www.denik.cz/,denik.cz,yes,1.00,11,,yes
+cze_denikn_cz,CZE,DenikN.cz,2022,2026,denikn.cz,Q56663058,Deník N,Czech daily newspaper,newspaper,https://denikn.cz/,denikn.cz,yes,0.92,6,,yes
+cze_dvtv_cz,CZE,DVTV.cz,2017,2023,dvtv.cz,Q16946930,DVTV,Czech web news TV channel,television channel; news broadcasting,https://www.dvtv.cz/,dvtv.cz,yes,1.00,1,,yes
+cze_echo24_cz,CZE,Echo24.cz,2025,2025,echo24.cz,Q17395695,Echo24,Czech newspaper,newspaper,https://echo24.cz/,echo24.cz,yes,1.00,3,,yes
+cze_eurozpravy_cz,CZE,EuroZpravy.cz,2019,2019,eurozpravy.cz,,,,,,,,,1,,
+cze_evropa_2,CZE,Evropa 2 News,2016,2026,,Q1382659,Evropa 2,Czech radio station,radio station,http://www.evropa2.cz,evropa2.cz,yes,1.00,3,,
+cze_extra_cz,CZE,Extra.cz,2016,2026,extra.cz,Q62600919,eXtra.cz,,website,https://www.extra.cz/,extra.cz,no,1.00,12,,yes
+cze_forum24_cz,CZE,Forum24.cz,2024,2026,forum24.cz,Q70715176,Forum 24,Czech online newspaper,website,https://www.forum24.cz,forum24.cz,yes,1.00,2,,yes
+cze_frekvence_1,CZE,Frekvence 1 News,2016,2026,,Q9263715,Frekvence 1,radio station in Czechia,radio station,https://www.frekvence1.cz,frekvence1.cz,yes,1.00,3,,
+cze_hospodarske_noviny,CZE,Hospodarske noviny,2016,2026,ihned.cz,Q623157,Hospodářské noviny,newspaper,newspaper,https://hn.cz,hn.cz,yes,1.00,5,,no
+cze_lidove_noviny,CZE,Lidovky.cz,2016,2026,lidovky.cz,Q82511285,lidovky.cz,Czech online newspaper,online newspaper,https://www.lidovky.cz/,lidovky.cz,yes,1.00,11,,yes
+cze_metro,CZE,Metro,2016,2026,,Q2205581,Letňany,Prague Metro station,metro station; underground station,,,yes,0.33,10,,
+cze_mlada_fronta_dnes,CZE,iDnes.cz,2016,2026,idnes.cz,Q12021344,iDNES.cz,Czech online newspaper,online newspaper,https://www.idnes.cz,idnes.cz,yes,1.00,8,,yes
+cze_parlamentnilisty_cz,CZE,Parlamentnilisty.cz,2016,2026,parlamentnilisty.cz,Q12043842,Parlamentní listy,"discussion, news and commentary internet portal operating since C.E.2008, rated by critics as a disinformation medium",magazine; website,https://www.parlamentnilisty.cz,parlamentnilisty.cz,yes,1.00,3,2017,yes
+cze_pravo,CZE,Novinky.cz,2016,2026,novinky.cz,Q7064916,novinky.cz,Czech news website,online newspaper,http://novinky.cz,novinky.cz,yes,1.00,11,,yes
+cze_prima,CZE,Prima News,2016,2026,iprima.cz,Q2109750,Prima,Czech television station,television station,http://www.iprima.cz/,iprima.cz,yes,1.00,9,,yes
+cze_prvnizpravy_cz,CZE,Prvnizpravy.cz,2018,2020,prvnizpravy.cz,,,,,,,,,0,,
+cze_radio_impuls,CZE,Radio Impuls News,2016,2026,,Q9302217,Radio Impuls,Czech private radio station,radio station,https://www.impuls.cz/,impuls.cz,yes,1.00,2,,
+cze_reflex_cz,CZE,Reflex.cz,2016,2024,reflex.cz,Q4687157,Reflex,Czech weekly magazine,magazine,http://www.reflex.cz,reflex.cz,yes,1.00,6,,yes
+cze_seznam_zpravy,CZE,Seznam Zpravy,2017,2026,seznam.cz,Q54913063,Seznam Zprávy,Czech news server,news website; podcast production company,https://www.seznamzpravy.cz/,seznamzpravy.cz,yes,1.00,10,,no
+cze_sputnik,CZE,Sputnik,2018,2020,sputnik.cz,,,,,,,,,5,,
+cze_super_cz,CZE,Super.cz,2016,2026,super.cz,Q132125391,Super.cz,Czech website,website,https://www.super.cz/,super.cz,yes,1.00,8,,yes
+cze_televize_seznam,CZE,Televize Seznam,2018,2020,,Q54913070,Televize Seznam,television channel,television station; enterprise; business,https://www.televizeseznam.cz/,televizeseznam.cz,yes,1.00,1,,
+cze_tv_barrandov,CZE,TV Barrandov news,2016,2022,,Q3290902,TV Barrandov,Czech digital television channel,television channel,https://www.barrandov.tv,barrandov.tv,yes,1.00,6,,
+cze_tv_nova,CZE,TN.cz,2016,2026,tn.cz,Q605419,TV Nova,Czech television channel,television station,http://tv.nova.cz/,nova.cz,yes,1.00,10,,no
+cze_tyden_cz,CZE,Tyden.cz,2016,2020,tyden.cz,Q7862512,Týden,Czech news magazine,magazine,https://www.tyden.cz,tyden.cz,yes,1.00,6,,yes
+deu_ard,DEU,"ARD News (Tagesschau, Tagesthemen)",2016,2026,,Q49653,ARD,Umbrella organisation of regional and federal public broadcasters in Germany,broadcaster,https://www.ard.de/,ard.de,yes,1.00,10,,
+deu_bild,DEU,Bild/Bild am Sonntag,2016,2026,bild.de,Q108417121,Bild.de,German news website,website,https://bild.de/,bild.de,yes,1.00,15,,yes
+deu_breitbart,DEU,Breitbart,2018,2018,,Q4960434,Breitbart News,American news and opinion website,website; news website,https://breitbart.com,breitbart.com,no,1.00,7,,
+deu_cnn,DEU,CNN,2021,2026,,Q48340,CNN,American news channel,cable news in the United States; specialty channel; news website; film production company,https://cnn.com,cnn.com,no,1.00,9,,
+deu_compact,DEU,Compact online,2018,2020,,Q15803741,Compact,German extreme right-wing magazine,news magazine,https://www.compact-online.de/,compact-online.de,yes,1.00,5,,
+deu_die_welt,DEU,Welt.de,2016,2026,welt.de,Q29872,Die Welt,German national daily newspaper,daily newspaper; newspaper,https://www.welt.de/,welt.de,yes,1.00,19,,yes
+deu_epoch_times,DEU,Epoch Times,2019,2020,,Q584472,The Epoch Times,American newspaper (founded 2000),daily newspaper,https://www.epochtimes.com/,epochtimes.com,no,1.00,5,,
+deu_faz,DEU,FAZ.NET,2020,2026,faz.net,Q10184,Frankfurter Allgemeine Zeitung,German daily newspaper,daily newspaper; organization,https://www.faz.net/,faz.net,yes,1.00,8,,yes
+deu_focus,DEU,Focus,2016,2026,,Q700473,Focus,German weekly news magazine,magazine,https://www.focus-magazin.de/,focus-magazin.de,yes,1.00,9,,
+deu_gmx,DEU,Gmx.de,2016,2026,gmx.de,Q118236594,Category:GMX Media games,Wikimedia category,Wikimedia category,,,no,0.40,13,,
+deu_huffington_post,DEU,HuffPost,2017,2019,,Q18049522,HuffPost,American online news aggregator and blog,online newspaper; news aggregation website,https://www.huffpost.com/,huffpost.com,no,1.00,9,,
+deu_junge_freiheit,DEU,Junge Freiheit,2018,2020,,Q157948,Junge Freiheit,German weekly newspaper if the right-wing,periodical; weekly newspaper,https://jungefreiheit.de/,jungefreiheit.de,yes,1.00,1,,
+deu_msn,DEU,MSN News,2023,2024,,Q66819336,Microsoft Start,news aggregator from Microsoft,application software; news aggregator; website,https://www.microsoftstart.com,microsoftstart.com,no,1.00,15,,
+deu_n24,DEU,N24,2016,2020,n24.de,Q1959672,Welt,television station,television station; specialty channel,https://www.welt.de/,welt.de,yes,1.00,5,,no
+deu_n_tv,DEU,n-tv,2016,2026,n-tv.de,Q265027,n-tv,German television news channel,television station; specialty channel,https://www.n-tv.de/,n-tv.de,yes,1.00,8,,yes
+deu_pi_news,DEU,PI News,2018,2020,,Q2101411,Politically Incorrect,German-language political blog,blog,https://www.pi-news.net/,pi-news.net,yes,1.00,9,,
+deu_prosieben_newstime,DEU,ProSieben Newstime,2016,2026,,Q168717,ProSieben,German TV station,commercial broadcasting; television station; generalist television channel,http://www.prosieben.de/,prosieben.de,yes,1.00,8,,
+deu_rtl,DEU,RTL News,2016,2026,rtl.de,Q96374424,RTL News,German news production company,website; news website; online newspaper,https://www.rtl.de,rtl.de,yes,1.00,11,,yes
+deu_sat_1_nachrichten,DEU,Sat.1 News,2016,2024,,Q313332,Sat.1,German TV station,commercial broadcasting; television station,https://www.sat1.de/,sat1.de,yes,1.00,7,,
+deu_spiegel,DEU,Der Spiegel,2016,2026,,Q131478,Der Spiegel,German weekly news magazine based in Hamburg,magazine,https://www.spiegel.de,spiegel.de,yes,1.00,11,,
+deu_stern,DEU,Stern.de,2016,2023,stern.de,Q2345640,stern.de,German news site,online newspaper; Gesellschaft mit beschränkter Haftung,https://www.stern.de/,stern.de,yes,1.00,8,,yes
+deu_sueddeutsche,DEU,Sueddeutsche.de,2016,2026,sueddeutsche.de,Q158870,Süddeutsche Zeitung,German newspaper published in Munich,daily newspaper,https://www.sueddeutsche.de/,sueddeutsche.de,yes,1.00,8,,yes
+deu_t_online,DEU,t-online,2016,2026,,Q590940,T-Online,German news portal,online newspaper,https://www.t-online.de,t-online.de,yes,1.00,10,,
+deu_tichys_einblick,DEU,Tichys Einblick,2020,2020,,Q27902651,Tichys Einblick,newspaper,magazine; online newspaper,https://www.tichyseinblick.de/,tichyseinblick.de,yes,1.00,1,,
+deu_wdr,DEU,WDR News,2019,2019,,Q203453,Westdeutscher Rundfunk,German regional public broadcaster,German public state broadcaster; production company,https://www.wdr.de/,wdr.de,yes,1.00,8,,
+deu_web_de,DEU,Web.de,2016,2026,web.de,Q2553290,web.de,German web portal,web portal,https://web.de,web.de,yes,1.00,10,,yes
+deu_yahoo,DEU,Yahoo! News,2024,2024,,Q3044717,Yahoo News,news website from Yahoo!,website; news aggregation website,https://news.yahoo.com,yahoo.com,no,1.00,14,,
+deu_zdf,DEU,"ZDF News (heute, heute-journal etc)",2016,2026,,Q48989,ZDF,main program of the German public-service television broadcaster Zweites Deutsches Fernsehen,generalist television channel; public broadcasting; television network,https://zdf.de,zdf.de,yes,1.00,10,,
+deu_zeit,DEU,ZEIT online,2016,2026,,Q157142,Die Zeit,German national weekly newspaper,weekly newspaper,https://www.zeit.de/,zeit.de,yes,1.00,9,,
+dnk_altinget,DNK,Altinget online,2017,2025,,Q12301201,Altinget,Danish online newspaper,news website; online newspaper,https://altinget.dk,altinget.dk,yes,1.00,5,,
+dnk_avisen_dk,DNK,Avisen online,2016,2026,avisen.dk,Q12302548,Avisen.dk,,news website; newspaper,https://www.avisen.dk/,avisen.dk,yes,1.00,8,,yes
+dnk_bbc,DNK,BBC News,2016,2026,,Q4704926,BBC News Online,website of BBC News,news website,https://www.bbc.com/news/,bbc.com,no,1.00,13,,
+dnk_berlingske,DNK,Berlingske,2016,2026,b.dk,Q59055,Berlingske,Danish newspaper,weekly newspaper; daily newspaper; newspaper,https://berlingske.dk,berlingske.dk,yes,1.00,5,,no
+dnk_borsen,DNK,Børsen online,2016,2026,,Q5208470,Dagbladet Børsen,Danish newspaper,newspaper; daily newspaper,http://www.borsen.dk/,borsen.dk,yes,1.00,5,,
+dnk_bt,DNK,BT online,2016,2026,,Q327821,B.T.,Danish newspaper,daily newspaper,http://www.bt.dk/,bt.dk,yes,1.00,5,,
+dnk_cnn,DNK,CNN,2017,2026,cnn.com,Q48340,CNN,American news channel,cable news in the United States; specialty channel; news website; film production company,https://cnn.com,cnn.com,no,1.00,8,,yes
+dnk_dagens_dk,DNK,Dagens online,2016,2026,dagens.dk,Q115864725,Dagens.dk,Danish news website owned by Media Group Denmark ApS,news website,https://www.dagens.dk,dagens.dk,yes,1.00,7,,yes
+dnk_den_korte_avis,DNK,Den Korte Avis,2017,2020,,Q12308081,Den Korte Avis,,online newspaper,http://www.denkorteavis.dk,denkorteavis.dk,yes,1.00,1,,
+dnk_dr,DNK,DR News online,2016,2026,,Q1164334,DR,Danish public service broadcaster,public broadcaster; organization; production company,https://www.dr.dk,dr.dk,yes,1.00,8,,
+dnk_ekstrabladet,DNK,Ekstra Bladet,2016,2026,,Q1226253,Ekstra Bladet,Danish newspaper,newspaper,https://ekstrabladet.dk/,ekstrabladet.dk,yes,1.00,8,,
+dnk_information_dk,DNK,Information online,2016,2026,information.dk,Q761660,Dagbladet Information,Danish newspaper,daily newspaper,http://www.information.dk/,information.dk,yes,1.00,12,,yes
+dnk_jyllandsposten,DNK,Jyllandsposten online,2016,2026,,Q815527,Jyllands Posten,Danish newspaper,newspaper,https://jyllands-posten.dk,jyllands-posten.dk,yes,1.00,6,,
+dnk_kristeligt_dagblad,DNK,Kristeligt Dagblad,2022,2022,,Q1433145,Kristeligt Dagblad,periodical literature,newspaper,https://kristeligt-dagblad.dk,kristeligt-dagblad.dk,yes,1.00,5,,
+dnk_metroxpress,DNK,Metroxpres,2016,2018,,Q303966,metroxpress,Danish free daily newspaper (2001-2018),newspaper,http://www.mx.dk,mx.dk,yes,1.00,1,,
+dnk_msn,DNK,MSN News,2019,2019,,Q66819336,Microsoft Start,news aggregator from Microsoft,application software; news aggregator; website,https://www.microsoftstart.com,microsoftstart.com,no,1.00,11,,
+dnk_politiken,DNK,Politiken,2016,2026,,Q373133,Politiken,Danish newspaper,newspaper; daily newspaper,https://politiken.dk/,politiken.dk,yes,1.00,5,,
+dnk_radio24syv,DNK,Radio 24syv news,2016,2019,,Q12332727,Radio24syv,Danish radio station,radio station,https://www.24syv.dk,24syv.dk,yes,0.95,2,2019,
+dnk_radio_4,DNK,Radio 4,2021,2026,,Q3066783,Ràdio 4,public radio station in Catalan,radio station,http://www.radio4.cat/,radio4.cat,no,1.00,9,,
+dnk_sondagsavisen,DNK,Søndagsavisen,2016,2020,,Q4572712,Søndagsavisen,newspaper,newspaper,http://www.sondagsavisen.dk/,sondagsavisen.dk,yes,1.00,1,2020,
+dnk_tv2,DNK,TV2 Nyhederne (incl. TV2 News),2016,2026,,Q12338667,TV 2 Nyhederne,Danish news media,television program; news media,https://nyheder.tv2.dk,tv2.dk,yes,1.00,9,,
+dnk_weekendavisen,DNK,Weekendavisen,2017,2026,,Q176375,Weekendavisen,periodical literature,weekly newspaper; business,https://www.weekendavisen.dk/,weekendavisen.dk,yes,1.00,3,,
+dnk_zetland,DNK,Zetland,2019,2026,,Q24633343,Zetland,Danish online newspaper,online newspaper; media company,https://www.zetland.dk,zetland.dk,yes,1.00,1,,
+esp_20_minutos,ESP,20 Minutos,2016,2026,,Q2077548,20 minutos,Spanish online newspaper,periodical; online newspaper,https://www.20minutos.es/,20minutos.es,yes,1.00,1,,
+esp_abc,ESP,ABC online,2016,2026,,Q287076,ABC,Spanish newspaper established in 1903,daily newspaper,https://abc.es,abc.es,yes,1.00,5,,
+esp_antena_3,ESP,Antena 3 online,2016,2026,,Q571833,Antena 3,private Spanish generalist television network,television station,https://www.antena3.com/,antena3.com,yes,1.00,6,,
+esp_cadena_ser,ESP,Cadena SER News,2016,2026,,Q1025113,Cadena SER,radio station,radio station; news agency,http://www.cadenaser.com/,cadenaser.com,yes,1.00,5,,
+esp_cope,ESP,COPE News,2016,2026,,Q2748488,Cadena COPE,the Spanish private national radio of the Spanish Catholic Church,radio network,https://www.cope.es/,cope.es,yes,1.00,5,,
+esp_cuatro,ESP,Cuatro News,2016,2026,,Q962340,Cuatro,Spanish television channel,television station,https://www.cuatro.com/,cuatro.com,yes,1.00,5,,
+esp_el_confidencial,ESP,El Confidencial,2016,2026,elconfidencial.com,Q5821545,El Confidencial,Spanish newspaper,daily newspaper,https://www.elconfidencial.com,elconfidencial.com,yes,1.00,3,,yes
+esp_el_diario,ESP,elDiario.es,2016,2026,eldiario.es,Q8774265,elDiario.es,"Spanish digital paper, created in 2012",online newspaper,https://www.eldiario.es/,eldiario.es,yes,1.00,9,,yes
+esp_el_espanol,ESP,El Español,2022,2026,elespanol.com,Q20652713,El Español,Spanish online newspaper,online newspaper,http://www.elespanol.com/,elespanol.com,yes,1.00,11,,yes
+esp_el_mundo,ESP,El Mundo,2016,2026,,Q921217,El Mundo,Spanish daily newspaper,daily newspaper,https://www.elmundo.es/,elmundo.es,yes,1.00,5,,
+esp_el_pais,ESP,El País,2016,2026,,Q50009,El País,Spanish newspaper,daily newspaper,https://elpais.com/,elpais.com,yes,1.00,5,,
+esp_el_periodico,ESP,El Periódico,2016,2024,,Q35638,El Periódico,newspaper of Spain,newspaper,https://www.elperiodico.com,elperiodico.com,yes,1.00,10,,
+esp_huffington_post,ESP,Huffington Post,2016,2025,,Q3049977,El HuffPost,,online newspaper,http://www.huffingtonpost.es,huffingtonpost.es,yes,1.00,1,,
+esp_la_razon,ESP,La Razón online,2020,2026,,Q191433,La Razón,Spanish newspaper,daily newspaper,http://www.larazon.es,larazon.es,yes,1.00,5,,
+esp_la_vanguardia,ESP,La Vanguardia online,2017,2026,,Q511533,La Vanguardia,Spanish newspaper,newspaper,http://www.lavanguardia.com/,lavanguardia.com,yes,1.00,5,,
+esp_lasexta,ESP,LaSexta News,2016,2026,,Q1165360,La Sexta,Spanish private television channel,television station,https://www.lasexta.com/,lasexta.com,yes,1.00,6,,
+esp_libertad_digital,ESP,Libertad Digital,2023,2023,,Q3101925,Libertad Digital,"advocacy journalism online newspaper edited in Madrid, Spain",periodical; online newspaper; digital newspaper,http://www.libertaddigital.com/,libertaddigital.com,yes,1.00,8,,
+esp_marca,ESP,Marca online,2016,2026,,Q917580,Marca,Spanish sports website,newspaper; website,https://www.marca.com/,marca.com,yes,1.00,8,,
+esp_msn,ESP,MSN News,2016,2018,,Q66819336,Microsoft Start,news aggregator from Microsoft,application software; news aggregator; website,https://www.microsoftstart.com,microsoftstart.com,no,1.00,15,,
+esp_okdiario,ESP,OKDiario,2018,2026,okdiario.com,Q30901816,Okdiario,Spanish digital newspaper,digital newspaper,https://okdiario.com,okdiario.com,yes,1.00,3,,yes
+esp_onda_cero,ESP,Onda Cero,2016,2026,,Q2748448,Onda Cero,Spanish radio station,radio network,http://www.ondacero.es,ondacero.es,yes,1.00,5,,
+esp_publico,ESP,Público,2016,2025,publico.es,Q1835391,Público,Spanish online newspaper,digital newspaper; newspaper,http://www.publico.es,publico.es,yes,1.00,9,,yes
+esp_rne,ESP,RNE news,2016,2016,,Q2302267,RNE,public radio broadcaster of Spain,public broadcaster; broadcasting,http://www.rtve.es/radio/,rtve.es,yes,1.00,6,,
+esp_rtve,ESP,RTVE online,2016,2026,,Q54829,RTVE,public broadcaster of Spain,state-owned enterprise; media company; broadcaster,https://www.rtve.es/,rtve.es,yes,1.00,11,,
+esp_telecinco,ESP,Telecinco News,2016,2026,,Q301129,Telecinco,Spanish television channel,television station,https://www.telecinco.es/,telecinco.es,yes,1.00,5,,
+esp_yahoo,ESP,Yahoo! News,2016,2019,,Q3044717,Yahoo News,news website from Yahoo!,website; news aggregation website,https://news.yahoo.com,yahoo.com,no,1.00,16,,
+fin_alfa_tv,FIN,Alfa TV News,2021,2022,,Q11853757,Alfa-TV,former Finnish television channel,television station; television channel,https://www.alfatv.fi/,alfatv.fi,yes,1.00,1,2022,
+fin_bbc,FIN,BBC News,2016,2026,,Q4704926,BBC News Online,website of BBC News,news website,https://www.bbc.com/news/,bbc.com,no,1.00,13,,
+fin_channel_4,FIN,Channel 4 news online,2016,2019,,Q18680140,Ruutu+ Lapset,former specialty television channel in Finland,television station; specialty channel,http://www.nelonenpaketti.fi/,nelonenpaketti.fi,yes,0.41,9,2018,
+fin_cnn,FIN,CNN,2016,2026,cnn.com,Q48340,CNN,American news channel,cable news in the United States; specialty channel; news website; film production company,https://cnn.com,cnn.com,no,1.00,9,,yes
+fin_helsingin_sanomat,FIN,Helsingin Sanomat,2016,2026,,Q366921,Helsingin Sanomat,"newspaper published in Helsinki, Finland since 1904",newspaper; daily newspaper; newspaper of record,https://www.hs.fi/,hs.fi,yes,1.00,4,,
+fin_hufvudstadsbladet,FIN,Hufvudstadsbladet,2016,2016,,Q613979,Hufvudstadsbladet,"Swedish language newspaper published in Helsinki, Finland since 1864",newspaper; daily newspaper,https://www.hbl.fi,hbl.fi,yes,1.00,3,,
+fin_ilta_sanomat,FIN,Ilta-Sanomat,2016,2026,,Q1001384,Ilta-Sanomat,Finnish tabloid newspaper,tabloid newspaper,https://www.is.fi,is.fi,yes,1.00,2,,
+fin_iltalehti,FIN,Iltalehti,2016,2026,,Q2421561,Iltalehti,"tabloid newspaper published in Helsinki, Finland",newspaper; tabloid,https://www.iltalehti.fi/,iltalehti.fi,yes,1.00,2,,
+fin_kansalainen,FIN,Kansalainen,2018,2020,,Q18659836,Kansalainen,"newspaper published in 1896–1912 in Pori, Grand Duchy of Finland",newspaper,,,yes,1.00,4,,
+fin_kauppalehti,FIN,Kauppalehti,2016,2026,,Q6378858,Kauppalehti,"newspaper published in Helsinki, Finland since 1898",newspaper,http://www.kauppalehti.fi/,kauppalehti.fi,yes,1.00,4,,
+fin_maaseudun_tulevaisuus,FIN,Maaseudun Tulevaisuus,2016,2026,,Q6848891,Maaseudun Tulevaisuus,Finnish newspaper published in Helsinki,newspaper,https://www.maaseuduntulevaisuus.fi/,maaseuduntulevaisuus.fi,yes,1.00,3,,
+fin_magneettimedia,FIN,Magneettimedia,2018,2018,,Q18660721,Magneettimedia,Finnish free and online newspaper,magazine,http://www.magneettimedia.com/,magneettimedia.com,no,1.00,1,,
+fin_msn,FIN,MSN News,2016,2026,,Q66819336,Microsoft Start,news aggregator from Microsoft,application software; news aggregator; website,https://www.microsoftstart.com,microsoftstart.com,no,1.00,10,,
+fin_mtv,FIN,MTV3 News,2016,2026,,Q1432558,MTV3,Finnish commercial television station,television station; television channel,https://www.mtv.fi,mtv.fi,yes,1.00,10,,
+fin_mv_lehti,FIN,MV-Lehti,2018,2020,,,,,,,,,,5,,
+fin_nykysuomi,FIN,Nykysuomi,2019,2020,,,,,,,,,,5,,
+fin_oikea_media,FIN,Oikea Media,2018,2020,,Q29309306,Oikea Media (verkkolehti),,magazine,http://www.oikeamedia.fi,oikeamedia.fi,no,0.65,2,,
+fin_suomen_kuvalehti,FIN,Suomen Kuvalehti,2017,2026,,Q3131436,Suomen Kuvalehti,Finnish magazine (1916–),magazine; news magazine,https://suomenkuvalehti.fi,suomenkuvalehti.fi,yes,1.00,2,,
+fin_talouselama,FIN,Talouselämä,2017,2026,,Q11896186,Talouselämä,Finnish business magazine,magazine,https://www.talouselama.fi/,talouselama.fi,yes,1.00,1,,
+fin_taloussanomat,FIN,Taloussanomat online,2016,2020,,Q7680310,Taloussanomat,"business online daily newspaper in Helsinki, Finland",newspaper; online newspaper,http://www.taloussanomat.fi/,taloussanomat.fi,yes,1.00,1,,
+fin_uusi_suomi,FIN,Uusi Suomi online,2016,2026,,Q3948279,Uusi Suomi,Finnish online newspaper (2007–),magazine; online newspaper,https://digi.kansalliskirjasto.fi/sanomalehti/titles/0355-5461,kansalliskirjasto.fi,yes,1.00,3,,
+fin_yle,FIN,Yle News online (incl. news via Areena),2016,2026,,Q8053995,Yle Uutiset,news of the Finnish Broadcasting Company Yle,television program; news program; online newspaper,https://yle.fi/uutiset,yle.fi,yes,1.00,10,,
+fin_yle_radio,FIN,Yle Radio News,2023,2026,,Q9383460,Yle Radio 1,Finnish radio channel,radio channel; broadcaster,http://yle.fi/radio1,yle.fi,yes,0.90,6,,
+fin_yle_tv,FIN,Yle TV News,2023,2026,,Q2031832,Yle TV2,Finnish television channel,television station,https://areena.yle.fi/tv/ohjelmat/yle-tv2,yle.fi,yes,0.92,7,,
+fra_20_minutes,FRA,20 Minutes,2016,2026,,Q7245532,20 minutes,French daily newspaper,daily newspaper; business,https://www.20minutes.fr/,20minutes.fr,yes,1.00,4,,
+fra_agence_lcd,FRA,Agence LCD News,2019,2019,,,,,,,,,,5,,
+fra_arte,FRA,Arte (public service television),2024,2026,,Q8073,Arte,Franco-German television channel and network,television network; television station; generalist television channel; organization,https://www.arte.tv/,arte.tv,yes,1.00,5,,
+fra_aufeminin_com,FRA,Aufeminin.com,2017,2019,aufeminin.com,Q2870887,aufeminin,French website,website; online mass media; Internet forum; organization,https://www.aufeminin.com,aufeminin.com,yes,1.00,1,,yes
+fra_bfm_tv,FRA,BFM TV online,2016,2026,,Q517444,,French news channel,specialty channel; television station; news website,https://www.bfmtv.com,bfmtv.com,yes,0.91,10,,
+fra_brut,FRA,Brut,2019,2026,,Q28485754,Brut,media,communications media; online newspaper; organization,https://www.brut.media/,brut.media,yes,1.00,5,,
+fra_canal_plus,FRA,Canal+,2016,2025,,Q1032540,Canal+,French television channel,television station,https://canalplus.com,canalplus.com,yes,1.00,10,,
+fra_cnews,FRA,CNews,2017,2026,,Q3083542,CNews,French television Channel,television station; specialty channel,http://www.cnews.fr/,cnews.fr,yes,1.00,7,,
+fra_direct_matin,FRA,Direct Matin,2016,2017,,Q3029379,CNews,free French daily newspaper,daily newspaper,http://www.cnewsmatin.fr/,cnewsmatin.fr,no,1.00,9,,
+fra_fdesouche,FRA,Fdesouche,2020,2020,,Q3084442,Fdesouche,press review,press review; blog; website,http://www.fdesouche.com,fdesouche.com,no,1.00,1,,
+fra_france_24,FRA,France 24,2017,2026,,Q166180,France 24,French state-owned international news television network based in Paris,television station; specialty channel; state media; fact-checking organisation; website,https://www.france24.com/fr/,france24.com,yes,1.00,5,,
+fra_france_info,FRA,France Info (public broadcaster),2017,2026,,Q51879657,France Info,online newspaper,news website,https://www.franceinfo.fr/,franceinfo.fr,yes,1.00,10,,
+fra_france_televisions,FRA,France Télévisions (public broadcaster),2016,2026,,Q1124861,France Télévisions,French public television group,state-owned enterprise; state broadcaster,https://www.francetelevisions.fr/groupe,francetelevisions.fr,yes,1.00,15,,
+fra_huffington_post,FRA,Le HuffPost,2016,2024,,Q3223501,Huffington Post France,newspaper,online newspaper; pure play,https://www.huffingtonpost.fr/,huffingtonpost.fr,yes,1.00,1,,
+fra_hugodecrypte,FRA,HugoDécrypte,2026,2026,,Q129845952,HugoDécrypte (média),,communications media; organization,https://hugodecry.pt,hugodecry.pt,yes,0.80,2,,
+fra_i_tele,FRA,I-Télé,2016,2016,,Q3083542,CNews,French television Channel,television station; specialty channel,http://www.cnews.fr/,cnews.fr,yes,1.00,5,,
+fra_konbini,FRA,Konbini,2025,2026,,Q21427475,Konbini,website,website; enterprise,https://www.konbini.com,konbini.com,no,1.00,7,,
+fra_l_equipe,FRA,L’Equipe,2022,2026,,Q815748,L'Équipe,French sports newspaper,sports newspaper; sports website,https://www.lequipe.fr/,lequipe.fr,yes,1.00,5,,
+fra_l_express,FRA,L’Express online,2016,2020,,Q770596,L'Express,French weekly news magazine,newspaper,https://lexpress.fr/,lexpress.fr,yes,1.00,5,,
+fra_la_voix_du_nord,FRA,La Voix du Nord,2019,2021,,Q2567583,La Voix du Nord,French daily newspaper,daily newspaper,https://www.lavoixdunord.fr,lavoixdunord.fr,yes,1.00,3,,
+fra_lci,FRA,LCI,2016,2019,,Q3207314,LCI,French news television channel of the TF1 group,television channel; specialty channel,https://www.tf1info.fr/,tf1info.fr,yes,1.00,5,,
+fra_le_figaro,FRA,Le Figaro,2016,2026,,Q216047,Le Figaro,French daily newspaper,daily newspaper; newspaper,https://www.lefigaro.fr/,lefigaro.fr,yes,1.00,5,,
+fra_le_media,FRA,Le Media,2019,2020,,Q113359441,Vert,French news website with a primary focus on environment topics,news website,https://vert.eco/,vert.eco,yes,0.76,7,,
+fra_le_monde,FRA,Le Monde,2016,2026,,Q12461,Le Monde,French daily newspaper founded in 1944,daily newspaper; online newspaper,https://www.lemonde.fr,lemonde.fr,yes,1.00,10,,
+fra_le_nouvel_observateur,FRA,L'Obs (tempsreel.nouvelobs.com),2016,2018,nouvelobs.com,Q1044328,Le Nouvel Obs,weekly French newsmagazine,newspaper,https://www.nouvelobs.com/,nouvelobs.com,yes,1.00,4,,yes
+fra_le_parisien,FRA,Le Parisien online,2017,2026,,Q142348,Le Parisien,French newspaper,daily newspaper,https://www.leparisien.fr,leparisien.fr,yes,1.00,5,,
+fra_le_point,FRA,Le Point online,2016,2023,lepoint.fr,Q1810082,Le Point,French weekly news magazine,news magazine,https://www.lepoint.fr/,lepoint.fr,yes,1.00,11,,yes
+fra_les_echos,FRA,Les Echos online,2017,2017,,Q923193,Les Échos,French news website and daily newspaper,newspaper,https://www.lesechos.fr/,lesechos.fr,yes,1.00,5,,
+fra_liberation,FRA,Libération online,2016,2018,,Q13717,Libération,French daily newspaper founded in 1973,daily newspaper,https://www.liberation.fr/,liberation.fr,yes,1.00,6,,
+fra_linternaute_com,FRA,Linternaute.com,2016,2022,linternaute.com,Q3204254,L'Internaute,French news website,online newspaper; Internet forum,https://www.linternaute.com,linternaute.com,yes,1.00,5,,yes
+fra_m6,FRA,M6 News,2016,2026,,Q1881062,M6,French TV channel,television station,https://m6.fr,m6.fr,yes,1.00,6,,
+fra_mediapart,FRA,Médiapart,2016,2026,,Q619342,Mediapart,French independent online newspaper,online newspaper,https://www.mediapart.fr/,mediapart.fr,yes,1.00,7,,
+fra_metro,FRA,Metro,2016,2016,,Q1552,Lyon Metro,"public transportation network in Lyon, France",rapid transit; public transport network,,,yes,0.67,10,,
+fra_msn,FRA,MSN News,2016,2025,,Q66819336,Microsoft Start,news aggregator from Microsoft,application software; news aggregator; website,https://www.microsoftstart.com,microsoftstart.com,no,1.00,15,,
+fra_ouest_france,FRA,Ouest France,2016,2026,,Q660769,Ouest-France,French newspaper,newspaper,https://journal.ouest-france.fr/,ouest-france.fr,yes,1.00,10,,
+fra_rt_france,FRA,RT France online,2019,2020,,Q19599559,RT en français,French version of the Russian international news channel RT,television channel; online newspaper,https://francais.rt.com/,rt.com,yes,1.00,8,2023,
+fra_rtl,FRA,RTL online,2022,2022,,Q1351173,RTL,French radio station,radio station; online newspaper,https://www.rtl.fr/,rtl.fr,yes,1.00,5,,
+fra_sputnik,FRA,Sputnik,2019,2020,,,,,,,,,,5,,
+fra_tf1,FRA,TF1 News online,2016,2026,,Q214683,TF1,French television channel,television station,https://www.tf1.fr/,tf1.fr,yes,1.00,7,,
+fra_yahoo,FRA,Yahoo! News,2016,2026,,Q3044717,Yahoo News,news website from Yahoo!,website; news aggregation website,https://news.yahoo.com,yahoo.com,no,1.00,15,,
+gbr_al_jazeera,GBR,Al Jazeera,2024,2026,,Q13477,Al Jazeera,Qatari international television channel,broadcaster; television station; news website,https://www.aljazeera.com/,aljazeera.com,no,1.00,14,,
+gbr_another_angry_voice,GBR,Another Angry Voice,2018,2020,,Q48814449,Another Angry Voice,British left-wing political blog,website,http://anotherangryvoice.blogspot.co.uk,blogspot.co.uk,no,1.00,1,,
+gbr_bbc,GBR,BBC News online,2016,2026,bbc.co.uk,Q4704926,BBC News Online,website of BBC News,news website,https://www.bbc.com/news/,bbc.com,yes,1.00,11,,no
+gbr_bbc_radio,GBR,BBC Radio News,2021,2025,,Q1191294,BBC Radio,division and service of the British Broadcasting Corporation,division; broadcaster,http://www.bbc.co.uk/radio,bbc.co.uk,yes,1.00,10,,
+gbr_bbc_tv,GBR,BBC TV News,2021,2025,,Q191472,BBC One,flagship television channel of the BBC,television station,https://www.bbc.co.uk/bbcone/,bbc.co.uk,yes,1.00,10,,
+gbr_breitbart,GBR,Breitbart,2017,2020,,Q4960434,Breitbart News,American news and opinion website,website; news website,https://breitbart.com,breitbart.com,no,1.00,5,,
+gbr_buzzfeed,GBR,BuzzFeed News,2016,2022,buzzfeed.com,Q55715275,BuzzFeed News,news website,online newspaper,https://www.buzzfeednews.com,buzzfeednews.com,no,1.00,9,,no
+gbr_canary,GBR,The Canary,2017,2020,,Q25184380,The Canary,British online journalism website,news website,https://www.thecanary.co/,thecanary.co,yes,1.00,7,,
+gbr_channel_4,GBR,Channel 4 News,2016,2026,channel4.com,Q3707372,Channel 4 News,television series,news program; television program,http://www.channel4.com/news/,channel4.com,yes,1.00,13,,yes
+gbr_channel_5,GBR,Channel 5 News,2016,2026,channel5.com,Q1062280,Channel 5,British TV station,television station,http://pbskids.org,pbskids.org,yes,1.00,8,,no
+gbr_cnn,GBR,CNN,2018,2026,cnn.com,Q800611,Canonbury railway station,"railway station in Canonbury, London Borough of Islington, England, UK",railway station,,,yes,1.00,6,,
+gbr_daily_mail,GBR,Daily Mail/Mail on Sunday,2016,2026,dailymail.co.uk,Q210534,Daily Mail,"British tabloid newspaper, since 1896",daily newspaper; newspaper; tabloid; banned work; periodical,https://www.dailymail.co.uk/,dailymail.co.uk,yes,1.00,10,,yes
+gbr_daily_mirror,GBR,Mirror online,2016,2025,mirror.co.uk,Q217623,Daily Mirror,British daily tabloid newspaper,daily newspaper; newspaper; periodical,http://www.mirror.co.uk,mirror.co.uk,yes,1.00,5,,yes
+gbr_evolve_politics,GBR,Evolve Politics,2018,2018,,Q55611253,Evolve Politics,British news and current affairs website,website,https://evolvepolitics.com/,evolvepolitics.com,no,1.00,5,,
+gbr_express,GBR,The Express (& Sunday),2017,2020,,Q610190,Daily Express,British middle market newspaper,daily newspaper; periodical,https://www.express.co.uk/,express.co.uk,yes,1.00,11,,
+gbr_financial_times,GBR,Financial Times online,2026,2026,,Q183399,Financial Times,London-based daily newspaper,daily newspaper; newspaper; web service,https://www.ft.com,ft.com,yes,1.00,6,,
+gbr_gb_news,GBR,GB News (24-hour news),2022,2026,,Q100300992,GB News,British television news channel,television station; specialty channel,https://www.gbnews.com/,gbnews.com,yes,1.00,13,,
+gbr_guardian,GBR,Guardian online,2016,2026,theguardian.com,Q5614028,Guardian US,US version of The Guardian,news website,https://www.theguardian.com/us,theguardian.com,no,0.78,12,,yes
+gbr_huffington_post,GBR,HuffPost,2016,2023,huffingtonpost.co.uk,Q18647962,HuffPost Arabi,website,website,http://www.huffpostarabi.com/,huffpostarabi.com,yes,0.73,1,,no
+gbr_i,GBR,‘i’,2016,2023,,Q1943651,The i Paper,British newspaper,daily newspaper,https://inews.co.uk/,inews.co.uk,yes,1.00,10,,
+gbr_independent,GBR,Independent/ i100 online,2016,2024,independent.co.uk,Q11149,The Independent,British national daily newspaper,daily newspaper; online newspaper,https://independent.co.uk,independent.co.uk,yes,0.81,6,,yes
+gbr_itv,GBR,ITV News,2016,2026,itv.com,Q4189762,ITV News,British broadcaster ITV's branded news programming,business; mass media,https://www.itv.com/news,itv.com,yes,1.00,10,,yes
+gbr_lad_bible,GBR,The Lad Bible,2016,2026,ladbible.com,Q33111863,LADbible,British internet media company,website; business,http://www.ladbible.com/,ladbible.com,yes,0.76,1,,yes
+gbr_london_evening_standard,GBR,London Evening Standard,2016,2020,standard.co.uk,Q666494,Evening Standard,daily tabloid newspaper in London,daily newspaper; newspaper; periodical,http://www.standard.co.uk/,standard.co.uk,yes,1.00,3,,yes
+gbr_metro,GBR,Metro online,2016,2026,,Q6824453,Metro,New Zealand monthly magazine,magazine,http://metromag.co.nz/,metromag.co.nz,no,1.00,11,,
+gbr_msn,GBR,MSN News,2016,2026,msn.com,Q1915469,Marsden railway station,"railway station in West Yorkshire, England, UK",railway station,,,yes,1.00,8,,
+gbr_rt,GBR,Russia Today,2020,2020,,Q22868,RT,Russian state-controlled international television network,television network; television station; foreign agent; website,https://www.rt.com,rt.com,no,1.00,5,,
+gbr_skwawkbox,GBR,Skwawkbox,2018,2018,,Q56276911,The Skwawkbox,British left-wing news blog,website,https://skwawkbox.org/,skwawkbox.org,no,0.82,1,,
+gbr_sky,GBR,Sky News online,2016,2026,news.sky.com,Q217228,Sky News,British 24-hour television news channel,television station; specialty channel,https://news.sky.com,sky.com,yes,1.00,10,,no
+gbr_sun,GBR,Sun online,2016,2026,thesun.co.uk,Q208875,The Sun,British tabloid newspaper,daily newspaper; tabloid newspaper,https://thesun.co.uk,thesun.co.uk,yes,1.00,6,,yes
+gbr_telegraph,GBR,Telegraph online,2016,2026,telegraph.co.uk,Q12741725,The Sunday Telegraph,British broadsheet newspaper,weekly newspaper,https://www.telegraph.co.uk,telegraph.co.uk,yes,1.00,9,,yes
+gbr_times,GBR,The Times/Sunday Times,2016,2026,thetimes.co.uk,Q50008,The Times,British daily national newspaper based in London,daily newspaper; online newspaper; newspaper; periodical,https://www.thetimes.com/,thetimes.com,yes,1.00,12,,no
+gbr_westmonster,GBR,Westmonster,2018,2019,,,,,,,,,,4,,
+gbr_yahoo,GBR,Yahoo! News,2016,2026,yahoo.com,Q3044717,Yahoo News,news website from Yahoo!,website; news aggregation website,https://news.yahoo.com,yahoo.com,no,1.00,18,,yes
+grc_alpha_tv,GRC,Alpha News,2016,2026,,Q1971112,Alpha TV,Greek free-to-air channel,television station,http://www.alphatv.gr,alphatv.gr,yes,1.00,7,,
+grc_ant1,GRC,ANT1 News,2016,2026,,Q2629071,ANT1,television network in Greece and Cyprus,television network,http://www.antenna.gr/,antenna.gr,yes,1.00,5,,
+grc_bbc,GRC,BBC News,2016,2025,,Q4704926,BBC News Online,website of BBC News,news website,https://www.bbc.com/news/,bbc.com,no,1.00,13,,
+grc_capital_gr,GRC,Capital.gr,2016,2026,capital.gr,,,,,,,,,14,,
+grc_cnn,GRC,CNN,2016,2022,,Q48340,CNN,American news channel,cable news in the United States; specialty channel; news website; film production company,https://cnn.com,cnn.com,no,1.00,7,,
+grc_cnn_greece,GRC,CNN Greece (CNN.gr),2017,2026,cnn.gr,Q108400128,CNN Greece,Greek news website,news website,https://www.cnn.gr/,cnn.gr,yes,1.00,2,,yes
+grc_dikaiologitika_gr,GRC,Dikaiologitika.gr,2019,2024,dikaiologitika.gr,,,,,,,,,1,,
+grc_efimerida_ton_syntakton,GRC,Efimerida ton Syntakton,2018,2024,,Q20638209,Efimerida ton Syntakton,Greek cooperative daily newspaper,newspaper,http://www.efsyn.gr/,efsyn.gr,no,1.00,1,,
+grc_enikos_gr,GRC,Enikos.gr,2016,2019,enikos.gr,Q138652257,ENIKOS,Greek news website,news website,https://www.enikos.gr/,enikos.gr,yes,1.00,1,,yes
+grc_epsilon,GRC,Epsilon news,2016,2018,,Q5383971,Epsilon TV,TV station in Central Greece and Euboea Island,television channel,http://www.epsilon-tv.com/,epsilon-tv.com,yes,0.82,5,,
+grc_ert,GRC,ERT News online,2016,2026,,Q1145059,Hellenic Broadcasting Corporation,Greek public broadcasting corporation,broadcaster; corporation; public broadcaster,https://www.ert.gr/,ert.gr,yes,1.00,6,2013,
+grc_ethnos,GRC,Ethnos,2019,2020,,Q2466270,Ethnos,Greek newspaper,daily newspaper,https://www.ethnos.gr/,ethnos.gr,yes,1.00,3,,
+grc_iefimerida_gr,GRC,Iefimerida.gr,2017,2026,iefimerida.gr,Q105590147,iefimerida.gr,Greek news website,website; online newspaper,https://www.iefimerida.gr/,iefimerida.gr,yes,1.00,1,,yes
+grc_in_gr,GRC,In.gr,2016,2026,in.gr,,,,,,,,,17,,
+grc_kathimerini,GRC,Kathimerini online,2016,2026,,Q38908081,Kathimerini,newspaper in Cyprus,periodical; newspaper,http://www.kathimerini.com.cy,kathimerini.com.cy,no,1.00,7,,
+grc_left_gr,GRC,Left.gr,2018,2018,left.gr,,,,,,,,,14,,
+grc_lifo_gr,GRC,Lifo.gr,2016,2026,lifo.gr,Q61989571,LiFO,Greek magazine,newspaper; website; magazine; news media,https://www.lifo.gr,lifo.gr,yes,1.00,5,,yes
+grc_makedonia_tv,GRC,Makedonia TV,2016,2016,,Q2985308,Macedonia TV,television network in Greece,television station,http://www.maktv.gr/,maktv.gr,yes,1.00,1,,
+grc_makeleio_gr,GRC,Makeleio.gr,2018,2018,makeleio.gr,,,,,,,,,1,,
+grc_mega,GRC,MEGA TV News,2016,2026,,Q137988985,Mega News,Greek TV channel,television station,https://www.megatv.com/meganews/,megatv.com,yes,1.00,7,,
+grc_mixanitouxronou_gr,GRC,mixanitouxronou.gr,2017,2026,mixanitouxronou.gr,Q132181298,Mixani tou Xronou,Greek news website,news website; online newspaper,https://www.mixanitouxronou.gr/,mixanitouxronou.gr,yes,0.94,2,,yes
+grc_naftemporiki,GRC,Naftemporiki online,2016,2026,naftemporiki.gr,Q598237,Naftemporiki,Greek newspaper,daily newspaper,https://www.naftemporiki.gr/,naftemporiki.gr,yes,1.00,2,,yes
+grc_news247_gr,GRC,News247.gr,2016,2026,news247.gr,Q108393851,News 24/7,Greek news website,news website,https://www.news247.gr/,news247.gr,yes,0.94,6,,yes
+grc_newsbeast_gr,GRC,Newsbeast.gr,2016,2026,newsbeast.gr,Q114688229,newsbeast,Greek news website,news website,https://www.newsbeast.gr/,newsbeast.gr,yes,1.00,2,,yes
+grc_newsbomb_gr,GRC,Newsbomb.gr,2016,2026,newsbomb.gr,Q105296698,Newsbomb.gr,,website,https://www.newsbomb.gr/,newsbomb.gr,yes,1.00,1,,yes
+grc_newsit_gr,GRC,Newsit.gr,2016,2026,newsit.gr,Q131836422,It-connect.fr,Blog and platform specializing in IT and cybersecurity news,blog,https://www.it-connect.fr,it-connect.fr,no,0.38,1,,no
+grc_olympia_gr,GRC,Olympia.gr,2018,2018,olympia.gr,,,,,,,,,13,,
+grc_open,GRC,Open News,2019,2026,,Q19571549,Open TV,Greek television channel,television channel,https://www.tvopen.gr,tvopen.gr,yes,0.73,5,,
+grc_parapolitika_gr,GRC,Parapolitika.gr,2025,2025,parapolitika.gr,Q134511228,Παραπολιτικά,,online newspaper,https://www.parapolitika.gr/,parapolitika.gr,yes,1.00,2,,yes
+grc_pronews_gr,GRC,Pronews.gr,2018,2018,pronews.gr,Q118559516,PRONEWS,,communications media,https://jp.pronews.com/,pronews.com,no,1.00,2,,no
+grc_proto_thema,GRC,Proto Thema,2016,2026,,Q3564122,Proto Thema,Greek newspaper,periodical,https://www.protothema.gr,protothema.gr,yes,1.00,1,,
+grc_real_fm,GRC,Real 97.8 FM news,2016,2026,,,,,,,,,,5,,
+grc_real_news,GRC,Real News (print & radio),2016,2026,,Q136434469,Real News,newspaper,newspaper,https://www.real.gr,real.gr,yes,1.00,5,,
+grc_skai,GRC,SKAI online,2016,2026,,Q7533771,Skai 100.3,radio station in Piraeus,radio station,http://www.skairadio.gr/,skairadio.gr,yes,0.87,3,,
+grc_star,GRC,Star News,2016,2026,,Q3099687,Star Channel,Greek television station,television station,https://www.star.gr/tv,star.gr,yes,1.00,5,,
+grc_ta_nea,GRC,Ta Nea,2016,2026,,Q921655,Ta Nea,newspaper,daily newspaper,https://www.tanea.gr/,tanea.gr,yes,1.00,5,,
+grc_to_vima,GRC,To Vima,2016,2026,,Q131703827,Olympio Vima,"Daily local newspaper and news website in Katerini, Pieria, Greece",weekly newspaper,https://olympiobima.gr,olympiobima.gr,yes,0.63,9,,
+grc_tro_ma_kti_ko_blogspot_com,GRC,tro-ma-kti-ko.blogspot.com,2016,2018,tro-ma-kti-ko.blogspot.com,,,,,,,,,0,,
+grc_yahoo,GRC,Yahoo! News,2016,2019,,Q3044717,Yahoo News,news website from Yahoo!,website; news aggregation website,https://news.yahoo.com,yahoo.com,no,1.00,12,,
+grc_zougla_gr,GRC,Zougla.gr,2016,2026,zougla.gr,Q114662895,Zougla,Greek news website,news website,https://www.zougla.gr/,zougla.gr,yes,1.00,2,,yes
+hrv_24sata,HRV,24sata,2017,2026,,Q217315,24sata,Croatian daily newspaper,newspaper,https://www.24sata.hr/,24sata.hr,yes,1.00,1,,
+hrv_al_jazeera,HRV,Al-Jazeera,2017,2025,,Q13477,Al Jazeera,Qatari international television channel,broadcaster; television station; news website,https://www.aljazeera.com/,aljazeera.com,no,1.00,5,,
+hrv_antena_radio,HRV,Antena radio,2017,2026,,Q16111775,Antena Zadar,radio station in Croatia,radio station,https://www.antenazadar.hr/,antenazadar.hr,yes,0.75,2,,
+hrv_direktno_hr,HRV,Direktno.hr,2017,2026,direktno.hr,Q122316178,Direktno,Croatian news Web portal,web portal,https://direktno.hr/?home,direktno.hr,yes,1.00,1,,yes
+hrv_dnevnik,HRV,Dnevnik online,2017,2026,dnevnik.hr,Q7233344,Poslovni dnevnik,Croatian newspaper,newspaper,http://www.poslovni.hr/,poslovni.hr,yes,1.00,9,,no
+hrv_dnevno_hr,HRV,Dnevno.hr,2017,2026,dnevno.hr,Q19703888,7Dnevno,Croatian weekly political magazine,weekly magazine; web portal,https://www.7dnevno.hr/,7dnevno.hr,yes,0.92,2,,no
+hrv_express_24sata_hr,HRV,Express.24sata.hr,2024,2026,24sata.hr,,,,,,,,,0,,
+hrv_hrt,HRV,HTV & HR News (public broadcaster),2017,2026,,Q912735,Croatian Radiotelevision,Croatian public radio and TV broadcaster,public broadcaster,http://www.hrt.hr/,hrt.hr,yes,0.86,7,,
+hrv_index_hr,HRV,Index.hr,2017,2026,index.hr,Q6017788,index.hr,Croatian online newspaper,website,http://www.index.hr,index.hr,no,1.00,16,,yes
+hrv_jutarnji_list,HRV,Jutarnji list,2017,2026,,Q1278377,Jutarnji list,Croatian daily newspaper,newspaper,http://www.jutarnji.hr,jutarnji.hr,yes,1.00,5,,
+hrv_n1,HRV,N1,2017,2026,,Q18378741,N1,television channel in Balkans,specialty channel; television channel,https://n1info.com,n1info.com,no,1.00,11,,
+hrv_narodni_radio,HRV,Narodni radio,2017,2026,,Q11022196,Narodni radio,radio station in Zagreb,radio station,,,yes,1.00,1,,
+hrv_net_hr,HRV,Net.hr,2017,2026,net.hr,Q908436,TV Asahi,Japanese television network,television station; broadcaster; production company,https://www.tv-asahi.co.jp/,tv-asahi.co.jp,no,1.00,18,,no
+hrv_novatv,HRV,NovaTV News,2017,2026,,Q968850,Nova TV,Croatian television network,television station,http://www.novatv.hr,novatv.hr,yes,0.92,5,,
+hrv_novi_list,HRV,Novi list,2017,2026,novilist.hr,Q478374,Novi list,Croatian daily newspaper published in Rijeka,newspaper,http://www.novilist.hr/,novilist.hr,yes,1.00,2,,yes
+hrv_otvoreni_radio,HRV,Otvoreni radio,2017,2026,,Q10342531,Otvoreni Radio,Croatian radio station,radio station,http://www.otvoreni.hr/,otvoreni.hr,yes,1.00,1,,
+hrv_rtl,HRV,RTL News,2017,2026,,Q96374424,RTL News,German news production company,website; news website; online newspaper,https://www.rtl.de,rtl.de,no,1.00,14,,
+hrv_slobodna_dalmacija,HRV,Slobodna Dalmacija,2017,2026,,Q1281282,Slobodna Dalmacija,Croatian daily newspaper,newspaper,http://www.slobodnadalmacija.hr/,slobodnadalmacija.hr,yes,1.00,2,,
+hrv_telegram_hr,HRV,Telegram.hr,2017,2026,telegram.hr,Q25502975,Telegram,Croatian news website,online newspaper,https://www.telegram.hr/,telegram.hr,yes,1.00,2,,yes
+hrv_tportal_hr,HRV,Tportal.hr,2017,2026,tportal.hr,Q117744501,Tportal.hr,news portal in Croatia,web portal; organization; serial,https://www.tportal.hr/,tportal.hr,yes,1.00,3,,yes
+hrv_vecernji_list,HRV,Večernji list,2017,2026,,Q241622,Večernji list,Croatian daily newspaper,newspaper,https://www.vecernji.hr/,vecernji.hr,yes,1.00,5,,
+hun_168_ora,HUN,168 óra,2016,2022,168ora.hu,Q304369,168 Óra,magazine,newspaper; weekly newspaper; news magazine,https://168.hu,168.hu,yes,1.00,2,,no
+hun_24_hu,HUN,24.hu,2016,2026,24.hu,Q61599729,24.hu,Hungarian online newspaper,online newspaper,https://24.hu/,24.hu,yes,1.00,9,,yes
+hun_444_hu,HUN,444.hu,2016,2026,444.hu,Q21590068,444.hu,Hungarian online journal,online newspaper,https://444.hu/,444.hu,yes,1.00,7,,yes
+hun_atlatszo_hu,HUN,atlatszo.hu,2017,2026,atlatszo.hu,Q20439614,Atlatszo,Hungarian journalistic online media,website; online newspaper,https://www.atlatszo.hu,atlatszo.hu,yes,1.00,2,,yes
+hun_atv,HUN,ATV,2016,2026,atv.hu,Q434505,ATV,Hungarian private TV channel,television station,http://www.atv.hu,atv.hu,yes,1.00,4,,yes
+hun_bbc,HUN,BBC News,2017,2026,,Q4704926,BBC News Online,website of BBC News,news website,https://www.bbc.com/news/,bbc.com,no,1.00,12,,
+hun_blikk,HUN,Blikk,2016,2026,blikk.hu,Q804491,Blikk,Hungarian newspaper,daily newspaper,http://www.blikk.hu,blikk.hu,yes,1.00,2,,yes
+hun_bors,HUN,Bors,2016,2024,borsonline.hu,Q835350,Bors,Hungarian tabloid newspaper,daily newspaper; tabloid newspaper,,,yes,1.00,5,,
+hun_cnn,HUN,CNN,2016,2025,cnn.com,Q48340,CNN,American news channel,cable news in the United States; specialty channel; news website; film production company,https://cnn.com,cnn.com,no,1.00,9,,yes
+hun_duna_tv,HUN,Duna TV,2016,2026,,Q911213,Duna TV,Hungarian public broadcaster for Hungarian diaspora (1992–2015),business; enterprise; broadcaster; public broadcasting,http://www.dunatv.hu,dunatv.hu,yes,1.00,4,2015,
+hun_echo_tv,HUN,Echo TV,2016,2019,,Q987510,Echo TV,Hungarian TV channel,specialty channel,http://www.echotv.hu/,echotv.hu,yes,1.00,2,,
+hun_euronews,HUN,Euronews,2021,2026,,Q8478,Euronews,pan-European news television channel,television station; specialty channel,http://www.euronews.com/,euronews.com,no,1.00,5,,
+hun_hir_tv,HUN,HírTV,2016,2026,hirtv.hu,Q673299,Hír TV,television station,television station; specialty channel,http://www.hirtv.hu/,hirtv.hu,yes,1.00,2,,yes
+hun_hvg,HUN,HVG,2016,2026,hvg.hu,Q545531,Heti Világgazdaság,Hungarian weekly magazine,newspaper; weekly newspaper,https://hvg.hu/,hvg.hu,yes,1.00,6,,yes
+hun_index_hu,HUN,index.hu,2016,2026,index.hu,Q1096870,Index.hu,Hungarian language internet portal,online newspaper,https://index.hu/,index.hu,yes,1.00,8,,yes
+hun_magyar_nemzet,HUN,Magyar Nemzet online,2016,2020,,Q338921,Magyar Nemzet,Hungarian newspaper,daily newspaper,https://magyarnemzet.hu/,magyarnemzet.hu,yes,1.00,6,2018,
+hun_magyar_radio,HUN,Magyar Rádió (public radio news),2018,2026,,Q765515,Magyar Rádió,Hungarian public radio broadcaster,broadcaster,http://www.radio.hu/,radio.hu,yes,1.00,6,2015,
+hun_metropol,HUN,Metropol,2016,2025,,Q105854578,Metropol,Hungarian newspaper,daily newspaper,https://metropol.hu/,metropol.hu,yes,1.00,1,,
+hun_mtv,HUN,hirado.hu (public broadcaster),2016,2026,hirado.hu,Q1161091,Híradó,television series,news program,https://hirado.hu/,hirado.hu,yes,1.00,10,,yes
+hun_napi_hu,HUN,napi.hu,2019,2022,napi.hu,Q16522090,Economx,,periodical; online newspaper,https://www.economx.hu/,economx.hu,yes,1.00,6,,no
+hun_nemzeti_sport,HUN,Nemzeti Sport,2016,2026,nso.hu,Q1216668,Nemzeti Sport,daily sport newspaper,daily newspaper,http://www.nemzetisport.hu/,nemzetisport.hu,yes,1.00,4,,no
+hun_nepszabadsag,HUN,Népszabadság,2016,2016,,Q898833,Népszabadság,Hungarian weekly newspaper (formerly daily),newspaper; daily newspaper,https://nszo.hu/,nszo.hu,yes,1.00,5,,
+hun_origo,HUN,origo.hu,2016,2026,origo.hu,Q946165,Origo,Hungarian online newspaper,online newspaper; website,https://www.origo.hu/,origo.hu,yes,1.00,2,,yes
+hun_partizan,HUN,Partizán,2023,2026,,Q106678653,Partizán,YouTube channel and media foundation,YouTube channel; organization; alapítvány,https://www.partizanmedia.hu,partizanmedia.hu,yes,1.00,2,,
+hun_portfolio_hu,HUN,portfolio.hu,2016,2026,portfolio.hu,Q56117634,portfolio.hu,online financial newspapers,online newspaper,https://www.portfolio.hu/,portfolio.hu,yes,1.00,9,,yes
+hun_radio_1,HUN,Rádió 1,2018,2026,,Q594349,Rádió 1,radio station in Hungary,radio station,http://www.radio1.hu/,radio1.hu,yes,1.00,1,,
+hun_retro_radio,HUN,Retro Rádió,2021,2026,,Q56388358,Retro Rádió,Hungarian radio station,radio station,https://retroradio.hu/,retroradio.hu,yes,1.00,2,,
+hun_ripost_hu,HUN,ripost.hu,2017,2023,ripost.hu,Q69360847,Ripost,,online newspaper,,,yes,1.00,1,,
+hun_rtl_klub,HUN,RTL Klub,2016,2026,rtl.hu,Q1094569,RTL,Hungarian television station,television station,https://rtl.hu/,rtl.hu,yes,1.00,13,,yes
+hun_telex_hu,HUN,telex.hu,2021,2026,telex.hu,Q98924172,telex.hu,Hungarian online newspaper,online newspaper; news website,https://telex.hu,telex.hu,yes,1.00,6,,yes
+hun_tv2,HUN,TV2,2016,2026,tv2.hu,Q1037259,TV2,Hungarian TV channel,television station,https://tv2play.hu/,tv2play.hu,yes,1.00,11,,no
+hun_vilaggazdasag,HUN,Vilaggazdasag online,2016,2016,,Q25467195,Világgazdaság,Hungarian language business newspaper,newspaper; daily newspaper,http://www.vg.hu/,vg.hu,yes,1.00,2,,
+irl_al_jazeera,IRL,Al Jazeera,2026,2026,,Q13477,Al Jazeera,Qatari international television channel,broadcaster; television station; news website,https://www.aljazeera.com/,aljazeera.com,no,1.00,5,,
+irl_bbc,IRL,BBC News,2016,2026,,Q4704926,BBC News Online,website of BBC News,news website,https://www.bbc.com/news/,bbc.com,no,1.00,16,,
+irl_breakingnews_ie,IRL,BreakingNews.ie,2016,2026,breakingnews.ie,Q96677732,BreakingNews.ie,Irish news website,news website,https://www.breakingnews.ie/,breakingnews.ie,yes,1.00,1,,yes
+irl_buzzfeed,IRL,BuzzFeed News,2017,2020,,Q55715275,BuzzFeed News,news website,online newspaper,https://www.buzzfeednews.com,buzzfeednews.com,no,1.00,9,,
+irl_cnn,IRL,CNN,2016,2026,cnn.com,Q48340,CNN,American news channel,cable news in the United States; specialty channel; news website; film production company,https://cnn.com,cnn.com,no,1.00,12,,yes
+irl_dublinlive_ie,IRL,Dublinlive.ie,2025,2026,dublinlive.ie,,,,,,,,,0,,
+irl_guardian,IRL,Guardian online,2016,2026,,Q138508660,Enniscorthy Guardian,Irish newspaper,newspaper,,,yes,0.80,5,,
+irl_her_joe,IRL,Her.ie/ joe.ie,2016,2024,her.ie,,,,,,,,,10,,
+irl_huffington_post,IRL,Huffington Post,2016,2017,,Q3223501,Huffington Post France,newspaper,online newspaper; pure play,https://www.huffingtonpost.fr/,huffingtonpost.fr,no,1.00,5,,
+irl_irish_daily_mail,IRL,MailOnline,2016,2026,,Q6735687,MailOnline,website of the British newspapers the Daily Mail and The Mail on Sunday,online newspaper,http://www.dailymail.co.uk,dailymail.co.uk,no,1.00,17,,
+irl_irish_examiner,IRL,Irish Examiner online,2016,2026,,Q1520619,Irish Examiner,Irish national daily newspaper based in Cork,daily newspaper; organization,http://www.irishexaminer.com,irishexaminer.com,yes,1.00,5,,
+irl_irish_independent_herald,IRL,Irish Independent online,2016,2026,,Q1590833,Irish Independent,newspaper,daily newspaper,http://www.independent.ie,independent.ie,yes,1.00,5,,
+irl_irish_mirror,IRL,Irish Mirror online,2019,2026,,Q99701325,Irish Daily Mirror,Irish daily newspaper,newspaper,https://www.irishmirror.ie/,irishmirror.ie,yes,1.00,5,,
+irl_irish_sun,IRL,Irish Sun,2020,2026,,Q134463048,The Irish Sun,Ireland edition of The Daily Sun,daily newspaper,https://www.thesun.ie,thesun.ie,yes,1.00,3,,
+irl_irish_times,IRL,The Irish Times,2016,2026,,Q1134208,The Irish Times,daily newspaper in Ireland,daily newspaper; newspaper,http://www.irishtimes.com,irishtimes.com,yes,1.00,5,,
+irl_itv_or_channel_4,IRL,ITV or Channel 4 News,2016,2026,,,,,,,,,,1,,
+irl_msn,IRL,MSN News,2016,2018,,Q66819336,Microsoft Start,news aggregator from Microsoft,application software; news aggregator; website,https://www.microsoftstart.com,microsoftstart.com,no,1.00,10,,
+irl_new_york_times,IRL,New York Times online,2026,2026,,Q9684,The New York Times,American daily newspaper (founded 1851),daily newspaper; website,https://nytimes.com,nytimes.com,no,0.88,10,,
+irl_newstalk,IRL,Newstalk,2016,2026,,Q13653071,Newstalk,Irish radio station,radio station,http://www.newstalk.ie/,newstalk.ie,yes,1.00,1,,
+irl_rte,IRL,RTÉ News (public broadcaster),2016,2026,,Q4828628,RTÉ News,Irish free-to-air news television network operated by Raidió Teilifís Éireann (RTÉ),specialty channel,http://www.rte.ie/news,rte.ie,yes,1.00,9,,
+irl_rte_radio,IRL,RTÉ Radio News,2021,2026,,Q632658,RTÉ Radio 1,radio station,radio station,http://www.rte.ie/radio1/,rte.ie,yes,0.90,8,,
+irl_rte_tv,IRL,RTÉ TV News,2021,2026,,Q4828628,RTÉ News,Irish free-to-air news television network operated by Raidió Teilifís Éireann (RTÉ),specialty channel,http://www.rte.ie/news,rte.ie,yes,0.84,8,,
+irl_sky,IRL,Sky News,2016,2026,,Q7065448,NOW TV,television service of Sky,service; streaming service; broadcaster; television platform,https://www.nowtv.com/,nowtv.com,yes,0.80,5,,
+irl_sunday_independent,IRL,Sunday Independent,2016,2017,,Q3776770,Sunday Independent,Irish Sunday newspaper,Sunday newspaper,http://www.independent.ie/,independent.ie,yes,1.00,1,,
+irl_sunday_times,IRL,The Sunday Times,2016,2025,,Q1134208,The Irish Times,daily newspaper in Ireland,daily newspaper; newspaper,http://www.irishtimes.com,irishtimes.com,yes,0.75,5,,
+irl_sunday_world,IRL,Sunday World,2018,2019,,Q7639596,Crime World,Irish newspaper,newspaper,https://www.crimeworld.com/,crimeworld.com,yes,1.00,1,,
+irl_thejournal,IRL,TheJournal.ie,2016,2026,thejournal.ie,Q7711643,TheJournal.ie,Irish Online News Publication,newspaper; fact-checking organisation; website,http://www.thejournal.ie,thejournal.ie,yes,1.00,11,,yes
+irl_today_fm,IRL,Today FM,2016,2026,todayfm.com,Q13157885,Today FM,radio network in Ireland,radio station,http://www.todayfm.com,todayfm.com,no,1.00,8,,yes
+irl_tv3,IRL,TV3 News,2016,2018,,Q7672107,3News Ireland,Irish television program,television program,http://www.tv3.ie/news.php,tv3.ie,yes,1.00,7,,
+irl_utv_ireland_ni,IRL,UTV Ireland/NI news,2016,2016,,Q17017925,Virgin Media Three,Irish television channel,television channel,https://www.virginmediatv.ie/en/tv/channel-asset.html/753737255257/location/6651943228.html,virginmediatv.ie,yes,1.00,1,,
+irl_virgin_media,IRL,Virgin Media TV News,2019,2026,,Q774637,Virgin Media One,Irish television station,television station,http://www.tv3.ie/,tv3.ie,yes,0.91,10,,
+irl_yahoo,IRL,Yahoo! News,2016,2022,,Q3044717,Yahoo News,news website from Yahoo!,website; news aggregation website,https://news.yahoo.com,yahoo.com,no,1.00,11,,
+ita_ansa,ITA,ANSA online,2016,2026,,Q392934,Agenzia Nazionale Stampa Associata,news agency,news agency; fact-checking organisation; website,http://www.ansa.it,ansa.it,yes,1.00,6,,
+ita_ballaro,ITA,Ballarò,2016,2016,,Q805160,Ballarò,Italian television program,television program,,,yes,1.00,4,,
+ita_corriere_della_sera,ITA,Il Corriere della Sera,2016,2026,,Q309135,Corriere della Sera,Italian newspaper,daily newspaper; newspaper,https://www.corriere.it,corriere.it,yes,1.00,1,,
+ita_dimartedi,ITA,Dimartedi,2018,2019,,Q18112804,Dimartedì,Italian television program,television program,https://www.la7.it/dimartedi,la7.it,yes,1.00,1,,
+ita_dritto_e_rovescio,ITA,Dritto e Rovescio,2020,2026,,Q63523487,Dritto e rovescio,Italian television program,television program,https://mediasetplay.mediaset.it/programmi-tv/drittoerovescio_SE000000000713,mediaset.it,yes,1.00,1,,
+ita_fanpage,ITA,Fanpage,2018,2026,,Q1350108,fansite,"website created and maintained by a fan(s) or devotee(s) interested in a celebrity, thing or a particular cultural phenomenon",Wikibase reason for deprecated rank; type of website,,,no,1.00,6,,
+ita_free_newspapers,ITA,Free newspapers online,2024,2026,,Q142043,free newspaper,newspapers distributed free of charge,newspaper genre,,,no,0.97,11,,
+ita_fuori_dal_coro,ITA,Fuori dal Coro,2023,2026,,Q65131260,Fuori dal coro,Italian television program,television program,https://mediasetplay.mediaset.it/programmi-tv/fuoridalcoro_SE000000000632,mediaset.it,yes,1.00,2,,
+ita_huffington_post,ITA,HuffPost,2016,2026,,Q18049522,HuffPost,American online news aggregator and blog,online newspaper; news aggregation website,https://www.huffpost.com/,huffpost.com,no,1.00,9,,
+ita_il_fatto_quotidiano,ITA,Il Fatto Quotidiano online,2016,2026,,Q1051087,Il Fatto Quotidiano,Italian daily newspaper,daily newspaper,https://www.ilfattoquotidiano.it,ilfattoquotidiano.it,yes,1.00,1,,
+ita_il_giornale,ITA,Il Giornale,2016,2016,,Q1051115,Il Giornale,Italian newspaper,daily newspaper,http://www.ilgiornale.it,ilgiornale.it,yes,1.00,5,,
+ita_il_post,ITA,IlPost.it,2022,2026,ilpost.it,Q3792882,il Post,Italian online newspaper,online newspaper,http://www.ilpost.it,ilpost.it,yes,1.00,8,,yes
+ita_il_sole_24_ore,ITA,Il Sole 24 ore online,2016,2026,,Q1658262,Il Sole 24 Ore,Italian financial daily newspaper,large publisher; daily newspaper,https://www.ilsole24ore.com,ilsole24ore.com,yes,1.00,5,,
+ita_la_repubblica,ITA,La Repubblica,2016,2026,,Q85329,La Repubblica,Italian daily newspaper,daily newspaper; newspaper,https://www.repubblica.it,repubblica.it,yes,1.00,6,,
+ita_la_stampa,ITA,La Stampa online,2016,2023,,Q923353,La Stampa,Italian daily newspaper (founded 1867),daily newspaper; newspaper,https://www.lastampa.it,lastampa.it,yes,1.00,5,,
+ita_libero,ITA,Notizie Libero online,2016,2026,libero.it,,,,,,,,,2,,
+ita_mediaset,ITA,"Mediaset TV News (Tg4, Tg5, Studio Aperto)",2016,2026,,Q368151,Mediaset,Italian-based mass media company which is the largest commercial broadcaster in the country,business; television production company,https://www.mfemediaforeurope.com/it/,mfemediaforeurope.com,yes,1.00,16,,
+ita_msn,ITA,MSN News,2016,2018,,Q66819336,Microsoft Start,news aggregator from Microsoft,application software; news aggregator; website,https://www.microsoftstart.com,microsoftstart.com,no,1.00,15,,
+ita_non_e_l_arena,ITA,Non è l’Arena,2020,2022,,Q42727757,Non è l'Arena,,television program,https://www.la7.it/nonelarena,la7.it,yes,1.00,1,,
+ita_piazza_pulita,ITA,Piazza pulita,2016,2026,,Q3902487,Piazzapulita,,television program,https://www.la7.it/piazzapulita,la7.it,yes,1.00,3,,
+ita_porta_porta,ITA,Porta a Porta,2016,2026,,Q1248832,Porta a Porta,Italian television series,television series,http://www.portaaporta.rai.it/,rai.it,yes,1.00,5,,
+ita_quinta_colonna,ITA,Quinta colonna,2016,2018,,Q3927884,Quinta colonna,Italian television program,television program,https://mediasetplay.mediaset.it/programmi-tv/quintacolonna_SE000000000044,mediaset.it,yes,1.00,3,,
+ita_quotidiano_net,ITA,Quotidiano.net (La Nazione online etc.),2021,2025,quotidiano.net,Q3928075,Quotidiano Nazionale,Italian news website,daily newspaper; website,https://www.quotidiano.net,quotidiano.net,yes,1.00,9,,yes
+ita_rai,ITA,"RAI TV News (Tg1, Tg2, Tg3, TgR)",2016,2026,,Q125875,Rai News 24,Italian national TV channel,specialty channel,https://www.rainews.it/,rainews.it,yes,1.00,12,,
+ita_rai_radio,ITA,"RAI radio news (Gr1, Gr2, Gr3)",2019,2026,,Q2245880,Rai Radio 2,Italian radio station,radio station,http://www.raiplaysound.it/radio2/,raiplaysound.it,yes,0.90,5,,
+ita_rainews24,ITA,RAI News24,2016,2026,,Q125875,Rai News 24,Italian national TV channel,specialty channel,https://www.rainews.it/,rainews.it,yes,1.00,2,,
+ita_sky_tg24,ITA,SkyTg24,2016,2026,,Q1174202,Sky TG24,Italian national television channel,specialty channel,https://tg24.sky.it/,sky.it,yes,1.00,6,,
+ita_tg_la7,ITA,Tg La7,2016,2026,,Q3979539,TG La7,Italian tv news,television series,https://tg.la7.it/,la7.it,yes,1.00,2,,
+ita_tgcom24,ITA,TgCom24 (Mediaset),2016,2026,,Q3875645,Tgcom24,Italian news website,online newspaper,http://www.tgcom24.mediaset.it/,mediaset.it,yes,1.00,3,,
+ita_tgr,ITA,TGR,2017,2018,,Q3979544,TGR,Italian state-owned TV Rai regional news,television program,https://www.rainews.it/tgr/,rainews.it,yes,1.00,5,,
+ita_yahoo,ITA,Yahoo! News,2016,2024,,Q3044717,Yahoo News,news website from Yahoo!,website; news aggregation website,https://news.yahoo.com,yahoo.com,no,1.00,15,,
+mex_animal_politico,MEX,Animal Político,2017,2026,,Q29427132,Animal Político,"Mexican digital paper, created in 2010",online newspaper; fact-checking organisation; website,https://grupoanimal.mx/,grupoanimal.mx,yes,1.00,1,,
+mex_aristegui,MEX,Aristegui Noticias,2017,2026,,Q61998946,Aristegui Noticias,Mexico online newspaper,online newspaper,http://www.aristeguinoticias.com,aristeguinoticias.com,yes,1.00,4,,
+mex_bbc,MEX,BBC News online,2017,2021,,Q4704926,BBC News Online,website of BBC News,news website,https://www.bbc.com/news/,bbc.com,no,1.00,12,,
+mex_canal_11,MEX,Canal 11 News,2022,2026,,Q86739254,Canal 11,Portuguese television channel,television station,https://www.canal11.pt/,canal11.pt,no,1.00,6,,
+mex_canal_22,MEX,Canal 22 News (public broadcaster),2018,2025,,Q42908534,Canal 22,Mexican public TV network,television channel; broadcast network,http://www.canal22.org.mx/,canal22.org.mx,yes,1.00,2,,
+mex_cnn,MEX,CNN,2017,2025,cnn.com,Q48340,CNN,American news channel,cable news in the United States; specialty channel; news website; film production company,https://cnn.com,cnn.com,no,1.00,10,,yes
+mex_cnn_en_espanol,MEX,CNN en Español,2026,2026,,Q2931785,CNN en Español,American television station,television station,https://cnnespanol.cnn.com/,cnn.com,no,1.00,5,,
+mex_el_economista,MEX,El Economista online,2017,2019,,Q1324106,El Economista,Mexican newspaper,newspaper; news website,http://www.economista.com.mx/,economista.com.mx,yes,1.00,1,,
+mex_el_financiero,MEX,El Financiero online,2017,2025,,Q42911288,El Financiero,Mexican daily newspaper,daily newspaper; news website; newspaper,http://www.elfinanciero.com.mx/,elfinanciero.com.mx,yes,1.00,2,,
+mex_el_heraldo_de_mexico,MEX,El Heraldo de México online,2022,2026,,Q65047709,El Heraldo de México,Mexican daily newspaper,newspaper,https://heraldodemexico.com.mx/,heraldodemexico.com.mx,yes,1.00,6,,
+mex_el_norte,MEX,El Norte,2017,2017,,Q5351698,El Norte,Mexican newspaper,newspaper; news website,http://www.elnorte.com/,elnorte.com,yes,1.00,5,,
+mex_el_sol_de_mexico,MEX,El Sol de México,2017,2026,,Q5823385,El Sol de México,Mexican newspaper,newspaper,http://www.elsoldemexico.com.mx,elsoldemexico.com.mx,yes,1.00,7,,
+mex_el_universal,MEX,El Universal,2017,2026,,Q1321495,El Universal,Mexican newspaper,daily newspaper; news website; newspaper,http://www.eluniversal.com.mx/,eluniversal.com.mx,yes,1.00,4,,
+mex_excelsior,MEX,Excelsior,2017,2026,,Q3347987,Excélsior,Mexican newspaper,daily newspaper; news website; newspaper,http://www.excelsior.com.mx/,excelsior.com.mx,yes,1.00,6,,
+mex_foro_tv,MEX,Foro TV,2023,2026,,Q5426892,N+ Foro,Mexican television channel,television network,http://www.forotv.mx/,forotv.mx,yes,1.00,2,,
+mex_imagen,MEX,Imagen News,2017,2026,,Q6002947,Imagen,Puerto Rican fashion magazine,magazine,http://www.casiano.com/imagen.php,casiano.com,no,1.00,14,,
+mex_la_jornada,MEX,La Jornada,2019,2026,,Q2496821,La Jornada,Mexican daily newspaper,daily newspaper; newspaper,https://www.jornada.com.mx/,jornada.com.mx,yes,1.00,5,,
+mex_latinus,MEX,Latinus,2021,2026,,Q112157557,LatinUS,Mexican news portal based in Delaware,news website,https://latinus.us/,latinus.us,no,1.00,5,,
+mex_milenio,MEX,Milenio News,2017,2026,,Q2273191,Milenio,Mexican newspaper,daily newspaper; news website; newspaper,https://www.milenio.com/,milenio.com,yes,1.00,6,,
+mex_proceso,MEX,Proceso online,2017,2018,,Q2889009,Proceso,Mexican magazine,magazine,http://www.proceso.com.mx,proceso.com.mx,yes,1.00,5,,
+mex_radio_formula,MEX,Radio Fórmula News,2017,2026,,Q20847624,Radio Fórmula,Mexican news/talk radio network,radio network,http://www.radioformula.com.mx/,radioformula.com.mx,yes,1.00,5,,
+mex_reforma,MEX,Reforma,2017,2026,,Q2473369,Reforma,Mexican daily newspaper,daily newspaper,http://www.reforma.com/,reforma.com,yes,1.00,5,,
+mex_televisa,MEX,Televisa News,2017,2026,,Q47099,Grupo Televisa,Mexican entertainment and media conglomerate,business; public company; media conglomerate; internet service provider; enterprise,http://www.televisa.com/,televisa.com,yes,1.00,10,,
+mex_tv_azteca,MEX,TV Azteca News,2017,2026,,Q19946914,TV Azteca Cinema,Mexican classic movie TV network,television channel,http://www.aztvdepaga.com/azcinema,aztvdepaga.com,yes,0.80,5,,
+mex_unotv,MEX,UnoTV online,2017,2026,,Q39080697,Uno TV,,communications media; digital media; television channel,http://www.unotv.com,unotv.com,yes,0.91,2,,
+mex_yahoo,MEX,Yahoo! News,2017,2020,,Q3044717,Yahoo News,news website from Yahoo!,website; news aggregation website,https://news.yahoo.com,yahoo.com,no,1.00,14,,
+nld_algemeen_dagblad,NLD,Algemeen Dagblad,2016,2026,,Q290764,Algemeen Dagblad,Dutch newspaper,daily newspaper,http://www.ad.nl/,ad.nl,yes,1.00,1,,
+nld_bbc,NLD,BBC News,2016,2026,,Q60746942,BBC NL,Dutch television channel,subscription television channel,https://www.bbcbenelux.com/zenders/first/,bbcbenelux.com,yes,0.71,5,,
+nld_bnr,NLD,BNR Nieuwsradio,2018,2026,,Q796840,BNR Newsradio,radio station,radio station,https://www.bnr.nl/,bnr.nl,yes,1.00,1,,
+nld_cnn,NLD,CNN,2016,2026,cnn.com,Q48340,CNN,American news channel,cable news in the United States; specialty channel; news website; film production company,https://cnn.com,cnn.com,no,1.00,12,,yes
+nld_de_telegraaf,NLD,De Telegraaf,2016,2026,,Q1180344,De Telegraaf,Dutch newspaper,daily newspaper,http://telegraaf.nl/,telegraaf.nl,yes,1.00,5,,
+nld_de_volkskrant,NLD,de Volkskrant,2016,2026,,Q284183,De Volkskrant,Dutch newspaper,daily newspaper; online newspaper; newspaper; news media; news app,https://www.volkskrant.nl,volkskrant.nl,yes,1.00,5,,
+nld_geen_stijl,NLD,Geen Stijl,2016,2026,,Q2657343,GeenStijl.nl,Dutch blog,website,http://www.geenstijl.nl,geenstijl.nl,no,1.00,5,,
+nld_indebuurt_nl,NLD,Indebuurt.nl,2021,2026,indebuurt.nl,Q107604339,indebuurt,,website,https://indebuurt.nl/,indebuurt.nl,yes,1.00,6,,yes
+nld_linda,NLD,Linda News,2019,2024,,Q140330730,Linda,,television series,,,yes,1.00,6,,
+nld_metro,NLD,Metro,2016,2026,,Q1925689,Metro,free Dutch newspaper,newspaper,http://www.metronieuws.nl/,metronieuws.nl,yes,1.00,5,,
+nld_msn,NLD,MSN News,2016,2026,,Q66819336,Microsoft Start,news aggregator from Microsoft,application software; news aggregator; website,https://www.microsoftstart.com,microsoftstart.com,no,1.00,13,,
+nld_nederlands_dagblad,NLD,Nederlands Dagblad online,2020,2024,,Q689481,Nederlands Dagblad,daily newspaper,periodical; newspaper,https://www.nd.nl,nd.nl,yes,1.00,6,,
+nld_nos,NLD,NOS News online,2016,2026,,Q56659957,NOS.nl,Dutch news website,news website,https://nos.nl,nos.nl,yes,1.00,12,,
+nld_nrc,NLD,NRC online,2017,2026,,Q1402057,NRC,Dutch daily newspaper,daily newspaper,https://www.nrc.nl/,nrc.nl,yes,1.00,5,,
+nld_nu_nl,NLD,NU.nl,2016,2026,nu.nl,Q2183577,NU.nl,Dutch news website,website; online newspaper; daily newspaper,https://www.nu.nl,nu.nl,yes,1.00,9,,yes
+nld_rtl,NLD,RTL News online,2016,2026,,Q2089005,RTL Nieuws,Dutch television news service,news program; television program; news website; television series,https://www.rtlnieuws.nl/,rtlnieuws.nl,yes,1.00,8,,
+nld_sbs,NLD,SBS News online,2016,2026,,Q18286612,SBS 9,specialty channel,television channel,http://www.sbs9.nl,sbs9.nl,yes,0.86,5,,
+nld_trouw,NLD,Trouw online,2017,2019,,Q1789749,Trouw,Dutch daily newspaper,daily newspaper,http://www.trouw.nl,trouw.nl,yes,1.00,5,,
+nor_abcnyheter,NOR,ABC News online,2016,2026,,Q11956632,ABC Nyheter,Norwegian newspaper,online newspaper,https://abcnyheter.no,abcnyheter.no,yes,0.95,5,,
+nor_adresseavisen,NOR,Adresseavisen online,2016,2026,,Q367105,Adresseavisen,Norwegian newspaper,regional newspaper,https://adressa.no,adressa.no,yes,1.00,5,,
+nor_aftenposten,NOR,Aftenposten,2016,2026,,Q388841,Aftenposten,"Aftenposten (Norwegian for ""The Evening Post""), Norwegian newspaper.",daily newspaper; online newspaper,https://aftenposten.no,aftenposten.no,yes,1.00,5,,
+nor_bbc,NOR,BBC News,2016,2026,,Q4704926,BBC News Online,website of BBC News,news website,https://www.bbc.com/news/,bbc.com,no,1.00,14,,
+nor_bergens_tidende,NOR,Bergens Tidende online,2016,2026,,Q819558,Bergens Tidende,Norway's fifth-largest newspaper,daily newspaper; online newspaper; regional newspaper,https://bt.no,bt.no,yes,1.00,5,,
+nor_breitbart,NOR,Breitbart,2022,2022,,Q4960434,Breitbart News,American news and opinion website,website; news website,https://breitbart.com,breitbart.com,no,1.00,5,,
+nor_buzzfeed,NOR,BuzzFeed News,2018,2018,,Q55715275,BuzzFeed News,news website,online newspaper,https://www.buzzfeednews.com,buzzfeednews.com,no,1.00,9,,
+nor_cnn,NOR,CNN,2016,2026,cnn.com,Q11962944,CNN Norway,,website,http://cnn.no,cnn.no,yes,0.77,1,,no
+nor_dagbladet,NOR,Dagbladet,2016,2026,,Q1157193,Dagbladet,Norwegian daily newspaper,daily newspaper; online newspaper,https://dagbladet.no,dagbladet.no,yes,1.00,6,,
+nor_dagens_naeringsliv,NOR,Dagens Næringsliv online,2016,2026,,Q780402,Dagens Næringsliv,leading Norwegian business newspaper,business newspaper,https://dn.no,dn.no,yes,1.00,1,,
+nor_dagsavisen,NOR,Dagsavisen online,2016,2026,,Q1755702,Dagsavisen,Norwegian newspaper,daily newspaper; online newspaper,https://dagsavisen.no,dagsavisen.no,yes,1.00,4,,
+nor_document,NOR,Document.no,2019,2025,document.no,Q5287621,Document.no,Norwegian far-right anti-immigration website,online newspaper; organization,https://document.no,document.no,yes,1.00,6,,yes
+nor_e24,NOR,E24,2023,2026,,Q5322365,E24,Indian cable television and satellite network,television station,http://www.e24bollywood.com/,e24bollywood.com,no,1.00,10,,
+nor_huffington_post,NOR,Huffington Post,2016,2017,,Q3223501,Huffington Post France,newspaper,online newspaper; pure play,https://www.huffingtonpost.fr/,huffingtonpost.fr,no,1.00,5,,
+nor_human_rights_service,NOR,Human Rights Service,2019,2024,,,,,,,,,,5,,
+nor_klassekampen,NOR,Klassekampen,2020,2021,,Q1702232,Klassekampen,Norwegian left-wing newspaper,daily newspaper,https://klassekampen.no,klassekampen.no,yes,1.00,3,,
+nor_mail,NOR,Mail Online,2016,2016,,Q210534,Daily Mail,"British tabloid newspaper, since 1896",daily newspaper; newspaper; tabloid; banned work; periodical,https://www.dailymail.co.uk/,dailymail.co.uk,no,1.00,14,,
+nor_minerva,NOR,Minerva,2019,2019,,Q6864474,Minerva,Norwegian liberal conservative periodical,magazine,https://minerva.no,minerva.no,yes,1.00,5,,
+nor_msn,NOR,MSN News,2018,2022,,Q66819336,Microsoft Start,news aggregator from Microsoft,application software; news aggregator; website,https://www.microsoftstart.com,microsoftstart.com,no,1.00,10,,
+nor_nettavisen,NOR,Nettavisen,2016,2026,nettavisen.no,Q6516221,Nettavisen,Norwegian online newspaper,online newspaper,https://nettavisen.no,nettavisen.no,yes,1.00,5,,yes
+nor_nrk,NOR,NRK News online,2016,2026,,Q190238,Norwegian Broadcasting Corporation,state-owned Norwegian public broadcaster,business; state-owned enterprise; public broadcaster; production company; state media company; online newspaper without paywall,https://www.nrk.no/,nrk.no,yes,1.00,10,,
+nor_nrk_radio,NOR,NRK Radio News,2021,2026,,Q119261614,NRK Radio,Norwegian radio broadcaster,radio broadcaster,https://radio.nrk.no/,nrk.no,yes,1.00,8,,
+nor_nrk_tv,NOR,NRK TV News,2021,2026,,Q190238,Norwegian Broadcasting Corporation,state-owned Norwegian public broadcaster,business; state-owned enterprise; public broadcaster; production company; state media company; online newspaper without paywall,https://www.nrk.no/,nrk.no,yes,0.67,8,,
+nor_p4,NOR,P4 News (radio),2016,2026,,Q912092,P4 Radio Hele Norge,company,radio station,https://www.lydenavnorge.no/p4,lydenavnorge.no,yes,0.43,15,,
+nor_radikalportal,NOR,Radikalportal,2019,2020,,Q20112707,Radikal portal,,website; online newspaper,https://radikalportal.no,radikalportal.no,yes,0.96,1,,
+nor_radio_norge,NOR,Radio Norge,2016,2026,,Q2001550,Radio Norge,radio station in Bergen,radio station,https://radionorge.com,radionorge.com,yes,1.00,5,,
+nor_resett,NOR,Resett,2019,2022,resett.no,Q50228807,Resett,Norwegian website,online newspaper,https://resett.no,resett.no,yes,1.00,1,2022,yes
+nor_stavanger_aftenblad,NOR,Stavanger Aftenblad online,2022,2026,,Q1757024,Stavanger Aftenblad,newspaper,regional newspaper,https://aftenbladet.no,aftenbladet.no,yes,1.00,1,,
+nor_svt,NOR,SVT (Svensk TV),2018,2026,,Q215363,Sveriges Television,Swedish public service television company,business; enterprise; public broadcaster; production company,https://svt.se,svt.se,no,1.00,9,,
+nor_tv2,NOR,TV2 News,2016,2026,,Q1853722,TV 2 Direkte,television station in Norway,television station,https://tv2.no,tv2.no,yes,1.00,5,,
+nor_vg,NOR,VG (Verdens Gang),2016,2026,,Q1139355,VG,Norwegian daily newspaper,daily newspaper; online newspaper,https://vg.no,vg.no,yes,1.00,7,,
+pol_angora,POL,Angora,2017,2022,,Q7859855,Tygodnik Angora,,periodical; publishing house,,,yes,1.00,1,,
+pol_dziennik_gazeta_prawna,POL,Dziennik Gazeta Prawna,2016,2017,,Q9248480,Dziennik Gazeta Prawna,Polish daily newspaper,newspaper,http://www.dziennik.pl/,dziennik.pl,yes,1.00,2,,
+pol_dziennik_pl,POL,Dziennik.pl,2016,2019,dziennik.pl,Q1269452,Dziennik Polska-Europa-Świat,periodical literature,periodical,http://www.dziennik.pl,dziennik.pl,yes,1.00,8,2009,yes
+pol_eska,POL,Eska,2018,2026,,Q9302170,Radio Eska,Polish radio network,radio station,http://www.eska.pl/,eska.pl,yes,1.00,5,,
+pol_fakt,POL,Fakt,2016,2026,fakt.pl,Q1318217,Fakt,Polish newspaper,newspaper,http://www.fakt.pl/,fakt.pl,yes,1.00,4,,yes
+pol_gazeta_pl,POL,Gazeta.pl,2016,2026,gazeta.pl,Q9266327,Gazeta.pl,,business; web portal,http://www.gazeta.pl/,gazeta.pl,yes,1.00,8,,yes
+pol_gazeta_wyborcza,POL,Gazeta Wyborcza,2016,2026,wyborcza.pl,Q741296,Gazeta Wyborcza,Polish daily newspaper,newspaper,https://wyborcza.pl,wyborcza.pl,yes,1.00,11,,yes
+pol_interia,POL,Interia.pl,2016,2026,interia.pl,Q6046617,Interia,Polish web portal and a popular search engine,web portal,https://www.interia.pl,interia.pl,yes,1.00,9,,yes
+pol_ipla_tv,POL,Ipla.tv,2016,2016,ipla.tv,Q126770179,Category:Rhymes:Esperanto/ipla,Wikimedia category,Wikimedia category,,,no,0.24,5,,
+pol_kanal_zero,POL,Kanal Zero (YouTube),2025,2026,,Q124607345,Kanał Zero,Polish online general-interest channel,web feed; YouTube channel,,,no,1.00,4,,
+pol_mariusz_max_kolonko,POL,Mariusz Max Kolonko,2018,2020,,,,,,,,,,1,,
+pol_money_pl,POL,Money.pl,2017,2018,money.pl,Q11785070,Money.pl,,commercial organization; web portal,http://www.money.pl/,money.pl,yes,1.00,10,,yes
+pol_naszemiasto_pl,POL,NaszeMiasto.pl,2019,2026,naszemiasto.pl,Q9250210,Nasze Miasto,Polish newspaper,daily newspaper,,,yes,0.96,7,,
+pol_natemat_pl,POL,Natemat.pl,2018,2018,natemat.pl,Q9229447,NaTemat.pl,Polish-language news/opinion website,website,http://natemat.pl,natemat.pl,yes,1.00,1,,yes
+pol_newsweek_polska,POL,Newsweek.pl,2016,2026,newsweek.pl,Q597255,Newsweek Polska,Polish weekly news magazine,magazine,https://www.newsweek.pl/,newsweek.pl,yes,1.00,4,,yes
+pol_niezalezna_pl,POL,Niezalezna.pl,2018,2018,niezalezna.pl,Q11791883,Niezależna Gazeta Polska,,periodical,http://www.panstwo.net/,panstwo.net,yes,0.70,10,2009,no
+pol_o2_pl,POL,O2.pl,2018,2018,o2.pl,Q11794334,o2.pl,,web portal,http://o2.pl,o2.pl,no,1.00,16,,yes
+pol_oko_press,POL,OKO.press,2019,2024,,Q60860178,OKO.press,Polish investigative journalism website,website,https://oko.press,oko.press,yes,1.00,5,,
+pol_onet,POL,Onet.pl,2016,2026,onet.pl,Q495943,onet.pl,Polish web portal,web portal; enterprise,https://www.onet.pl,onet.pl,yes,1.00,8,,yes
+pol_pikio,POL,Pikio,2019,2020,,Q51646356,pikio.pl,,business; web portal,https://pikio.pl,pikio.pl,yes,1.00,1,,
+pol_polityka,POL,Polityka,2016,2026,polityka.pl,Q142095,Polityka,Polish weekly periodical,weekly newspaper; publishing house,http://www.polityka.pl/,polityka.pl,yes,1.00,8,,yes
+pol_polsat,POL,Polsat News,2016,2026,polsatnews.pl,Q1026989,Polsat News,Polish television channel,specialty channel,https://www.polsatnews.pl/,polsatnews.pl,yes,1.00,11,,yes
+pol_polskaniepodlegla,POL,PolskaNiepodlegla,2019,2020,,Q32153252,Kategoria:Członkowie organizacji Polska Niepodległa,Wikimedia category,Wikimedia category,,,no,0.47,2,,
+pol_polskie_radio,POL,Polskie Radio (public radio),2016,2026,polskieradio.pl,Q1067189,Polskie Radio,Polish national public broadcasting organization,public broadcaster,https://www.prsa.pl/,prsa.pl,yes,1.00,6,,no
+pol_prawicowy_internet,POL,Prawicowy Internet,2019,2020,,,,,,,,,,1,,
+pol_przeglad_sportowy,POL,Przegląd Sportowy,2017,2023,,Q7253369,Przegląd Sportowy,Polish periodical of sport,sports newspaper; periodical,http://www.przegladsportowy.pl,przegladsportowy.pl,yes,1.00,2,,
+pol_radio_zet,POL,Radio Zet,2016,2026,radiozet.pl,Q886869,Radio Zet,Polish Commercial radio station,radio station,http://www.radiozet.pl,radiozet.pl,yes,1.00,3,,yes
+pol_rmf_fm,POL,RMF FM,2016,2026,rmf24.pl,Q750140,RMF FM,Polish radio station estabilished in 1990,radio station,http://www.rmf.fm,rmf.fm,yes,1.00,8,,no
+pol_rzeczpospolita,POL,Rzeczpospolita,2016,2025,,Q2164678,Rzeczpospolita,Polish newspaper,daily newspaper; newspaper,https://www.rp.pl/,rp.pl,yes,1.00,5,,
+pol_sport_pl,POL,Sport.pl,2017,2018,sport.pl,Q9340410,Sport,Polish sports magazine,magazine,http://sports.pl/gazeta/iso%5Fsport/,sports.pl,yes,1.00,10,,no
+pol_super_express,POL,Super Express,2016,2026,,Q494902,Super Express,newspaper,newspaper,http://www.se.pl/se_dzis/,se.pl,yes,1.00,2,,
+pol_tok_fm,POL,Tok FM news,2016,2016,,Q7831359,Tok FM,Polish radio station,radio station,http://tokfm.pl/,tokfm.pl,yes,1.00,2,,
+pol_ttv,POL,TTV,2018,2026,,Q7671970,TTV,Polish television channel,television channel,https://ttv.pl/,ttv.pl,yes,1.00,1,,
+pol_tv_republika,POL,TV Republika,2024,2026,,Q11836859,Telewizja Republika,Polish television station,television station,http://telewizjarepublika.pl/,telewizjarepublika.pl,yes,1.00,1,,
+pol_tvn,POL,TVN News (incl. TVN 24),2016,2026,tvn24.pl,Q2385689,TVN24,Polish 24-hour news channel,specialty channel,http://www.tvn24.pl,tvn24.pl,yes,1.00,10,,yes
+pol_tvp,POL,TVP.info,2016,2026,tvp.info,Q1724518,TVP Info,Polish television channel,television station; specialty channel,http://www.tvp.info/,tvp.info,yes,1.00,13,,yes
+pol_vox_fm,POL,VOX FM,2021,2026,,Q11837552,Vox FM,radio station in Poland,radio station,http://www.voxfm.pl,voxfm.pl,yes,1.00,1,,
+pol_wp,POL,WP.pl,2016,2026,wp.pl,Q380042,Wirtualna Polska,Polish web portal,website,https://www.wp.pl,wp.pl,yes,1.00,10,,yes
+pol_wpolityce_pl,POL,wPolityce.pl,2018,2018,wpolityce.pl,Q9369394,wPolityce.pl,Polish web portal,web portal,https://wpolityce.pl/,wpolityce.pl,no,1.00,8,,yes
+pol_wprost,POL,Wprost.pl,2016,2022,wprost.pl,Q1465227,Wprost,Polish weekly newspaper,weekly newspaper,https://www.wprost.pl/,wprost.pl,yes,1.00,6,,yes
+prt_bola,PRT,A Bola,2016,2026,abola.pt,Q300337,A Bola,periodical literature,periodical,http://www.abola.pt,abola.pt,yes,1.00,5,,yes
+prt_cnn,PRT,CNN,2021,2021,,Q48340,CNN,American news channel,cable news in the United States; specialty channel; news website; film production company,https://cnn.com,cnn.com,no,1.00,6,,
+prt_cnn_international,PRT,CNN International,2022,2022,,Q5013138,CNN International Asia Pacific,Asia-Pacific edition of the CNN International pay-TV cable network,television channel,http://edition.cnn.com/,cnn.com,no,0.72,5,,
+prt_cnn_portugal,PRT,CNN Portugal (formerly TVI24),2022,2026,,Q108920491,CNN Portugal,Portugal news TV channel,television station,http://www.cnnportugal.pt/,cnnportugal.pt,yes,1.00,1,,
+prt_correio_da_manha,PRT,Correio da Manhã online,2016,2026,,Q1135311,Correio da Manhã,Portuguese newspaper,daily newspaper,http://www.correiomanha.pt/,correiomanha.pt,yes,1.00,4,,
+prt_correio_da_manha_tv,PRT,Correio da Manhã TV,2016,2026,,,,,,,,,,0,,
+prt_diario_de_noticias,PRT,Diário de Notícias,2016,2026,,Q508252,Diário de Notícias,Portuguese daily newspaper,daily newspaper,http://www.dn.pt/,dn.pt,yes,1.00,5,,
+prt_diario_economico,PRT,Diário Económico online,2016,2016,,Q984153,Diário Económico,newspaper,newspaper,http://economico.sapo.pt/,sapo.pt,yes,1.00,2,,
+prt_dinheiro_vivo,PRT,Dinheiro Vivo,2017,2019,,Q28678830,Dinheiro Vivo,,business; periodical; newspaper,http://www.dinheirovivo.pt/,dinheirovivo.pt,yes,1.00,1,,
+prt_euronews,PRT,Euronews,2016,2018,,Q8478,Euronews,pan-European news television channel,television station; specialty channel,http://www.euronews.com/,euronews.com,no,1.00,5,,
+prt_expresso,PRT,Expresso,2016,2026,,Q1384864,Expresso,newspaper,newspaper,http://www.expresso.pt,expresso.pt,yes,1.00,5,,
+prt_jornal_de_negocios,PRT,Jornal de Negócios online,2016,2017,,Q1704027,Jornal de Negócios,Portuguese business newspaper,newspaper,https://www.jornaldenegocios.pt/,jornaldenegocios.pt,yes,1.00,2,,
+prt_jornal_de_noticias,PRT,Jornal de Notícias,2016,2026,,Q1704037,Jornal de Notícias,"daily newspaper in Porto, Portugal",periodical; publishing house,http://www.jn.pt,jn.pt,yes,1.00,5,,
+prt_jornal_eco,PRT,Jornal ECO online,2021,2021,,Q141547036,ECO,Portuguese online business newspaper,online newspaper,https://eco.sapo.pt/,sapo.pt,yes,0.67,3,,
+prt_jornal_economico,PRT,Jornal Económico,2017,2021,,Q48867657,Jornal Económico,,magazine,,,yes,1.00,3,,
+prt_m80,PRT,M80,2021,2026,,Q104099219,M80,radio station in Portugal,radio station,https://m80.pt/,m80.pt,yes,1.00,1,,
+prt_msn,PRT,MSN News,2016,2024,,Q66819336,Microsoft Start,news aggregator from Microsoft,application software; news aggregator; website,https://www.microsoftstart.com,microsoftstart.com,no,1.00,10,,
+prt_noticias_ao_minuto,PRT,Notícias ao Minuto,2016,2026,,,,,,,,,,1,,
+prt_o_jogo,PRT,O Jogo,2016,2016,,Q1537006,O Jogo,Portuguese sports newspaper,daily newspaper,https://www.ojogo.pt/,ojogo.pt,yes,1.00,5,,
+prt_observador,PRT,Observador,2016,2026,,Q25442845,Observador,Portuguese electronic newspaper,online newspaper; fact-checking organisation; website,https://observador.pt/,observador.pt,yes,1.00,3,,
+prt_publico,PRT,Público,2016,2026,,Q1757086,Público,Portuguese daily newspaper,daily newspaper; business; publishing house; fact-checking organisation; website,http://www.publico.pt,publico.pt,yes,1.00,5,,
+prt_radio_comercial,PRT,Rádio Comercial,2017,2026,,Q1814994,Rádio Comercial,radio station in Portugal,radio station,https://radiocomercial.pt/,radiocomercial.pt,yes,1.00,2,,
+prt_radio_renascenca,PRT,Rádio Renascença,2016,2026,,Q1509626,Rádio Renascença,Radio station,radio station,http://rr.sapo.pt/,sapo.pt,yes,1.00,3,,
+prt_record,PRT,Record,2016,2020,,Q639033,Record,Portuguese sports newspaper,newspaper,http://record.pt,record.pt,yes,1.00,5,,
+prt_rfm,PRT,RFM,2017,2026,,Q3415174,RFM,Portuguese radio station,radio station,https://rfm.sapo.pt/,sapo.pt,yes,1.00,5,,
+prt_rtp_rdp,PRT,RTP News online,2016,2026,,Q649618,Rádio e Televisão de Portugal,Portuguese public broadcasting company,public broadcaster,http://www.rtp.pt,rtp.pt,yes,1.00,8,,
+prt_sapo,PRT,Sapo,2016,2026,,Q1780646,Visão,Portuguese weekly news magazine,magazine,http://visao.sapo.pt/,sapo.pt,yes,0.67,12,,
+prt_sic,PRT,SIC News online,2016,2026,,Q2031951,SIC,Portuguese television network and media company,television station,https://www.sic.pt,sic.pt,yes,1.00,8,,
+prt_tsf,PRT,TSF,2016,2026,,Q2384927,TSF,Portuguese radio station,radio station,http://tsf.pt,tsf.pt,yes,1.00,2,,
+prt_tvi,PRT,TVI News online,2016,2026,,Q3027659,TVI 24,Portuguese basic cable and satellite television news channel,specialty channel,http://www.tvi24.pt,tvi24.pt,yes,1.00,5,,
+rou_adevarul,ROU,Adevărul online,2017,2026,,Q426356,Adevărul,Romanian newspaper,newspaper,https://adevarul.ro,adevarul.ro,yes,1.00,5,,
+rou_antena_1,ROU,Antena 1,2017,2026,,Q658376,Antena 1,television network in Romania,television station,https://a1.ro/,a1.ro,yes,1.00,3,,
+rou_antena_3,ROU,Antena 3 online,2017,2026,,Q2852664,Antena 3 CNN,Romanian news television channel,television station; specialty channel,https://www.antena3.ro/,antena3.ro,yes,1.00,3,,
+rou_b1_tv,ROU,B1 TV,2017,2025,,Q4834371,B1 TV,Romanian news television channel,television station; specialty channel,http://www.b1.ro,b1.ro,yes,1.00,4,,
+rou_cancan,ROU,Cancan,2019,2026,,Q18538556,Cancan,newspaper,newspaper,https://www.cancan.ro/,cancan.ro,yes,1.00,3,,
+rou_capital,ROU,Capital online,2021,2021,,Q126950777,Capital,Romanian online magazine,online magazine; official website,,,yes,1.00,6,,
+rou_click,ROU,Click online,2017,2025,,Q4808233,Click!,Romanian newspaper,periodical,,,yes,1.00,2,,
+rou_cnn,ROU,CNN,2017,2017,,Q48340,CNN,American news channel,cable news in the United States; specialty channel; news website; film production company,https://cnn.com,cnn.com,no,1.00,6,,
+rou_dcnews,ROU,DCNews,2021,2021,,Q18539605,DCNews.Ro,Romanian online newspaper,online newspaper,https://www.dcnews.ro,dcnews.ro,yes,1.00,1,,
+rou_digi24,ROU,Digi24 online,2017,2026,,Q5275717,Digi24,Romanian television news channel,specialty channel,https://www.digi24.ro/,digi24.ro,yes,1.00,10,,
+rou_evenimentul_zilei,ROU,Evenimentul Zilei,2017,2023,,Q2480744,Evenimentul Zilei,formerly physical and now online newspaper in Romania,newspaper,http://www.evz.ro/,evz.ro,yes,1.00,1,,
+rou_g4media,ROU,G4media,2025,2025,,Q88562142,G4 Media,Romanian news website,news website; news agency,https://g4media.ro,g4media.ro,yes,0.93,2,,
+rou_gandul,ROU,Gândul,2026,2026,,Q954232,Gândul,Romanian online newspaper,newspaper,https://www.gandul.ro/,gandul.ro,yes,1.00,2,,
+rou_gazeta_sporturilor,ROU,Gazeta Sporturilor online,2017,2017,,Q2055060,Gazeta Sporturilor,daily newspaper in Romania,newspaper,https://www.gsp.ro/,gsp.ro,yes,1.00,3,,
+rou_hotnews,ROU,HotNews,2017,2026,,Q5912417,HotNews,Romanian news site,online newspaper,http://www.hotnews.ro/,hotnews.ro,yes,1.00,3,,
+rou_jurnalul_ro,ROU,Jurnalul.ro,2026,2026,jurnalul.ro,Q130638633,Jurnalul.ro,official website of Romanian newspaper Jurnalul Național,official website; online magazine,,,no,1.00,12,,
+rou_kanal_d,ROU,Kanal D,2017,2026,,Q5474128,Kanal D,Romanian television channel,television station,https://www.kanald.ro/,kanald.ro,yes,1.00,2,,
+rou_libertatea,ROU,Libertatea,2017,2026,,Q6541479,Libertatea,Romanian broadsheet newspaper,newspaper; daily newspaper,https://www.libertatea.ro/,libertatea.ro,yes,1.00,6,,
+rou_mediafax,ROU,Mediafax,2017,2026,,Q12735246,Mediafax,Romanian news agency,news agency,https://www.mediafax.ro/,mediafax.ro,yes,1.00,2,,
+rou_prima_tv,ROU,Prima TV,2017,2025,,Q1723152,Prima TV,Romania television channel,television station,http://www.primatv.ro,primatv.ro,yes,1.00,4,,
+rou_pro_tv,ROU,Pro TV,2017,2026,,Q386873,PRO TV,Romanian free-to-air Television network,television station; television channel,https://www.protv.ro,protv.ro,yes,1.00,6,,
+rou_radio_europa_fm,ROU,Radio Europa FM,2017,2026,,Q1979349,Europa FM,Romanian radio station,radio station,https://www.europafm.ro/,europafm.ro,yes,0.75,1,,
+rou_radio_romania,ROU,Radio România (public broadcaster),2017,2026,,Q7281009,Radio România Actualități,national radio network in Romania,radio station,http://www.romania-actualitati.ro/,romania-actualitati.ro,yes,1.00,11,,
+rou_radio_zu,ROU,Radio ZU,2019,2026,,Q2126382,Radio ZU,radio station in Romania,radio station,https://radiozu.ro/,radiozu.ro,yes,1.00,2,,
+rou_realitatea,ROU,Realitatea TV,2017,2026,,Q3080529,Realitatea TV,former Romanian news television channel replaced by Realitatea Plus,television station; specialty channel,https://www.realitatea.net/,realitatea.net,yes,1.00,6,2019,
+rou_recorder,ROU,Recorder,2025,2026,,Q131405470,Recorder,Romanian investigative media company,online newspaper; Internet television; media company; nonprofit organization,https://recorder.ro/,recorder.ro,yes,1.00,2,,
+rou_romania_tv,ROU,România TV online,2017,2026,,Q7363432,România TV,Romanian news television channel,television station; specialty channel,https://www.romaniatv.net/,romaniatv.net,yes,1.00,9,,
+rou_sport_ro,ROU,Sport.ro,2017,2017,sport.ro,Q138966057,sport.ro,Romanian sports news website,news website,https://www.sport.ro/,sport.ro,yes,1.00,8,,yes
+rou_stiripesurse_ro,ROU,Stiripesurse.ro,2017,2026,stiripesurse.ro,Q135208026,stiripesurse.ro,,online newspaper; news website; media company,https://www.stiripesurse.ro/,stiripesurse.ro,yes,1.00,1,,yes
+rou_tvr,ROU,TVR (public broadcaster),2017,2026,,Q17056328,TVR News,television channel,television channel,http://www.tvrnews.ro/,tvrnews.ro,yes,1.00,9,,
+rou_yahoo,ROU,Yahoo! News,2017,2026,,Q3044717,Yahoo News,news website from Yahoo!,website; news aggregation website,https://news.yahoo.com,yahoo.com,no,1.00,14,,
+rou_ziare_com,ROU,Ziare.com,2017,2026,ziare.com,Q12744017,Ziare.com,news website in Romania,news website; online newspaper,https://ziare.com,ziare.com,yes,1.00,1,,yes
+rou_ziarul_financiar,ROU,Ziarul Financiar online,2017,2025,,Q8071378,Ziarul Financiar,Romanian newspaper,magazine,http://www.zf.ro/,zf.ro,yes,1.00,1,,
+srb_al_jazeera_balkans,SRB,Al Jazeera Balkans online,2025,2025,,Q1283847,Al Jazeera Balkans,television channel,television station; specialty channel,http://balkans.aljazeera.com,aljazeera.com,no,1.00,4,2025,
+srb_b92_tv,SRB,B92 TV,2025,2026,,Q366601,B92,Serbian news station,business; media company; television station,https://b92.net,b92.net,yes,0.73,3,,
+srb_blic,SRB,Blic,2025,2026,,Q883987,Blic,Serbian media company,online newspaper; daily newspaper; newspaper,http://www.blic.rs/,blic.rs,yes,1.00,2,,
+srb_danas,SRB,Danas,2025,2026,,Q671543,Данас,Serbian newspaper,daily newspaper,http://www.danas.rs/,danas.rs,yes,1.00,5,,
+srb_euronews,SRB,Euronews,2025,2026,,Q8478,Euronews,pan-European news television channel,television station; specialty channel,http://www.euronews.com/,euronews.com,no,1.00,5,,
+srb_happy_tv,SRB,Happy TV,2025,2026,,Q366621,Happy TV,Serbian television channel,specialty channel,http://www.happytv.rs,happytv.rs,yes,1.00,3,,
+srb_informer,SRB,Informer,2025,2026,,Q17077568,Informer,Serbian tabloid newspaper,newspaper,http://informer.rs/,informer.rs,yes,1.00,2,,
+srb_informer_tv,SRB,Informer TV,2026,2026,,Q140309899,Informer TV,serbian television channel of tabloid Informer,television channel,https://informer.rs/,informer.rs,yes,1.00,1,,
+srb_investigative_reporting_network,SRB,Investigative Reporting Network online,2025,2026,,Q123507567,"Crash After Encounter with Instrument Meteorological Conditions During Takeoff from Remote Landing Site New Mexico State Police Agusta S.p.A. A-109E, N606SP",aircraft crash with associated National Transportation Safety Board investigation and Aviation Safety Network accident report,helicopter crash; Aviation Safety Network accident description; aircraft crash; National Transportation Safety Board report,,,no,0.29,6,,
+srb_juzne_vesti,SRB,Južne vesti online,2025,2026,juznevesti.com,,,,,,,,,1,,
+srb_kurir,SRB,Kurir,2025,2026,,Q1284918,Kurir,Serbian newspaper,newspaper,https://www.kurir.rs/,kurir.rs,yes,1.00,1,,
+srb_mondo_rs,SRB,Mondo.rs,2025,2026,mondo.rs,Q27712180,Mondo ortodontico,journal,scientific journal,http://www.sciencedirect.com/science/journal/03912000,sciencedirect.com,no,0.74,15,,no
+srb_n1,SRB,N1,2025,2026,,Q18378741,N1,television channel in Balkans,specialty channel; television channel,https://n1info.com,n1info.com,no,1.00,10,,
+srb_nova,SRB,Nova,2025,2026,,Q61127053,Nova,Serbian television channel,television station,https://nova.rs/,nova.rs,yes,1.00,7,,
+srb_prva_srpska_tv,SRB,Prva Srpska TV,2025,2026,,Q15221415,Prva Srpska Televizija,Serbian national television network,television station,https://prva.rs,prva.rs,yes,0.78,1,,
+srb_radar,SRB,Radar online,2026,2026,,Q131442953,Radar,Serbian magazine,magazine,https://radar.nova.rs/,nova.rs,yes,1.00,1,,
+srb_rts,SRB,Radio-Television Serbia (RTS) online,2025,2026,,Q366507,Radio Television of Serbia,Serbian public radio and TV broadcaster,public broadcaster; hate media,http://www.rts.rs/,rts.rs,yes,1.00,7,,
+srb_rts_radio,SRB,RTS Radio News,2025,2026,,Q366507,Radio Television of Serbia,Serbian public radio and TV broadcaster,public broadcaster; hate media,http://www.rts.rs/,rts.rs,yes,0.53,9,,
+srb_rts_tv,SRB,RTS TV News,2025,2026,,Q45316,RTS Svet,television channel,television station,https://www.rts.rs/page/tv/ci/news/19/rts-svet.html,rts.rs,yes,0.77,5,,
+srb_rtv,SRB,RTV (Radio-televizija Vojvodine),2025,2026,,Q12758027,RTV 1,,television channel; state media,http://www.rtv.rs/,rtv.rs,yes,0.75,5,,
+srb_rtv_radio,SRB,RTV Radio News,2025,2026,,Q366541,Radio Television of Vojvodina,television channel,television channel; organization; broadcaster,http://www.rtv.rs/,rtv.rs,yes,0.67,7,,
+srb_rtv_tv,SRB,RTV TV News,2025,2026,,Q12741887,TV Novi Sad,,television channel,http://www.rtv.rs/,rtv.rs,yes,0.73,5,,
+srb_srbija_danas,SRB,Srbijadanas.com,2025,2026,srbijadanas.com,Q25817378,Vorlage:Info ISO-3166-2:SD-RS,Wikimedia template,Wikimedia template,,,no,0.29,10,,
+srb_telegraf_rs,SRB,Telegraf.rs,2025,2026,telegraf.rs,Q110670378,Serbian Telegraph,Daily newspapers in Serbia,daily newspaper,https://www.republika.rs/,republika.rs,yes,1.00,3,,no
+srb_tv_pink,SRB,TV Pink,2025,2026,,Q366630,Pink (Serbia),company,business; broadcaster; independent record label,https://pink.rs/,pink.rs,yes,1.00,5,,
+srb_vecernje_novosti,SRB,Vecernje Novosti,2025,2025,,Q1192921,Večernje novosti,periodical literature,newspaper,https://www.novosti.rs,novosti.rs,yes,1.00,1,,
+svk_360tka_sk,SVK,360tka.sk,2026,2026,360tka.sk,Q131278292,360tka,Slovak video-only news portal,news broadcasting; Internet television; streaming service,https://360tka.sk/,360tka.sk,yes,1.00,1,,yes
+svk_aktuality,SVK,aktuality.sk,2017,2026,aktuality.sk,Q52162279,Aktuality.sk,Slovak news website,online newspaper,https://www.aktuality.sk/,aktuality.sk,yes,1.00,6,,yes
+svk_aktualne,SVK,aktualne.sk,2017,2019,aktualne.sk,Q99577416,Aktuálne.sk,former Slovakian news website,website,https://aktualne.sk/,aktualne.sk,yes,1.00,5,2018,yes
+svk_azet_sk,SVK,Azet.sk,2017,2017,azet.sk,Q12762802,Azet.sk,Slovak website,web portal,https://www.azet.sk,azet.sk,yes,1.00,6,,yes
+svk_cas_sk,SVK,cas.sk,2017,2026,cas.sk,Q530471,Chinese Academy of Sciences,national academy for natural sciences of China,academy of sciences; open-access publisher; academic institution,https://www.cas.cn,cas.cn,no,1.00,13,,no
+svk_dennik_n,SVK,dennikn.sk,2017,2026,dennikn.sk,Q20051147,Denník N,Slovak daily newspaper,daily newspaper,https://dennikn.sk/,dennikn.sk,yes,1.00,5,,yes
+svk_dnes24_sk,SVK,dnes24.sk,2018,2026,dnes24.sk,,,,,,,,,1,,
+svk_fun_radio,SVK,Fun rádio,2017,2026,,Q107354156,Fun Rádio,"radio station in Bratislava, Slovakia",radio station,https://www.funradio.sk/,funradio.sk,yes,1.00,1,,
+svk_hlavnespravy_sk,SVK,hlavnespravy.sk,2019,2024,hlavnespravy.sk,,,,,,,,,1,,
+svk_hospodarske_noviny,SVK,hnonline.sk,2017,2026,hnonline.sk,Q647408,Hospodárske noviny,periodical literature,periodical,http://www.hnonline.sk,hnonline.sk,yes,1.00,1,,yes
+svk_korzar,SVK,korzar.sme.sk,2017,2020,sme.sk,Q12769507,Korzár,Slovak regional newspaper,newspaper,https://korzar.sme.sk/,sme.sk,yes,1.00,2,,yes
+svk_novy_cas,SVK,Nový Čas,2017,2026,,Q2003361,Nový čas,Slovak newspaper,newspaper,,,yes,1.00,6,,
+svk_plus_7_dni,SVK,Plus 7 dní,2017,2026,,Q12773958,Plus 7 dní,,weekly magazine,https://plus7dni.pluska.sk,pluska.sk,yes,1.00,2,,
+svk_plus_jeden_den,SVK,Plus Jeden Deň,2017,2026,,Q12773959,Plus JEDEN DEŇ,Slovak daily newspaper,daily newspaper,https://www1.pluska.sk/,pluska.sk,no,1.00,5,,
+svk_pluska_sk,SVK,pluska.sk,2017,2026,pluska.sk,Q12773958,Plus 7 dní,,weekly magazine,https://plus7dni.pluska.sk,pluska.sk,yes,0.53,11,,yes
+svk_pravda,SVK,Pravda,2017,2026,pravda.sk,Q1853557,Pravda,Slovak newspaper,daily newspaper,http://www.pravda.sk,pravda.sk,yes,1.00,4,,yes
+svk_radio_europa_2,SVK,Rádio Europa 2,2018,2026,,Q9256220,Europa 2,radio station in Slovakia,radio station,https://www.europa2.sk/,europa2.sk,yes,0.73,2,,
+svk_radio_expres,SVK,Rádio Expres,2017,2026,expres.sk,Q3454138,Rádio Expres,radio station in Multiregional,radio station,https://www.expres.sk/,expres.sk,yes,1.00,5,,yes
+svk_radio_jemne,SVK,Rádio Jemné,2017,2026,,Q12767997,Rádio Melody,radio station in Slovakia,radio station,https://www.radiomelody.sk/,radiomelody.sk,yes,1.00,1,,
+svk_radio_vlna,SVK,Rádio Vlna,2018,2026,,Q20493542,Rádio Vlna,Slovak radio channel,radio station,https://radiovlna.sk/,radiovlna.sk,yes,1.00,1,,
+svk_refresher_sk,SVK,refresher.sk,2020,2026,refresher.sk,Q113637012,Refresher,Czech/Slovak online magazine,online magazine,https://refresher.cz/,refresher.cz,yes,1.00,1,,no
+svk_rtvs,SVK,RTVS (public broadcaster),2017,2026,rtvs.sk,Q126950940,Slovak Television and Radio,"Slovak public, national, independent, informational, cultural and educational institution",public broadcaster,https://www.stvr.sk,stvr.sk,yes,1.00,7,,no
+svk_rtvs_radio,SVK,RTVS Radio News,2021,2021,,Q1431841,Rádio FM – Slovak Radio 4,radio station,radio station,https://fm.rtvs.sk/,rtvs.sk,yes,0.67,7,,
+svk_rtvs_tv,SVK,RTVS TV News,2021,2021,,Q111421295,:24,Slovak television channel,television station,https://www.rtvs.sk/televizia/tv,rtvs.sk,yes,0.71,5,,
+svk_sme,SVK,SME,2017,2026,sme.sk,Q897968,SME,Slovakian newspaper,daily newspaper; newspaper,http://www.sme.sk,sme.sk,yes,1.00,9,,yes
+svk_startitup_sk,SVK,startitup.sk,2021,2026,startitup.sk,,,,,,,,,3,,
+svk_ta3,SVK,TA3,2017,2026,ta3.com,Q278194,TA3,Slovak news TV channel,television station; specialty channel,http://www.ta3.com/,ta3.com,yes,1.00,4,,yes
+svk_topky_sk,SVK,topky.sk,2017,2026,topky.sk,,,,,,,,,7,,
+svk_tv_joj,SVK,TV JOJ,2017,2026,noviny.sk,Q1048553,TV JOJ,private TV channel in Slovakia,television station,https://www.joj.sk/,joj.sk,yes,1.00,14,,no
+svk_tv_markiza,SVK,TV Markíza,2017,2026,tvnoviny.sk,Q657178,TV Markíza,Slovak television channel,television station,http://www.markiza.sk,markiza.sk,yes,1.00,5,,no
+svk_webnoviny_sk,SVK,webnoviny.sk,2018,2022,webnoviny.sk,,,,,,,,,1,,
+svk_zive_sk,SVK,zive.sk,2018,2019,zive.sk,Q61356198,Živé.sk,Slovak webzine,online magazine,https://zive.aktuality.sk/,aktuality.sk,yes,1.00,3,,no
+svk_zoznam_sk,SVK,Zoznam.sk,2017,2017,zoznam.sk,Q19945347,zoznam.sk,Slovak website,website,https://www.zoznam.sk/,zoznam.sk,yes,1.00,9,,yes
+swe_aftonbladet,SWE,Aftonbladet,2016,2026,,Q389458,Aftonbladet,Swedish newspaper,daily newspaper; online magazine; tabloid,https://www.aftonbladet.se,aftonbladet.se,yes,1.00,5,,
+swe_bbc,SWE,BBC News,2016,2026,,Q4704926,BBC News Online,website of BBC News,news website,https://www.bbc.com/news/,bbc.com,no,1.00,17,,
+swe_buzzfeed,SWE,BuzzFeed News,2020,2020,,Q55715275,BuzzFeed News,news website,online newspaper,https://www.buzzfeednews.com,buzzfeednews.com,no,1.00,9,,
+swe_cnn,SWE,CNN,2016,2026,cnn.com,Q48340,CNN,American news channel,cable news in the United States; specialty channel; news website; film production company,https://cnn.com,cnn.com,no,1.00,13,,yes
+swe_dagens_industri,SWE,Dagens Industri,2016,2026,,Q734293,Dagens Industri,newspaper,newspaper,https://www.di.se,di.se,yes,1.00,4,,
+swe_dagens_nyheter,SWE,Dagens Nyheter,2016,2026,,Q1126918,Dagens Nyheter,Swedish newspaper,morning paper; daily newspaper,https://www.dn.se,dn.se,yes,1.00,10,,
+swe_det_goda_samhallet,SWE,Det Goda Samhället,2019,2020,,Q109475928,Det Goda Samhället,,online newspaper,,,yes,1.00,1,,
+swe_etc,SWE,ETC,2022,2023,,Q10465888,Dagens ETC,left-leaning Swedish newspaper,daily newspaper,http://www.etc.se,etc.se,yes,1.00,5,,
+swe_expressen,SWE,Expressen,2016,2026,,Q135763416,Expressen Nöje,entertainment division of Expressen,daily newspaper,https://www.expressen.se/noje/,expressen.se,yes,0.80,7,,
+swe_fria_tider,SWE,Fria Tider,2018,2023,,Q56300508,Fria tider: fritids- och kulturtidskrift,Swedish periodical,magazine,,,yes,1.00,1,2009,
+swe_goteborgs_posten,SWE,Göteborgs-Posten,2016,2026,,Q1559719,Göteborgs-Posten,newspaper,newspaper,https://www.gp.se,gp.se,yes,1.00,3,,
+swe_helsingsborgs_dagblad,SWE,Helsingsborgs Dagblad,2021,2021,,,,,,,,,,0,,
+swe_huffington_post,SWE,Huffington Post,2017,2017,,Q3223501,Huffington Post France,newspaper,online newspaper; pure play,https://www.huffingtonpost.fr/,huffingtonpost.fr,no,1.00,5,,
+swe_ledarsidorna,SWE,Ledarsidorna,2018,2020,,Q29312532,Ledarsidorna,,magazine,https://ledarsidorna.se/,ledarsidorna.se,no,1.00,1,,
+swe_metro,SWE,Metro,2016,2020,,Q1978245,Metro Sverige,Swedish edition of the newspaper Metro,daily newspaper; newspaper,http://metro.se,metro.se,yes,1.00,5,,
+swe_msn,SWE,MSN News,2016,2020,,Q66819336,Microsoft Start,news aggregator from Microsoft,application software; news aggregator; website,https://www.microsoftstart.com,microsoftstart.com,no,1.00,11,,
+swe_nya_tider,SWE,Nya Tider,2018,2020,,Q78995546,Nya tider : nya medier tar vid där gamla sviker,Swedish periodical,periodical,http://nyatider.nu/,nyatider.nu,yes,1.00,5,,
+swe_nyheter_24,SWE,Nyheter 24 (News 24),2016,2026,,Q56194,24,"American television series (2001–2010, 2014)",television series,https://www.fox.com/24/,fox.com,no,1.00,16,,
+swe_nyheter_idag,SWE,Nyheter Idag,2018,2026,,Q29312529,Nyheter Idag,Swedish-language online newspaper,online magazine,http://www.nyheteridag.se/,nyheteridag.se,no,1.00,11,,
+swe_samhallsnytt,SWE,Samhällsnytt,2018,2026,,Q96603096,Samhällsnytt,Swedish right-wing news website,online newspaper; news website,https://samnytt.se,samnytt.se,yes,1.00,1,,
+swe_samtiden,SWE,Samtiden,2018,2020,,Q19978512,Samtiden,online newspaper published by Swedish political party Sverigedemokraterna,online newspaper,http://www.samtiden.nu/,samtiden.nu,yes,1.00,5,,
+swe_sr,SWE,SR News (public radio),2016,2026,sr.se,Q1543058,Sveriges Radio,Sweden's national publicly funded radio broadcaster company,broadcaster; business; enterprise,https://sverigesradio.se/,sverigesradio.se,yes,1.00,8,,no
+swe_svenska_dagbladet,SWE,Svenska Dagbladet,2016,2026,,Q1504847,Svenska Dagbladet,Swedish newspaper,newspaper,https://www.svd.se,svd.se,yes,1.00,5,,
+swe_svt,SWE,SVT News online,2016,2026,,Q215363,Sveriges Television,Swedish public service television company,business; enterprise; public broadcaster; production company,https://svt.se,svt.se,yes,1.00,16,,
+swe_sydsvenska_dagbladet,SWE,Sydsvenska Dagbladet,2016,2026,,Q1371686,Sydsvenskan,Swedish daily newspaper,daily newspaper,https://www.sydsvenskan.se,sydsvenskan.se,yes,1.00,3,,
+swe_tv4,SWE,TV4 News online,2016,2026,tv4.se,Q1466723,TV4,Swedish television channel,television station,https://www.tv4.se,tv4.se,yes,1.00,12,,yes
+swe_uppsala_nya_tidning,SWE,Uppsala Nya Tidning,2016,2021,,,,,,,,,,1,,
+tur_a_haber,TUR,A Haber,2016,2026,,Q6089384,A Haber,Turkish news network,television station,https://ahaber.com.tr,ahaber.com.tr,yes,1.00,6,,
+tur_aa,TUR,AA (Anadolu Ajansi),2017,2021,,Q477436,Anadolu Agency,news agency in Turkey,news agency; state-owned enterprise,https://www.aa.com.tr/tr,aa.com.tr,yes,1.00,5,,
+tur_atv,TUR,ATV News,2016,2026,,Q423651,ATV,Turkey-based cable television channel,television station,http://www.atv.com.tr/,atv.com.tr,yes,1.00,5,,
+tur_bbc,TUR,BBC News online,2019,2022,,Q4704926,BBC News Online,website of BBC News,news website,https://www.bbc.com/news/,bbc.com,no,1.00,15,,
+tur_cnn_international,TUR,CNN International online,2016,2016,,Q48340,CNN,American news channel,cable news in the United States; specialty channel; news website; film production company,https://cnn.com,cnn.com,no,0.94,6,,
+tur_cnn_turk,TUR,CNN Türk,2016,2026,,Q6048139,CNN Türk Radio,radio station in Turkey,radio station,,,yes,0.73,2,,
+tur_cumhuriyet,TUR,Cumhuriyet,2016,2026,,Q1143794,Cumhuriyet,Turkish newspaper,daily newspaper,https://cumhuriyet.com.tr,cumhuriyet.com.tr,no,1.00,10,,
+tur_ensonhaber,TUR,Ensonhaber,2016,2026,ensonhaber.com,Q109316392,Ensonhaber.com,Turkish newspaper,website; online newspaper,https://www.ensonhaber.com/,ensonhaber.com,yes,1.00,1,,yes
+tur_fox_tv,TUR,Fox TV news,2016,2023,,Q186068,Fox News,American cable television news channel,cable news in the United States; specialty channel,https://foxnews.com,foxnews.com,no,1.00,13,,
+tur_haber7,TUR,Haber7,2016,2017,,Q6058063,Haber 7,,television station,http://www.haber7.com/,haber7.com,yes,0.92,2,,
+tur_haberler_com,TUR,Haberler.com,2016,2026,haberler.com,Q142173253,Son Haberler,,news website,https://www.sonhaberler.com/,sonhaberler.com,yes,0.80,8,,no
+tur_haberturk,TUR,Habertürk online,2016,2026,,Q5636741,Habertürk,Turkish daily newspaper,newspaper,https://www.haberturk.com,haberturk.com,yes,1.00,5,,
+tur_haberturk_tv,TUR,Habertürk TV,2016,2026,,Q6092925,Habertürk TV,Turkish news network,television station,https://tv.haberturk.com,haberturk.com,yes,1.00,3,,
+tur_halk_tv,TUR,Halk TV,2016,2026,,Q6065965,Halk TV,Turkish news network,television station,http://halktv.com.tr/,halktv.com.tr,yes,1.00,2,,
+tur_hurriyet,TUR,Hürriyet,2016,2026,,Q327147,Χουριέτ,Turkish daily newspaper,daily newspaper; newspaper,http://www.hurriyet.com.tr/,hurriyet.com.tr,yes,1.00,6,,
+tur_internethaber,TUR,İnternethaber,2016,2025,internethaber.com,,,,,,,,,0,,
+tur_kanal_d,TUR,Kanal D News,2016,2026,,Q1723591,Kanal D,Turkey-based cable television channel,television station,https://kanald.com.tr,kanald.com.tr,yes,1.00,5,,
+tur_memurlar_net,TUR,memurlar.net,2021,2022,memurlar.net,Q8489623,Category:German civil servants,Wikimedia category,Wikimedia category,,,no,0.52,6,,
+tur_milliyet,TUR,Milliyet,2016,2024,,Q568226,Milliyet,Turkish daily newspaper,newspaper,https://www.milliyet.com.tr/,milliyet.com.tr,yes,1.00,5,,
+tur_mynet,TUR,Mynet,2016,2026,,Q4044731,Mynet,web portal,website,https://www.mynet.com/,mynet.com,yes,1.00,1,,
+tur_now_tv,TUR,NOW TV News (formerly Fox),2024,2026,,Q4828628,RTÉ News,Irish free-to-air news television network operated by Raidió Teilifís Éireann (RTÉ),specialty channel,http://www.rte.ie/news,rte.ie,no,0.67,7,,
+tur_ntv,TUR,NTV,2016,2026,,Q1961596,NTV,Turkish news network,television station; specialty channel,https://ntv.com.tr,ntv.com.tr,yes,1.00,5,,
+tur_odatv,TUR,Odatv,2017,2017,,Q7004862,Odatv,news portal,online newspaper,http://odatv.com/,odatv.com,no,1.00,2,,
+tur_onedio,TUR,Onedio,2018,2026,onedio.com,Q109385523,Onedio,Turkish website,website,https://onedio.com/,onedio.com,no,1.00,3,,yes
+tur_posta,TUR,Posta,2016,2020,,Q1543309,Posta,newspaper,daily newspaper,http://www.posta.com.tr/,posta.com.tr,yes,1.00,5,,
+tur_sabah,TUR,Sabah,2016,2026,,Q574575,Sabah,Turkish daily newspaper,newspaper,https://www.sabah.com.tr/,sabah.com.tr,yes,1.00,5,,
+tur_show_tv,TUR,Show TV,2016,2026,,Q2006738,Show TV,Turkey's national TV Broadcaster,television station,http://www.showtv.com.tr/,showtv.com.tr,yes,1.00,5,,
+tur_sondakika_com,TUR,Sondakika.com,2018,2026,sondakika.com,,,,,,,,,3,,
+tur_sozcu,TUR,Sözcü online,2016,2026,,Q4121023,Sözcü,Turkish daily newspaper,newspaper,http://www.sozcu.com.tr/,sozcu.com.tr,yes,1.00,3,,
+tur_sozcu_tv,TUR,Sözcü TV,2025,2026,,Q116775276,SZC TV,,television channel,https://szctv.com.tr/,szctv.com.tr,yes,1.00,1,,
+tur_star_tv,TUR,Star TV,2016,2026,,Q2067812,Star TV,Turkey-based cable television channel,television station,http://www.startv.com.tr/,startv.com.tr,yes,1.00,5,,
+tur_trt,TUR,TRT news online,2016,2026,,Q535725,TRT Haber,Turkish public broadcasting news station,television station; specialty channel,http://www.trthaber.com/,trthaber.com,yes,1.00,10,,
+usa_abc,USA,ABC News,2016,2026,abcnews.com,Q287171,ABC News,news division of the American Broadcasting Company,specialty channel; online newspaper,https://abcnews.go.com/,go.com,yes,1.00,12,,no
+usa_al_jazeera,USA,Al Jazeera,2025,2025,,Q4704131,Al Jazeera America,defunct pay television news channel,television station,http://america.aljazeera.com,aljazeera.com,yes,0.71,5,2016,
+usa_bbc,USA,BBC News,2016,2026,bbc.com,Q4704926,BBC News Online,website of BBC News,news website,https://www.bbc.com/news/,bbc.com,no,1.00,21,,yes
+usa_blaze,USA,The Blaze,2018,2020,,Q7711621,Blaze Media,American conservative media company,website; news agency; video streaming service,https://www.theblaze.com/,theblaze.com,yes,0.94,5,,
+usa_breitbart,USA,Breitbart,2017,2020,,Q4960434,Breitbart News,American news and opinion website,website; news website,https://breitbart.com,breitbart.com,yes,1.00,5,,
+usa_buzzfeed,USA,BuzzFeed News,2016,2023,buzzfeed.com,Q55715275,BuzzFeed News,news website,online newspaper,https://www.buzzfeednews.com,buzzfeednews.com,yes,1.00,5,,no
+usa_cbs,USA,CBS News,2016,2026,cbsnews.com,Q18643692,CBS News 24/7,American streaming news channel,specialty channel,http://cbsn.cbsnews.com/,cbsnews.com,yes,1.00,10,2024,yes
+usa_cnbc,USA,CNBC,2026,2026,,Q1023912,CNBC,American basic cable and satellite business news television channel,business channel; specialty channel; cable channel; news website,https://www.cnbc.com/,cnbc.com,yes,1.00,5,,
+usa_cnn,USA,CNN,2016,2026,cnn.com,Q48340,CNN,American news channel,cable news in the United States; specialty channel; news website; film production company,https://cnn.com,cnn.com,yes,1.00,11,,yes
+usa_daily_caller,USA,The Daily Caller,2018,2020,,Q7728625,The Daily Caller,"newspaper in Washington, D.C.",online newspaper; news website,https://dailycaller.com,dailycaller.com,yes,1.00,2,,
+usa_fox,USA,Fox News,2016,2026,foxnews.com,Q186068,Fox News,American cable television news channel,cable news in the United States; specialty channel,https://foxnews.com,foxnews.com,yes,1.00,10,,yes
+usa_huffington_post,USA,HuffPost,2016,2023,huffingtonpost.com,Q18049522,HuffPost,American online news aggregator and blog,online newspaper; news aggregation website,https://www.huffpost.com/,huffpost.com,yes,1.00,6,,no
+usa_infowars,USA,Info Wars,2018,2020,,Q46997916,Infowars,American far-right conspiracy theory and fake news website founded by Alex Jones,business; fake news website; broadcaster,,,yes,1.00,8,,
+usa_ms_now,USA,MS NOW,2026,2026,,Q13973,MS NOW,American television news channel,specialty channel; news website,https://MS.now,ms.now,yes,1.00,5,,
+usa_msn,USA,MSN News,2016,2026,msn.com,Q66819336,Microsoft Start,news aggregator from Microsoft,application software; news aggregator; website,https://www.microsoftstart.com,microsoftstart.com,no,1.00,16,,no
+usa_nbc_msnbc,USA,NBC/MSNBC News,2016,2026,nbcnews.com,Q2877626,NBC News,news division of NBC,online newspaper; television channel; specialty channel; production company,https://www.nbcnews.com/,nbcnews.com,yes,1.00,5,,yes
+usa_new_york_post,USA,New York Post online,2024,2025,,Q211374,New York Post,daily tabloid newspaper (1801-),daily newspaper; tabloid newspaper; newspaper; website,https://nypost.com,nypost.com,yes,1.00,7,,
+usa_new_york_times,USA,New York Times,2016,2026,nytimes.com,Q9684,The New York Times,American daily newspaper (founded 1851),daily newspaper; website,https://nytimes.com,nytimes.com,yes,0.88,8,,yes
+usa_newsmax,USA,Newsmax TV,2021,2026,,Q18353130,Newsmax TV,American news channel,television station,https://www.newsmaxtv.com,newsmaxtv.com,yes,1.00,2,,
+usa_npr,USA,NPR News,2016,2026,npr.org,Q671510,NPR,American nonprofit media organization,radio network; nonprofit corporation; public broadcaster; nonprofit organization; online newspaper without paywall,https://www.npr.org/,npr.org,yes,1.00,10,,yes
+usa_occupy_democrats,USA,Occupy Democrats,2017,2020,,Q39058907,Occupy Democrats,American left-wing political Facebook page and website,brand; news website,,,yes,1.00,1,,
+usa_pbs,USA,PBS News,2016,2026,pbs.org,Q7118447,PBS News Hour,daily public television news program in the United States,television series; news program,https://www.pbs.org/newshour/,pbs.org,yes,1.00,9,,yes
+usa_politico,USA,Politico,2026,2026,,Q3109740,Politico,American journalism company and news website,newspaper; magazine; news website,https://www.politico.com,politico.com,yes,1.00,5,,
+usa_rush_limbaugh_show,USA,The Rush Limbaugh Show,2021,2021,,Q7761874,The Rush Limbaugh Show,American talk radio show (1988–2021),radio program; talk radio,,,yes,1.00,1,,
+usa_usa_today,USA,USA Today,2016,2026,usatoday.com,Q39681,USA Today,American national daily newspaper,daily newspaper; website,https://www.usatoday.com/,usatoday.com,yes,1.00,6,,yes
+usa_wall_street_journal,USA,Wall Street Journal,2018,2025,,Q164746,The Wall Street Journal,American business-focused daily newspaper,daily newspaper; business newspaper; scientific journal; website,https://wsj.com,wsj.com,yes,0.90,7,,
+usa_washington_post,USA,Washington Post online,2016,2026,washingtonpost.com,Q166032,The Washington Post,"daily broadsheet newspaper in Washington, D.C.",daily newspaper; newspaper; website,https://washingtonpost.com,washingtonpost.com,yes,0.88,7,,yes
+usa_yahoo,USA,Yahoo! News,2016,2026,yahoo.com,Q37093,Yahoo,web portal and search engine,web portal; web service,https://www.yahoo.com/,yahoo.com,yes,1.00,10,,yes
