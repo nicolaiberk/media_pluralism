@@ -436,7 +436,7 @@ IRL,,2022,online,Local or regional newspaper online,11,irl_local_newspaper,,"gen
 IRL,,2022,online,Her.ie/ joe.ie,10,irl_her_joe,her.ie,"two sites (her.ie, joe.ie), same publisher","DNR 2022, p. 87",4
 IRL,,2022,online,Yahoo! News,9,irl_yahoo,,,"DNR 2022, p. 87",4
 IRL,,2022,online,Irish Sun online,8,irl_irish_sun,,,"DNR 2022, p. 87",3
-IRL,,2022,online,MailOnline,8,irl_mail_online,,merged with irl_mail_online (UK Mail Online),"DNR 2022, p. 87",4
+IRL,,2022,online,MailOnline,8,irl_irish_daily_mail,,UK Mail Online site; id merged: was irl_mail_online,"DNR 2022, p. 87",4
 IRL,,2022,offline,RTÉ TV News,50,irl_rte_tv,,inset box next to the TV/radio/print chart,"DNR 2022, p. 87",
 IRL,,2022,offline,RTÉ Radio News,30,irl_rte_radio,,inset box next to the TV/radio/print chart,"DNR 2022, p. 87",
 ITA,,2022,offline,"RAI TV News (Tg1, Tg2, Tg3, TgR)",45,ita_rai,,,"DNR 2022, p. 89",
