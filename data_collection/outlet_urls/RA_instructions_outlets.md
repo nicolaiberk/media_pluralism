@@ -21,6 +21,9 @@ Note:
 - The DNR figure is **weekly reach in %** ("used in the last week"), not market share.
 - Some countries (e.g. Switzerland) have several lists. These are recorded as separate markets in the `submarket` column.
 - Samples for some markets (e.g. Turkey) are **urban/online-representative only** — any such sample caveat from the country page belongs in `notes`.
+- Extra brands printed in an "ALSO" box next to a chart and figures from inset boxes (e.g. "BBC TV News: 52%", "VRT (public broadcaster) total offline reach: 60%") are included as rows with a corresponding `notes` entry.
+- The tables were first transcribed automatically from the text layer of the PDFs (`scripts/parse_dnr.py`) and then checked row by row against the reports and corrected by hand (PR #3, November 2026). The CSVs are the authoritative version: corrections are made directly in them, and they are not regenerated from the scripts.
+- Coverage: 2012 (UK only), 2013 (UK, US, France, Germany), 2014 (8 markets), 2015 (9 markets), 2016–2026 (all European and North American markets of the respective report, incl. Mexico).
 
 ## Output table (`outlets_<year>.csv`)
 
@@ -37,7 +40,8 @@ One row per country × year × list × brand:
 | `outlet_id` | Stable ID, same across years/lists/spellings | `che_20min` |
 | `domain` | Registered domain of the brand's news website **at that time**, | `20min.ch` |
 | `notes` | Anything odd: representativity issues, rebrands, domain changes, regional editions | |
-| `source` | DNR report + page where information was found | DNR 2023, p. 111 |
+| `source` | DNR report + page where information was found (printed page number; in the 2012, 2013 and 2026 PDFs the viewer's page index is 2, 2 and 3 higher) | DNR 2023, p. 111 |
+| `use_3days_pct` | "3 days per week or more" use in % (second bar segment in the DNR 2017–2025 charts; empty where the report does not give it — 2012–2016, 2026, and most of 2022–2023) | `35` |
 
 ## Domain research
 
