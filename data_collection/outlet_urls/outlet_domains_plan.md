@@ -12,23 +12,22 @@
 
 ## Milestones
 
-### 1. Pre-fill domains from Wikidata
+### 1. Candidate domains from Wikidata (done 2026-11-27)
 
-- **What**: for each distinct `outlet_id`, find the Wikidata item and its official website (property P856). Store the item ID in a new `wikidata_qid` column and the website's registered domain in `domain` for *all* years of that outlet, marked as `domain_source = wikidata` so it is known to be unverified.
-- **How**: name search (`wbsearchentities`) per brand → keep candidates whose country (P17) matches and whose class is a media class (newspaper, news website, broadcaster, TV channel, radio station, magazine, periodical) → take P856, preferred rank first.
-- **Known limits** (tested 2026-10-27): about half of newspaper items have a website at all (Swiss newspapers: 44 of 100; worldwide: 11.6k of 52.7k). Dates on website statements are essentially absent (99 of 11.6k statements worldwide), so Wikidata only gives the *current* domain. Class labels are inconsistent (20 Minuten is "periodical literature"), and name matches are ambiguous ("Le Temps", "Blick", "Watson"), so the country filter is mandatory and matches still need a check in milestone 2. Generic categories ("local newspaper") get no item.
-- **Output**: `domain` and `wikidata_qid` pre-filled for roughly half the outlets; a list of unmatched outlets for milestone 2.
+- **What**: for each outlet, the Wikidata item, its official website (property P856) and earlier websites from the item and its edit history. Scripts `scripts/wikidata_prefill.py` and `scripts/wikidata_history.py`; outputs `wikidata_candidates.csv` and `wikidata_domain_history.csv`. Nothing is written to the yearly tables: the domains are candidates for milestone 2.
+- **Result**: website for 796 of 887 outlets; results and limits are in `extraction_report.md`, section 2.
 
-### 2. Agent search for the remaining outlets
+### 2. Agent search: all domains of each outlet, 2016–2026
 
-- **What**: an LLM agent with web search fills `domain` for outlets without a Wikidata website and sanity-checks the pre-filled ones (brand name vs. site name). A human only reviews what the agent flags and a random sample.
-- **How**: one agent task per outlet (brand, country, submarket, years listed, Wikidata candidate if any). The agent finds the current news website, applies the rules from `RA_instructions_outlets.md` (registered domain only, articles' domain not the brand portal, empty + note if no news website exists), and returns domain, the URL it relied on, a confidence level (`high` / `low`) and any hint of rebrands or domain changes. Mark `domain_source = agent`.
-- **Human review**: all `low`-confidence rows, all disagreements between agent and Wikidata, and a random 10% of the rest. If the error rate in the sample exceeds a few percent, review the country in full.
-- **Output**: `domain` filled (or deliberately empty with a note) for every outlet × year, `domain_evidence` URL per outlet; `added_domain` ticked in the checks file after review.
+- **What**: an LLM agent with web search establishes, for every outlet, **every registered domain under which it published news between 2016 and 2026**, with the years each one applied. One current domain per outlet is not enough: where it can be checked, about one in five Wikidata domains differs from the one the DNR printed, mostly because of rebrands and domain moves (`n24.de` → `welt.de`, `b.dk` → `berlingske.dk`, `rtvs.sk` → `stvr.sk`).
+- **Input per outlet**: brand names as printed, country, submarket, years listed in the DNR; the domains the DNR printed, by year; the Wikidata candidate (`wikidata_candidates.csv`: item, website, name similarity, country match, dissolution year); earlier websites from the item and its edit history (`wikidata_domain_history.csv`).
+- **How**: the agent (a) confirms or replaces the current domain, applying the rules from `RA_instructions_outlets.md` (registered domain only; the domain where articles are published, not the corporate or brand portal; empty + note if no news website exists); (b) searches for predecessors and successors: rebrands, mergers, closures and domain moves in the outlet's Wikipedia articles (local-language version first), the Wikidata history, and the Wayback Machine's capture history of each candidate domain; (c) returns one row per domain with first and last year of use, the URL it relied on and a confidence level (`high` / `low`).
+- **Output**: a registry `outlet_domains.csv` with one row per outlet × domain: `outlet_id`, `domain`, `valid_from`, `valid_to` (years, empty = open-ended), `domain_source` (`printed` / `wikidata` / `agent`), `domain_evidence` (URL), `confidence`, `notes`. The yearly `outlets_<year>.csv` get their `domain` column filled from this registry by year. Retrieval (milestone 5) uses every domain in the registry, each within its years plus a margin.
+- **Human review**: all `low`-confidence rows and all outlets where agent and Wikidata disagree on the current domain; a random 10% of the rest once, as an error-rate estimate.
 
 ### 3. Check domain existence per year via the Common Crawl columnar index
 
-- **What**: for each outlet × DNR year, confirm that the domain was crawled as a live site in that year and did not redirect elsewhere.
+- **What**: for each registry domain × year, confirm that the domain was crawled as a live site in that year and did not redirect elsewhere. This also tests the agent's `valid_from` / `valid_to`: a domain that starts redirecting to another registered domain marks a move, and the target is a successor the registry must contain.
 - **Source**: the CC-MAIN URL index in Parquet, `s3://commoncrawl/cc-index/table/cc-main/warc/` (us-east-1), partitioned by `crawl` and `subset`; about 110 crawls for 2016–2026. It is queried with Athena (or DuckDB/Spark on an EC2 instance) and needs an AWS account. The CDX API at `index.commoncrawl.org` is not used: it works one crawl at a time and timed out in tests (2026-11-27).
 - **How**: one query per crawl over the full domain registry: `WHERE url_host_registered_domain IN (<registry>)`, grouped by domain and `subset`, returning number of captures, number with `fetch_status = 200`, the most frequent `fetch_redirect` target outside the domain, and the most frequent `content_languages`. The `warc` subset holds successful fetches, `crawldiagnostics` holds redirects and errors. Results are stacked into `data_collection/data_checks/domain_crawl_index.csv` (domain × crawl) and aggregated to the calendar year of each DNR edition.
 - **Rules**: ≥1 capture with status 200 in the year → `exists`. Only redirects to another registered domain → `redirect`, and the target is recorded as candidate domain for that year. No captures in any crawl of the year → `missing`.
@@ -45,11 +44,11 @@
 
 ## Columns added to `outlets_<year>.csv` by this workstream
 
+Domains themselves live in the registry `outlet_domains.csv` (see milestone 2); the yearly tables carry the per-year result.
+
 | Column | Filled by | Values |
 |---|---|---|
-| `wikidata_qid` | M1 | QID or empty |
-| `domain_source` | M1/M2 | `wikidata`, `agent`, `manual`, `printed` |
-| `domain_evidence` | M2 | URL the agent relied on |
+| `domain` | M2 | filled per year from the registry `outlet_domains.csv` (outlet × domain × years) |
 | `ccmain_status` | M3 | `exists`, `redirect`, `missing` |
 | `ccmain_redirect_to` | M3 | registered domain or empty |
 | `ccmain_captures` | M3 | integer, status-200 captures in the DNR year |
